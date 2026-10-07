@@ -1,0 +1,89 @@
+# ===== Segredos e credenciais =====
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+id_rsa
+id_ed25519
+secrets.json
+secrets.yml
+secrets.yaml
+credentials.json
+service-account*.json
+firebase-adminsdk*.json
+*.keystore
+*.jks
+.aws/
+.npmrc
+.pypirc
+terraform.tfvars
+*.tfstate
+*.tfstate.*
+.idea/
+.idea
+
+# ===== Bancos de dados locais =====
+*.sqlite
+*.sqlite3
+*.db
+*.sql.gz
+dump.rdb
+
+# ===== Dependências =====
+node_modules/
+vendor/
+bower_components/
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# ===== Build e saída =====
+dist/
+build/
+out/
+.next/
+.nuxt/
+target/
+bin/
+obj/
+*.egg-info/
+coverage/
+.coverage
+
+# ===== Logs e temporários =====
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+tmp/
+temp/
+*.tmp
+*.cache
+
+# ===== Editores e IDEs =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===== Sistema operacional =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Uploads / dados locais =====
+uploads/
+storage/
+*.zip
+*.tar.gz

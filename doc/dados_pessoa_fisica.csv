@@ -1,0 +1,1001 @@
+cpf,nome,sexo,idade,profissao,renda_mensal,tempo_emprego_meses,comprometimento_renda,divida_ativa,score,qtd_atrasos_24m,max_dias_atraso,tempo_relacionamento_meses,tempo_residencia_anos,rua,bairro,qtd_filhos,garantia
+808.xyz.177-53,Ricardo Vieira Martins,M,47,Autônomo,1412.0,90,0.1053,6028.86,731,0,0,68,25,"Rua das Acácias, 170",Santo Amaro,0,Nenhuma
+186.xyz.784-00,Paulo Vieira Dias,M,42,Vendedor,3192.28,13,0.0955,7917.32,713,0,0,33,3,"Rua Marechal Deodoro, 2104",Pinheiros,1,Nenhuma
+603.xyz.249-60,Aline Alves Barbosa,F,44,Vendedor,2958.58,13,0.3026,26627.46,692,1,44,64,32,"Rua Santos Dumont, 87",Penha,2,Nenhuma
+236.xyz.903-15,Ana Andrade Pereira,F,44,Operador de produção,2859.03,48,0.3272,11950.49,675,1,50,64,2,"Avenida Brasil, 848",Santo Amaro,1,Nenhuma
+476.xyz.150-71,Paulo Carvalho Barbosa,M,51,Motorista,3254.6,46,0.4058,40056.16,627,0,0,52,3,"Rua Primavera, 1572",Vila Mariana,0,Nenhuma
+491.xyz.829-53,Beatriz Nascimento Santos,F,46,Enfermeiro,6731.34,5,0.5309,138914.86,794,0,0,132,6,"Avenida Paulista, 1362",Itaquera,2,Nenhuma
+533.xyz.932-55,Carolina Pereira Silva,F,38,Autônomo,3401.86,207,0.2849,43105.41,685,0,0,9,22,"Rua da Paz, 1587",Santana,0,Nenhuma
+088.xyz.357-04,Larissa Nunes Pereira,F,41,Servidor público,6577.98,71,0.2006,49293.54,722,0,0,69,8,"Rua Santos Dumont, 112",Tatuapé,2,Veículo
+559.xyz.314-05,Marcos Machado Dias,M,69,Aposentado,2997.49,0,0.055,2370.74,620,1,46,1,4,"Avenida Dom Pedro II, 1657",Santana,1,Nenhuma
+998.xyz.413-89,Larissa Lima Marques,F,39,Auxiliar administrativo,2807.64,29,0.1287,14259.51,671,0,0,12,6,"Rua São Paulo, 1065",Mooca,4,Nenhuma
+441.xyz.011-64,Bianca Moreira Pereira,F,22,Motorista,2150.24,72,0.4195,40307.48,622,0,0,11,0,"Rua Marechal Deodoro, 134",Lapa,0,Nenhuma
+360.xyz.929-94,Larissa Barbosa Nascimento,F,37,Operador de produção,2995.26,35,0.4941,32102.94,585,1,27,4,1,"Avenida Paulista, 2005",Vila Prudente,0,Nenhuma
+716.xyz.969-42,Vanessa Fernandes Fernandes,F,34,Vendedor,2833.98,62,0.1815,11027.66,691,0,0,37,3,"Rua Santos Dumont, 1202",Freguesia do Ó,1,Nenhuma
+818.xyz.797-85,Thiago Almeida Marques,M,46,Contador,6993.28,11,0.3615,25264.22,632,1,41,23,10,"Rua São Paulo, 2365",Vila Mariana,0,Nenhuma
+062.xyz.331-21,Fernando Soares Santos,M,29,Analista financeiro,10671.3,38,0.2184,54959.68,733,1,6,60,8,"Rua da Paz, 370",Vila Mariana,2,Nenhuma
+342.xyz.403-39,Mariana Martins Rocha,F,28,Desenvolvedor de software,7580.2,133,0.85,224325.71,695,0,0,24,5,"Avenida Dom Pedro II, 2296",Freguesia do Ó,3,Nenhuma
+986.xyz.228-05,Mariana Souza Costa,F,31,Comerciante,6210.65,4,0.1495,41075.57,727,0,0,86,0,"Rua XV de Novembro, 144",Butantã,1,Veículo
+728.xyz.130-90,Bianca Nunes Souza,F,51,Médico,20943.03,29,0.0913,90238.74,777,0,0,23,18,"Avenida das Nações, 459",Pinheiros,2,Veículo
+746.xyz.482-73,Renata Martins Lopes,F,40,Contador,8172.91,197,0.1407,13376.78,811,0,0,20,27,"Rua São Paulo, 1471",Vila Prudente,3,Aplicação financeira
+475.xyz.358-10,Matheus Santos Lima,M,49,Professor,3801.6,6,0.3247,26101.29,706,1,7,73,12,"Rua das Acácias, 1235",Centro,1,Nenhuma
+809.xyz.376-06,Pedro Oliveira Moreira,M,33,Auxiliar administrativo,2885.59,25,0.022,1987.34,602,0,0,30,5,"Avenida Brasil, 1763",Freguesia do Ó,0,Nenhuma
+029.xyz.212-02,Matheus Fernandes Gomes,M,40,Motorista,4028.29,28,0.3132,30553.75,644,0,0,13,5,"Rua Sete de Setembro, 1226",Santo Amaro,1,Nenhuma
+018.xyz.485-07,Luciana Carvalho Silva,F,27,Motorista,3257.44,88,0.0956,8183.37,734,1,74,108,5,"Avenida Dom Pedro II, 263",Centro,0,Nenhuma
+629.xyz.801-93,Daniel Nunes Fernandes,M,46,Vendedor,3667.16,6,0.3413,59125.59,719,1,20,200,6,"Avenida Dom Pedro II, 1831",Vila Formosa,1,Nenhuma
+582.xyz.200-24,Eduardo Lopes Marques,M,73,Aposentado,1962.46,0,0.1218,6101.89,705,1,18,39,12,"Rua das Acácias, 2382",Centro,2,Nenhuma
+927.xyz.125-60,Lucas Marques Vieira,M,41,Advogado,7404.58,36,0.2533,81809.07,722,1,38,45,0,"Rua Santos Dumont, 2165",Tatuapé,2,Nenhuma
+968.xyz.899-24,Ana Vieira Gomes,F,44,Advogado,23729.49,157,0.1764,89339.63,813,0,0,45,2,"Avenida das Nações, 1258",Itaquera,3,Imóvel
+576.xyz.995-09,Camila Gomes Nunes,F,21,Motorista,3319.09,60,0.1159,16441.07,733,0,0,36,5,"Rua Tiradentes, 639",Vila Formosa,0,Nenhuma
+008.xyz.708-00,Tatiane Pereira Nascimento,F,45,Vendedor,4574.73,101,0.0381,1525.75,827,0,0,170,5,"Rua Tiradentes, 1123",Tatuapé,1,Nenhuma
+327.xyz.404-37,Aline Carvalho Ribeiro,F,36,Atendente,2501.07,74,0.4771,23323.09,578,0,0,1,4,"Rua Bela Vista, 2160",Butantã,1,Nenhuma
+295.xyz.990-30,Gabriel Soares Santos,M,40,Vendedor,2959.51,7,0.653,80859.71,473,1,105,6,1,"Rua das Acácias, 1835",Vila Formosa,1,Nenhuma
+017.xyz.209-09,Felipe Lopes Nascimento,M,50,Analista financeiro,10593.7,23,0.0974,19929.42,684,1,4,11,0,"Rua das Flores, 1383",Santo Amaro,1,Nenhuma
+765.xyz.277-76,Renata Costa Souza,F,37,Comerciante,4507.77,28,0.3258,23075.38,559,1,61,9,1,"Rua da Paz, 375",Lapa,1,Nenhuma
+686.xyz.076-37,Larissa Marques Silva,F,39,Autônomo,2832.8,10,0.0626,7855.66,639,0,0,54,5,"Rua Rio Branco, 1335",Vila Formosa,1,Nenhuma
+340.xyz.540-53,Mariana Martins Oliveira,F,28,Comerciante,2883.69,24,0.3458,22510.88,768,0,0,34,3,"Rua Sete de Setembro, 845",Pinheiros,0,Nenhuma
+266.xyz.221-10,Bruno Dias Souza,M,41,Vendedor,1589.27,16,0.4215,11318.65,594,0,0,12,32,"Rua Santa Luzia, 782",Freguesia do Ó,1,Nenhuma
+957.xyz.384-58,Paulo Dias Nunes,M,72,Aposentado,2002.43,0,0.077,2565.3,683,0,0,6,1,"Avenida Brasil, 1900",Centro,2,Nenhuma
+908.xyz.524-89,Maria Ferreira Soares,F,34,Vendedor,1845.61,11,0.2663,8075.65,637,0,0,36,1,"Rua Bela Vista, 1324",Lapa,0,Nenhuma
+155.xyz.918-47,Débora Martins Costa,F,41,Vendedor,4030.78,121,0.1806,14200.55,760,0,0,8,5,"Rua Marechal Deodoro, 1854",Pinheiros,0,Nenhuma
+971.xyz.643-30,André Rodrigues Andrade,M,29,Operador de produção,3824.29,156,0.2863,52258.24,721,0,0,61,4,"Rua Sete de Setembro, 2304",Jabaquara,1,Nenhuma
+485.xyz.579-13,Rodrigo Rocha Rocha,M,24,Engenheiro,12566.56,96,0.4819,226991.07,705,3,16,42,2,"Avenida Paulista, 1048",Tatuapé,0,Imóvel
+471.xyz.699-49,Beatriz Gomes Barbosa,F,37,Professor,5172.25,50,0.1263,10690.77,755,0,0,47,18,"Rua Rio Branco, 507",Santo Amaro,0,Nenhuma
+983.xyz.999-88,Mariana Barbosa Dias,F,37,Analista financeiro,7995.28,64,0.1272,46096.08,757,1,20,52,9,"Avenida Paulista, 2108",Campo Limpo,1,Nenhuma
+718.xyz.761-14,Maria Rocha Machado,F,63,Gerente comercial,8446.46,19,0.278,30626.43,710,0,0,87,7,"Avenida Brasil, 975",Ipiranga,1,Nenhuma
+109.xyz.510-62,Aline Ferreira Marques,F,65,Atendente,2189.82,187,0.074,4730.57,745,0,0,6,5,"Rua Tiradentes, 1819",Mooca,3,Nenhuma
+431.xyz.050-37,Aline Lima Lima,F,43,Atendente,2529.72,33,0.4071,44808.9,653,0,0,21,10,"Rua XV de Novembro, 2",Vila Mariana,1,Nenhuma
+091.xyz.111-37,André Dias Oliveira,M,56,Contador,7875.93,23,0.2287,48944.67,672,1,59,244,10,"Rua das Flores, 2057",Vila Mariana,2,Aval
+150.xyz.462-26,Fernando Machado Andrade,M,44,Engenheiro,13190.53,65,0.1184,46539.21,930,0,0,151,11,"Rua Santa Luzia, 1047",Penha,0,Veículo
+532.xyz.136-29,Juliana Andrade Gomes,F,41,Atendente,2445.49,20,0.2857,9238.42,691,1,15,85,27,"Rua das Flores, 536",Campo Limpo,0,Nenhuma
+446.xyz.897-65,Rodrigo Ferreira Oliveira,M,35,Vendedor,2243.0,80,0.3516,35524.08,614,0,0,24,0,"Avenida Brasil, 2049",Butantã,0,Nenhuma
+078.xyz.364-06,Fernanda Machado Martins,F,45,Atendente,2058.73,63,0.0207,485.98,750,0,0,41,6,"Rua dos Pinheiros, 1079",Vila Formosa,2,Nenhuma
+952.xyz.915-20,Amanda Nunes Nascimento,F,19,Atendente,2323.98,36,0.174,5246.38,644,1,12,12,15,"Avenida Brasil, 1672",Santo Amaro,0,Nenhuma
+314.xyz.909-81,Eduardo Marques Andrade,M,30,Servidor público,7016.99,4,0.6729,29415.46,545,3,46,20,12,"Avenida das Nações, 2139",São Mateus,0,Aval
+854.xyz.166-64,Matheus Soares Marques,M,18,Atendente,2148.37,24,0.1552,5981.94,714,0,0,1,4,"Avenida Brasil, 942",Vila Formosa,0,Imóvel
+439.xyz.027-47,Juliana Santos Soares,F,23,Enfermeiro,5041.51,37,0.2725,58518.51,666,1,13,27,1,"Avenida Dom Pedro II, 755",Itaquera,1,Nenhuma
+917.xyz.968-66,Beatriz Santos Lima,F,40,Autônomo,10776.79,21,0.3994,60051.71,644,0,0,19,11,"Rua das Acácias, 2358",Jabaquara,1,Aplicação financeira
+500.xyz.229-59,Matheus Nascimento Lima,M,40,Técnico em TI,8663.5,22,0.0326,10962.02,795,0,0,179,8,"Rua Marechal Deodoro, 547",Pinheiros,0,Nenhuma
+969.xyz.715-69,Vanessa Marques Moreira,F,33,Motorista,3001.88,17,0.2965,37647.29,697,1,12,13,5,"Rua dos Pinheiros, 457",Jabaquara,1,Nenhuma
+690.xyz.276-47,Rafael Vieira Rodrigues,M,47,Atendente,2668.25,8,0.067,8536.17,801,0,0,165,1,"Rua Primavera, 128",Vila Prudente,0,Nenhuma
+852.xyz.131-54,Maria Carvalho Carvalho,F,33,Professor,5285.75,26,0.4013,45775.35,676,1,15,169,7,"Rua das Acácias, 1567",Mooca,2,Nenhuma
+275.xyz.044-70,Patrícia Nunes Rocha,F,20,Vendedor,2168.72,18,0.285,7534.43,611,0,0,5,5,"Rua XV de Novembro, 1955",Vila Prudente,1,Nenhuma
+409.xyz.608-40,Juliana Nascimento Ferreira,F,30,Autônomo,7269.22,13,0.2396,42545.75,601,0,0,14,2,"Rua Primavera, 2497",Ipiranga,0,Aval
+969.xyz.562-30,Carolina Moreira Andrade,F,48,Autônomo,7671.01,5,0.2265,68293.2,678,4,31,149,11,"Rua XV de Novembro, 425",Penha,1,Nenhuma
+904.xyz.277-43,Gustavo Santos Fernandes,M,21,Atendente,1715.83,11,0.2777,7565.77,590,0,0,17,3,"Rua Primavera, 1929",Vila Prudente,0,Nenhuma
+219.xyz.429-70,Gustavo Andrade Andrade,M,48,Auxiliar administrativo,1639.64,5,0.5469,12743.67,538,1,34,5,6,"Rua São João, 615",Santo Amaro,1,Nenhuma
+063.xyz.176-35,Ana Dias Machado,F,23,Professor,3824.31,36,0.3026,52821.09,777,0,0,6,17,"Rua dos Pinheiros, 1957",Mooca,1,Nenhuma
+835.xyz.583-34,Bruno Nunes Fernandes,M,54,Autônomo,5065.87,152,0.5204,112885.57,710,3,19,102,7,"Rua Marechal Deodoro, 1967",Santo Amaro,1,Nenhuma
+748.xyz.723-00,Gabriela Alves Dias,F,34,Engenheiro,7423.89,51,0.1602,27728.76,739,1,118,192,12,"Rua XV de Novembro, 1516",Santana,1,Nenhuma
+072.xyz.947-35,Simone Andrade Marques,F,25,Motorista,2574.41,34,0.288,12471.2,557,3,8,7,3,"Avenida Brasil, 1589",Pinheiros,1,Nenhuma
+409.xyz.158-70,Simone Almeida Oliveira,F,39,Professor,6443.08,44,0.1608,13579.62,837,0,0,157,7,"Rua Rio Branco, 1451",Vila Mariana,1,Veículo
+880.xyz.372-00,Maria Fernandes Ribeiro,F,34,Contador,4554.75,104,0.1734,32663.68,749,0,0,18,6,"Rua Bela Vista, 1722",Jabaquara,0,Nenhuma
+588.xyz.794-14,Juliana Lima Machado,F,43,Operador de produção,4544.97,49,0.1275,8892.4,841,0,0,67,3,"Avenida Dom Pedro II, 1248",Vila Mariana,2,Nenhuma
+437.xyz.025-22,Luciana Nunes Marques,F,24,Técnico em TI,7681.55,4,0.6218,72172.71,624,0,0,25,4,"Rua da Paz, 386",Vila Mariana,1,Nenhuma
+679.xyz.536-27,Bianca Rodrigues Ribeiro,F,33,Operador de produção,2661.04,134,0.5096,24475.8,669,0,0,18,3,"Rua Rio Branco, 2150",Lapa,0,Nenhuma
+594.xyz.795-85,Aline Ferreira Costa,F,44,Autônomo,6205.33,191,0.3079,44227.99,781,1,14,125,4,"Rua Sete de Setembro, 53",Santo Amaro,0,Aval
+661.xyz.617-46,Lucas Rodrigues Pereira,M,44,Motorista,3922.17,80,0.1422,22143.19,708,1,12,2,12,"Rua Sete de Setembro, 1498",Santo Amaro,0,Nenhuma
+366.xyz.082-19,Tatiane Carvalho Lopes,F,52,Professor,3176.88,12,0.066,8399.28,709,0,0,8,4,"Rua do Comércio, 1137",Mooca,0,Nenhuma
+896.xyz.551-25,Pedro Rodrigues Souza,M,48,Servidor público,9471.15,3,0.2402,66236.72,660,0,0,84,38,"Rua Tiradentes, 1849",Butantã,0,Nenhuma
+849.xyz.669-82,Fernando Rocha Ferreira,M,36,Professor,3242.37,39,0.0881,4296.6,624,1,52,25,1,"Avenida Dom Pedro II, 377",Ipiranga,0,Nenhuma
+364.xyz.240-94,Eduardo Vieira Moreira,M,59,Auxiliar administrativo,3023.14,5,0.263,9867.58,649,1,10,27,15,"Rua Tiradentes, 1536",Santana,4,Nenhuma
+177.xyz.999-65,Felipe Vieira Dias,M,54,Auxiliar administrativo,3347.34,8,0.3736,48619.48,623,1,46,55,1,"Rua Rio Branco, 106",Pinheiros,2,Nenhuma
+199.xyz.578-62,Daniel Lopes Lopes,M,49,Operador de produção,3178.25,134,0.2418,7539.45,724,0,0,17,3,"Rua Sete de Setembro, 1121",Mooca,2,Nenhuma
+363.xyz.522-59,Rodrigo Andrade Moreira,M,51,Técnico em TI,5166.1,59,0.2855,30851.85,745,0,0,7,5,"Rua das Flores, 2250",Lapa,0,Nenhuma
+432.xyz.221-62,Gustavo Santos Lopes,M,65,Vendedor,3471.85,54,0.3787,8669.03,618,1,5,30,27,"Rua São Paulo, 947",Lapa,4,Nenhuma
+347.xyz.610-64,Daniel Gomes Gomes,M,41,Auxiliar administrativo,2040.9,98,0.2662,13168.81,653,2,60,168,10,"Rua Tiradentes, 1925",Freguesia do Ó,0,Nenhuma
+842.xyz.173-65,Gabriela Soares Almeida,F,39,Auxiliar administrativo,2961.85,5,0.2121,15011.3,643,0,0,9,1,"Rua Primavera, 1414",Itaquera,0,Nenhuma
+005.xyz.063-00,Thiago Andrade Machado,M,64,Aposentado,2750.92,0,0.3124,9313.11,666,1,9,457,3,"Avenida Brasil, 1000",Campo Limpo,1,Nenhuma
+315.xyz.476-00,Paulo Pereira Ferreira,M,28,Operador de produção,3259.32,116,0.3764,13236.47,588,2,22,12,2,"Rua São João, 1478",Centro,1,Nenhuma
+363.xyz.659-78,Eduardo Oliveira Gomes,M,24,Engenheiro,8143.19,96,0.4505,78843.64,740,0,0,72,1,"Avenida das Nações, 43",Pinheiros,0,Veículo
+000.xyz.187-30,Diego Pereira Machado,M,31,Enfermeiro,6172.52,9,0.4972,83849.66,563,3,13,46,6,"Rua Primavera, 1221",Lapa,1,Nenhuma
+979.xyz.242-95,Rafael Nunes Gomes,M,26,Advogado,6022.61,120,0.5985,66907.13,674,0,0,80,4,"Rua Bela Vista, 2180",Lapa,0,Veículo
+223.xyz.111-36,Felipe Nascimento Almeida,M,48,Atendente,2630.44,99,0.5807,11255.32,705,0,0,59,5,"Rua do Comércio, 1051",Ipiranga,1,Nenhuma
+003.xyz.587-20,Renata Rodrigues Costa,F,40,Autônomo,4842.72,116,0.2203,38826.49,904,0,0,115,6,"Rua XV de Novembro, 1176",Itaquera,1,Nenhuma
+018.xyz.514-72,Beatriz Pereira Nascimento,F,37,Enfermeiro,7985.09,5,0.359,61338.44,713,1,12,73,0,"Rua Tiradentes, 2417",São Mateus,1,Imóvel
+276.xyz.382-26,Carlos Martins Rodrigues,M,31,Auxiliar administrativo,2593.52,180,0.7043,56621.61,601,2,4,8,1,"Rua XV de Novembro, 1317",Vila Prudente,0,Nenhuma
+971.xyz.862-88,Aline Moreira Gomes,F,54,Servidor público,6090.17,58,0.5198,35458.14,709,0,0,81,5,"Avenida das Nações, 148",Vila Formosa,0,Aval
+366.xyz.277-46,Luciana Moreira Soares,F,44,Operador de produção,2743.9,59,0.096,2122.94,690,0,0,17,12,"Rua Primavera, 2366",Itaquera,2,Nenhuma
+352.xyz.713-98,Leonardo Dias Oliveira,M,33,Motorista,1635.85,95,0.0464,1533.53,628,0,0,4,10,"Rua Sete de Setembro, 402",Pinheiros,0,Nenhuma
+786.xyz.667-64,Simone Costa Almeida,F,21,Motorista,3866.82,44,0.0861,14350.27,679,0,0,21,9,"Rua da Paz, 1243",Vila Formosa,0,Nenhuma
+837.xyz.419-98,Camila Andrade Santos,F,27,Servidor público,6022.64,68,0.0865,8087.47,743,0,0,67,5,"Rua São Paulo, 124",Campo Limpo,0,Imóvel
+416.xyz.552-06,Débora Pereira Fernandes,F,39,Analista financeiro,10208.0,8,0.2338,48376.16,770,0,0,96,7,"Rua Bela Vista, 273",Jabaquara,1,Aval
+162.xyz.911-20,Simone Gomes Pereira,F,43,Médico,22152.22,86,0.4554,338051.08,688,1,22,2,15,"Rua São Paulo, 952",Centro,2,Imóvel
+448.xyz.774-89,André Gomes Oliveira,M,36,Vendedor,2456.1,25,0.3096,13996.18,629,1,15,7,4,"Rua das Flores, 255",Mooca,0,Nenhuma
+753.xyz.629-25,Leonardo Nascimento Alves,M,24,Engenheiro,10648.57,96,0.018,0.0,815,2,9,61,21,"Rua São João, 1472",Ipiranga,0,Imóvel
+283.xyz.992-10,Tatiane Lopes Fernandes,F,28,Enfermeiro,4250.07,8,0.2222,34594.05,703,1,86,49,2,"Rua das Acácias, 1023",Vila Prudente,1,Nenhuma
+147.xyz.036-30,Juliana Dias Alves,F,36,Autônomo,4097.06,46,0.0647,6028.91,717,0,0,52,6,"Rua Marechal Deodoro, 1457",São Mateus,1,Nenhuma
+583.xyz.568-59,Gabriel Oliveira Soares,M,51,Operador de produção,4537.41,38,0.5187,82198.31,565,1,20,17,1,"Rua da Paz, 184",Penha,5,Nenhuma
+150.xyz.547-39,Carlos Andrade Souza,M,27,Autônomo,3391.55,132,0.2952,11752.92,721,0,0,43,6,"Rua Sete de Setembro, 143",Itaquera,1,Veículo
+565.xyz.467-89,Fernando Oliveira Soares,M,41,Auxiliar administrativo,3706.26,116,0.3008,40592.13,686,1,52,50,10,"Rua São Paulo, 1533",Vila Mariana,0,Nenhuma
+233.xyz.267-15,Aline Silva Oliveira,F,39,Servidor público,7053.11,51,0.2593,30922.24,757,0,0,23,15,"Avenida Dom Pedro II, 1446",Campo Limpo,0,Aplicação financeira
+635.xyz.910-23,Bruno Lopes Andrade,M,24,Auxiliar administrativo,1740.74,96,0.0532,794.16,735,0,0,60,12,"Rua das Flores, 503",São Mateus,0,Nenhuma
+845.xyz.763-90,Fernando Ribeiro Santos,M,19,Auxiliar administrativo,2385.35,36,0.4446,39282.22,547,1,32,12,19,"Rua Primavera, 2383",Jabaquara,0,Nenhuma
+941.xyz.946-10,Carlos Almeida Costa,M,31,Auxiliar administrativo,2852.58,139,0.3112,21410.86,589,1,91,5,1,"Avenida Dom Pedro II, 537",Santana,1,Nenhuma
+353.xyz.324-39,Juliana Ribeiro Ribeiro,F,46,Vendedor,2188.07,285,0.1027,6343.15,692,0,0,2,6,"Rua das Flores, 1231",Campo Limpo,1,Nenhuma
+504.xyz.678-44,Lucas Barbosa Souza,M,57,Vendedor,5540.59,59,0.2758,73169.29,752,0,0,99,2,"Avenida Brasil, 1292",Itaquera,2,Nenhuma
+529.xyz.967-53,Eduardo Souza Martins,M,52,Vendedor,4602.5,8,0.3679,51988.2,683,0,0,78,15,"Rua Bela Vista, 1844",Santana,0,Nenhuma
+615.xyz.691-83,Ana Nunes Alves,F,18,Auxiliar administrativo,1652.62,24,0.2779,5717.89,572,1,55,1,7,"Avenida das Nações, 1640",Santo Amaro,0,Nenhuma
+681.xyz.707-46,Juliana Rocha Soares,F,27,Motorista,3811.37,93,0.1316,20278.76,705,0,0,25,3,"Rua Primavera, 482",Vila Mariana,0,Nenhuma
+655.xyz.772-80,Camila Carvalho Santos,F,39,Técnico em TI,3774.36,248,0.1263,4822.93,672,1,19,56,3,"Rua Santa Luzia, 794",Campo Limpo,1,Aval
+321.xyz.769-73,Gustavo Martins Barbosa,M,44,Motorista,4763.61,7,0.0249,2044.42,652,1,40,5,2,"Rua das Flores, 754",Tatuapé,1,Veículo
+522.xyz.121-02,Vanessa Nunes Costa,F,38,Servidor público,8123.13,230,0.2621,67744.72,865,0,0,113,3,"Rua Santos Dumont, 799",Pinheiros,2,Veículo
+793.xyz.183-33,Rodrigo Nunes Ribeiro,M,62,Vendedor,3977.23,5,0.3829,51308.05,607,2,6,54,7,"Rua da Paz, 323",Ipiranga,4,Nenhuma
+044.xyz.768-43,Maria Pereira Oliveira,F,37,Atendente,2535.78,22,0.0649,3074.92,695,0,0,65,4,"Rua Santa Luzia, 2494",Penha,1,Nenhuma
+460.xyz.182-08,Fernanda Nunes Gomes,F,52,Operador de produção,4117.27,57,0.2274,7850.96,755,1,3,43,2,"Rua Sete de Setembro, 842",Centro,4,Aval
+508.xyz.661-75,Leonardo Lima Gomes,M,31,Vendedor,1899.84,10,0.1017,6033.57,687,0,0,4,6,"Rua Rio Branco, 1398",Santo Amaro,0,Nenhuma
+462.xyz.255-04,Eduardo Gomes Santos,M,48,Comerciante,5228.63,32,0.1721,10815.09,758,0,0,138,4,"Rua São João, 1413",Mooca,1,Imóvel
+236.xyz.038-93,Simone Lopes Dias,F,29,Servidor público,7727.22,65,0.1152,34915.0,723,0,0,32,0,"Rua Santa Luzia, 1348",Vila Formosa,0,Nenhuma
+689.xyz.721-10,Gustavo Lima Barbosa,M,39,Vendedor,2134.14,4,0.2859,28112.0,748,0,0,115,5,"Avenida Brasil, 2205",Vila Prudente,1,Nenhuma
+048.xyz.419-85,Felipe Pereira Nascimento,M,45,Comerciante,2022.36,19,0.1741,2747.61,617,0,0,4,7,"Avenida das Nações, 862",Santo Amaro,0,Nenhuma
+140.xyz.436-19,Gabriel Marques Marques,M,34,Analista financeiro,10653.08,58,0.2738,29041.81,721,0,0,27,7,"Rua Rio Branco, 1822",Vila Prudente,1,Nenhuma
+781.xyz.330-31,Larissa Alves Carvalho,F,66,Aposentado,1646.33,0,0.3951,5857.37,577,3,17,37,0,"Rua da Paz, 1085",Vila Formosa,2,Nenhuma
+631.xyz.546-56,Juliana Nascimento Lopes,F,39,Autônomo,7032.91,22,0.1815,35785.72,770,1,18,52,15,"Rua Marechal Deodoro, 1989",Mooca,0,Nenhuma
+331.xyz.850-89,Tatiane Dias Gomes,F,18,Auxiliar administrativo,1733.1,24,0.557,19830.23,491,2,20,1,2,"Rua Santos Dumont, 2138",Centro,0,Nenhuma
+460.xyz.980-38,Bruno Almeida Rocha,M,43,Auxiliar administrativo,4621.32,66,0.1559,12448.82,758,0,0,9,25,"Rua Rio Branco, 276",Vila Mariana,2,Nenhuma
+046.xyz.008-00,Larissa Vieira Andrade,F,40,Autônomo,5192.19,69,0.2903,41407.35,763,0,0,56,22,"Rua Santa Luzia, 2152",Ipiranga,0,Nenhuma
+432.xyz.083-88,Marcos Vieira Souza,M,42,Vendedor,2172.73,68,0.0056,0.0,792,0,0,79,20,"Avenida Brasil, 2197",Mooca,1,Imóvel
+706.xyz.379-30,João Barbosa Barbosa,M,20,Operador de produção,1908.66,48,0.1187,5650.74,631,1,5,1,0,"Rua Marechal Deodoro, 1098",Itaquera,1,Nenhuma
+456.xyz.827-59,Ricardo Lopes Carvalho,M,34,Técnico em TI,3056.6,136,0.5577,63901.97,589,2,19,45,9,"Rua Rio Branco, 1895",Pinheiros,0,Aval
+468.xyz.375-90,Rodrigo Andrade Nunes,M,37,Técnico em TI,5267.36,50,0.6886,161757.22,588,2,36,42,5,"Rua da Paz, 1081",Butantã,2,Nenhuma
+899.xyz.848-32,Matheus Rodrigues Costa,M,31,Professor,4418.47,47,0.2158,27508.57,598,1,10,5,3,"Rua Primavera, 1383",Santana,1,Nenhuma
+217.xyz.384-16,Gabriel Almeida Pereira,M,22,Autônomo,4620.75,72,0.1306,25443.58,779,0,0,48,11,"Rua Santa Luzia, 806",Vila Prudente,0,Nenhuma
+258.xyz.924-61,Gabriel Nascimento Ribeiro,M,48,Desenvolvedor de software,10723.2,24,0.2188,93521.13,750,0,0,77,18,"Rua Tiradentes, 717",Penha,3,Nenhuma
+256.xyz.418-07,João Almeida Machado,M,37,Servidor público,6676.33,38,0.0381,5432.52,762,0,0,43,6,"Rua dos Pinheiros, 1671",Pinheiros,1,Nenhuma
+667.xyz.322-83,Gabriela Moreira Ferreira,F,29,Contador,10942.65,23,0.3129,60316.03,707,0,0,9,10,"Rua dos Pinheiros, 2148",Freguesia do Ó,0,Veículo
+383.xyz.203-87,Matheus Ferreira Nunes,M,44,Vendedor,3669.01,31,0.4419,24108.73,682,0,0,43,16,"Rua São Paulo, 1976",Vila Formosa,0,Nenhuma
+527.xyz.250-90,Amanda Gomes Nunes,F,32,Motorista,6340.89,17,0.5655,78960.04,601,0,0,48,6,"Rua Bela Vista, 62",Centro,0,Imóvel
+277.xyz.257-30,Gustavo Moreira Oliveira,M,50,Técnico em TI,4822.65,20,0.722,127689.83,516,4,53,58,5,"Avenida Brasil, 1892",Itaquera,3,Nenhuma
+580.xyz.417-65,Patrícia Nunes Martins,F,32,Técnico em TI,7928.81,30,0.3715,106388.96,662,0,0,16,1,"Rua Primavera, 1162",Pinheiros,0,Veículo
+260.xyz.960-05,Thiago Pereira Pereira,M,43,Servidor público,4280.82,34,0.2124,29542.91,661,3,60,6,1,"Rua Bela Vista, 2090",Santana,0,Nenhuma
+551.xyz.146-90,Beatriz Alves Gomes,F,23,Servidor público,6504.75,32,0.1808,39108.62,670,1,12,25,1,"Avenida das Nações, 1574",Jabaquara,0,Veículo
+564.xyz.454-19,Camila Nascimento Marques,F,52,Vendedor,3269.37,80,0.6017,14370.78,559,2,24,24,3,"Rua Santa Luzia, 726",Vila Mariana,1,Nenhuma
+022.xyz.467-92,Fernando Barbosa Machado,M,35,Autônomo,5514.83,95,0.3617,35232.29,709,0,0,28,8,"Rua dos Pinheiros, 204",Centro,2,Nenhuma
+610.xyz.759-66,Ricardo Silva Moreira,M,26,Operador de produção,2266.26,61,0.0273,2961.81,713,0,0,9,12,"Rua Bela Vista, 1782",São Mateus,0,Nenhuma
+514.xyz.772-94,Marcos Machado Alves,M,58,Aposentado,2097.98,0,0.1385,9307.85,731,0,0,88,8,"Avenida Dom Pedro II, 262",Pinheiros,0,Nenhuma
+132.xyz.352-89,Priscila Oliveira Nascimento,F,39,Comerciante,12058.67,53,0.2499,101669.69,709,0,0,41,13,"Avenida Dom Pedro II, 1868",Vila Formosa,0,Nenhuma
+327.xyz.821-04,Gabriel Oliveira Nunes,M,21,Técnico em TI,4712.44,5,0.1799,11697.47,635,0,0,29,4,"Rua dos Pinheiros, 837",Santo Amaro,0,Aval
+519.xyz.506-88,Simone Dias Rocha,F,18,Auxiliar administrativo,1750.27,24,0.3082,5283.63,605,1,20,1,6,"Rua XV de Novembro, 2273",Centro,0,Nenhuma
+847.xyz.672-05,Juliana Barbosa Carvalho,F,34,Contador,5646.33,32,0.4193,22228.49,630,0,0,52,3,"Rua das Acácias, 2362",São Mateus,0,Veículo
+434.xyz.294-42,Carlos Lima Lopes,M,18,Vendedor,2230.52,16,0.4318,15916.21,517,1,30,1,3,"Rua Tiradentes, 1744",Jabaquara,0,Nenhuma
+491.xyz.446-04,Larissa Vieira Nunes,F,53,Enfermeiro,6636.37,74,0.4464,132814.16,635,1,24,4,6,"Rua Marechal Deodoro, 792",São Mateus,2,Nenhuma
+910.xyz.464-08,Marcos Lima Marques,M,28,Atendente,1681.79,66,0.166,3798.3,665,0,0,7,7,"Rua do Comércio, 147",Mooca,0,Nenhuma
+163.xyz.425-59,Carolina Rodrigues Costa,F,50,Motorista,2770.68,8,0.1821,6979.89,744,0,0,73,6,"Rua Tiradentes, 1098",Vila Prudente,1,Nenhuma
+845.xyz.677-26,Marcos Lima Nunes,M,44,Auxiliar administrativo,4274.14,151,0.4461,36904.21,558,3,36,16,3,"Rua Primavera, 126",Lapa,2,Imóvel
+453.xyz.750-71,Anderson Rodrigues Almeida,M,36,Auxiliar administrativo,1834.14,35,0.2751,17659.33,672,0,0,23,7,"Rua das Flores, 1027",Campo Limpo,1,Nenhuma
+599.xyz.177-35,Pedro Barbosa Martins,M,38,Motorista,3700.63,116,0.24,41207.48,664,2,48,41,11,"Avenida Brasil, 2203",Butantã,0,Nenhuma
+079.xyz.605-70,Thiago Carvalho Nunes,M,62,Autônomo,4290.14,6,0.2444,10798.3,679,0,0,17,0,"Rua dos Pinheiros, 1861",Tatuapé,3,Aplicação financeira
+604.xyz.705-04,Priscila Alves Gomes,F,47,Professor,4050.35,52,0.2728,47131.69,691,1,26,77,2,"Rua Sete de Setembro, 1216",Pinheiros,2,Nenhuma
+608.xyz.599-36,Tatiane Martins Lopes,F,32,Engenheiro,17920.39,76,0.0309,11246.44,801,0,0,73,7,"Rua Santa Luzia, 1449",Santo Amaro,0,Aplicação financeira
+167.xyz.919-76,Tatiane Martins Pereira,F,25,Autônomo,3208.72,48,0.1932,14258.05,739,1,11,84,20,"Rua São Paulo, 2493",Tatuapé,2,Nenhuma
+790.xyz.872-00,Bianca Nunes Soares,F,43,Auxiliar administrativo,2147.71,18,0.56,57595.22,640,1,4,60,1,"Rua Santa Luzia, 1959",Vila Formosa,1,Nenhuma
+602.xyz.755-46,João Martins Fernandes,M,42,Servidor público,12715.58,41,0.1399,73417.63,653,1,45,23,5,"Rua Marechal Deodoro, 2237",Mooca,1,Aplicação financeira
+968.xyz.513-72,Lucas Barbosa Lopes,M,25,Motorista,2424.53,56,0.5097,43305.84,690,2,8,84,1,"Rua Bela Vista, 1951",Vila Prudente,1,Nenhuma
+535.xyz.155-69,Gabriel Rocha Martins,M,49,Operador de produção,3116.0,8,0.2227,10723.08,608,0,0,67,2,"Rua XV de Novembro, 306",Freguesia do Ó,1,Nenhuma
+436.xyz.216-53,Anderson Alves Vieira,M,27,Atendente,2631.74,87,0.1563,18350.92,703,0,0,9,9,"Rua Santa Luzia, 2354",Freguesia do Ó,1,Nenhuma
+323.xyz.402-47,Mariana Marques Silva,F,36,Auxiliar administrativo,3067.0,47,0.1187,6895.29,690,2,21,116,7,"Avenida Paulista, 384",São Mateus,1,Nenhuma
+618.xyz.369-87,Simone Lopes Souza,F,36,Professor,4009.17,50,0.2217,7010.47,646,1,17,2,28,"Rua da Paz, 2239",Penha,2,Nenhuma
+958.xyz.710-98,Paulo Nunes Pereira,M,45,Contador,4762.07,38,0.1095,20128.29,727,0,0,16,6,"Rua Santa Luzia, 41",Pinheiros,3,Nenhuma
+915.xyz.648-60,Larissa Silva Carvalho,F,39,Autônomo,3875.73,103,0.1095,8278.53,766,0,0,41,9,"Rua Santa Luzia, 1543",Freguesia do Ó,0,Nenhuma
+901.xyz.641-46,Camila Rocha Oliveira,F,41,Atendente,2951.72,17,0.5329,41249.09,658,1,34,84,9,"Rua das Acácias, 1311",Penha,1,Nenhuma
+972.xyz.955-61,Bianca Ferreira Pereira,F,38,Desenvolvedor de software,7452.99,74,0.2721,72095.94,645,1,18,1,7,"Avenida Paulista, 216",São Mateus,0,Aplicação financeira
+024.xyz.842-20,Fernanda Barbosa Costa,F,40,Autônomo,2490.91,9,0.287,30821.72,716,0,0,42,1,"Rua Sete de Setembro, 2289",Santana,4,Nenhuma
+455.xyz.226-23,Bruno Martins Fernandes,M,21,Servidor público,6986.14,59,0.233,55918.42,755,0,0,36,12,"Rua São Paulo, 1883",Jabaquara,0,Veículo
+403.xyz.691-32,Tatiane Almeida Souza,F,45,Contador,5530.19,3,0.1775,13139.34,635,0,0,36,2,"Rua XV de Novembro, 1877",Santana,1,Imóvel
+386.xyz.439-58,Carolina Ferreira Andrade,F,37,Autônomo,1412.0,97,0.0843,3611.15,817,0,0,147,2,"Rua das Flores, 2142",Santana,1,Nenhuma
+433.xyz.142-11,Eduardo Vieira Souza,M,38,Vendedor,3375.47,36,0.2476,21572.18,660,0,0,36,0,"Avenida Dom Pedro II, 2221",Freguesia do Ó,3,Nenhuma
+729.xyz.737-25,Daniel Machado Martins,M,31,Operador de produção,3459.5,5,0.3468,24573.91,627,1,16,2,10,"Rua Marechal Deodoro, 626",Penha,1,Nenhuma
+563.xyz.912-00,Leonardo Dias Ribeiro,M,30,Operador de produção,4104.71,112,0.1872,29751.12,846,0,0,117,8,"Avenida Dom Pedro II, 74",Pinheiros,1,Imóvel
+062.xyz.049-86,Thiago Nascimento Nunes,M,30,Técnico em TI,8177.89,18,0.2012,55413.42,791,0,0,88,6,"Rua das Flores, 1972",Vila Mariana,0,Nenhuma
+685.xyz.124-85,Rodrigo Carvalho Oliveira,M,43,Motorista,2807.59,117,0.3098,16758.39,697,0,0,48,8,"Rua das Flores, 791",Ipiranga,0,Nenhuma
+379.xyz.819-80,Ricardo Machado Rocha,M,30,Atendente,2598.55,168,0.3184,22358.75,683,1,32,12,25,"Rua dos Pinheiros, 2104",Vila Formosa,0,Nenhuma
+417.xyz.370-11,Simone Ferreira Soares,F,30,Operador de produção,4084.47,24,0.1594,15637.17,642,0,0,25,0,"Rua Marechal Deodoro, 799",Mooca,0,Aplicação financeira
+257.xyz.725-50,Ana Souza Marques,F,36,Professor,4275.16,13,0.4378,29931.42,578,1,14,40,5,"Rua Tiradentes, 804",Pinheiros,0,Nenhuma
+777.xyz.818-50,Amanda Soares Rodrigues,F,50,Analista financeiro,9777.18,74,0.2636,67511.03,701,0,0,14,1,"Rua Santos Dumont, 356",Butantã,3,Nenhuma
+586.xyz.826-66,Renata Gomes Moreira,F,43,Vendedor,1716.18,22,0.2658,10550.53,682,0,0,40,7,"Rua Bela Vista, 802",Butantã,1,Nenhuma
+522.xyz.896-35,Marcos Almeida Dias,M,32,Contador,6879.92,53,0.3925,127770.81,618,2,18,21,5,"Rua XV de Novembro, 2345",Penha,1,Nenhuma
+689.xyz.045-37,André Almeida Alves,M,50,Atendente,2587.01,19,0.1835,15232.49,685,0,0,53,5,"Rua XV de Novembro, 1920",Vila Formosa,0,Nenhuma
+919.xyz.563-70,Matheus Oliveira Nunes,M,43,Motorista,4109.86,55,0.2032,29698.61,688,0,0,67,2,"Rua XV de Novembro, 1301",Jabaquara,0,Nenhuma
+385.xyz.363-90,Gustavo Fernandes Rodrigues,M,41,Auxiliar administrativo,2495.81,115,0.4688,21334.3,724,1,49,118,4,"Rua Primavera, 1972",Lapa,0,Nenhuma
+421.xyz.889-06,Felipe Rocha Soares,M,35,Auxiliar administrativo,2152.37,8,0.2766,9590.44,694,0,0,49,3,"Rua Sete de Setembro, 1600",Santo Amaro,0,Nenhuma
+253.xyz.249-73,Patrícia Nunes Ribeiro,F,56,Técnico em TI,7216.47,17,0.1646,53110.3,865,0,0,123,12,"Avenida Dom Pedro II, 1494",Santo Amaro,1,Veículo
+834.xyz.050-56,Patrícia Ribeiro Carvalho,F,18,Vendedor,2881.0,19,0.1807,23619.08,659,0,0,1,2,"Rua Tiradentes, 2252",Jabaquara,0,Nenhuma
+904.xyz.531-04,Débora Machado Moreira,F,43,Técnico em TI,6027.06,185,0.3664,70029.29,693,2,26,24,3,"Rua dos Pinheiros, 649",Itaquera,0,Nenhuma
+055.xyz.233-43,Mariana Soares Santos,F,23,Professor,4770.68,84,0.0838,3069.57,717,0,0,25,5,"Rua Marechal Deodoro, 195",Campo Limpo,0,Nenhuma
+532.xyz.836-80,Larissa Soares Nunes,F,46,Motorista,2052.11,34,0.3295,32202.13,601,1,30,3,1,"Rua Rio Branco, 2096",Jabaquara,0,Nenhuma
+762.xyz.161-07,Débora Marques Santos,F,49,Vendedor,2405.59,3,0.199,3328.58,739,0,0,89,10,"Rua Santos Dumont, 274",Santo Amaro,1,Nenhuma
+793.xyz.236-48,Carolina Pereira Gomes,F,41,Desenvolvedor de software,11371.04,23,0.2133,22006.57,673,0,0,21,16,"Rua das Flores, 840",Santana,0,Nenhuma
+713.xyz.652-53,Lucas Carvalho Oliveira,M,25,Técnico em TI,3836.31,59,0.1732,15311.95,735,0,0,70,5,"Avenida Brasil, 2432",Santana,0,Nenhuma
+354.xyz.832-67,Marcos Nunes Pereira,M,33,Professor,4424.58,19,0.4005,75814.97,641,1,9,3,18,"Rua das Flores, 1829",Santana,0,Nenhuma
+835.xyz.645-53,Tatiane Souza Nunes,F,28,Enfermeiro,5410.91,144,0.4257,43101.36,681,2,4,49,2,"Rua Santos Dumont, 984",Butantã,1,Nenhuma
+263.xyz.009-03,Gabriela Machado Soares,F,73,Aposentado,2967.3,0,0.2496,13207.66,634,0,0,6,3,"Rua das Flores, 1017",Freguesia do Ó,3,Nenhuma
+676.xyz.283-56,Thiago Oliveira Nascimento,M,30,Autônomo,3108.13,6,0.1321,5236.82,722,0,0,38,30,"Rua Tiradentes, 106",Jabaquara,0,Nenhuma
+246.xyz.179-07,Priscila Soares Andrade,F,18,Auxiliar administrativo,3226.4,24,0.2455,24564.6,726,0,0,1,8,"Rua Bela Vista, 2211",Lapa,0,Nenhuma
+744.xyz.543-03,Patrícia Ribeiro Costa,F,48,Autônomo,4286.88,128,0.3139,47451.02,707,1,30,53,2,"Rua Marechal Deodoro, 2445",Centro,1,Veículo
+477.xyz.019-99,Lucas Martins Fernandes,M,49,Operador de produção,2831.49,5,0.3572,15690.44,591,1,25,48,3,"Rua Bela Vista, 370",Centro,1,Nenhuma
+418.xyz.942-34,Daniel Costa Machado,M,36,Autônomo,5147.15,81,0.5361,27199.68,669,1,6,33,29,"Rua XV de Novembro, 2066",Lapa,2,Nenhuma
+417.xyz.560-99,Gustavo Lopes Vieira,M,54,Auxiliar administrativo,4911.83,29,0.1849,9673.57,829,0,0,130,15,"Rua das Acácias, 1581",Jabaquara,0,Aval
+232.xyz.320-74,Leonardo Marques Nascimento,M,36,Engenheiro,10176.91,133,0.2611,61931.17,761,1,6,1,1,"Rua do Comércio, 637",São Mateus,0,Aplicação financeira
+122.xyz.602-28,Leonardo Almeida Fernandes,M,33,Contador,6463.0,63,0.6146,55990.41,730,0,0,55,2,"Rua Santos Dumont, 2288",Campo Limpo,1,Nenhuma
+976.xyz.482-60,Gabriel Ferreira Souza,M,18,Autônomo,6151.75,24,0.4859,138697.78,632,2,13,1,17,"Rua da Paz, 161",Santana,0,Nenhuma
+680.xyz.883-53,Leonardo Rodrigues Alves,M,44,Comerciante,3749.22,65,0.2176,10244.43,700,0,0,20,9,"Rua das Flores, 321",Vila Mariana,1,Nenhuma
+804.xyz.495-40,Renata Vieira Alves,F,51,Desenvolvedor de software,12543.01,44,0.0365,13973.41,791,0,0,139,3,"Rua dos Pinheiros, 169",Santana,2,Aval
+523.xyz.690-16,Carolina Nunes Almeida,F,39,Técnico em TI,4021.91,140,0.1087,17973.52,776,0,0,96,1,"Rua Santos Dumont, 1519",Pinheiros,1,Nenhuma
+080.xyz.198-40,Renata Dias Oliveira,F,44,Operador de produção,2652.22,61,0.2271,23778.41,625,1,138,8,1,"Avenida Brasil, 1112",Freguesia do Ó,1,Nenhuma
+265.xyz.951-12,Fernanda Costa Costa,F,28,Vendedor,3343.74,52,0.294,16515.29,606,2,13,84,6,"Rua da Paz, 1445",Santana,0,Nenhuma
+850.xyz.080-20,Beatriz Costa Andrade,F,40,Atendente,1827.5,15,0.2129,11067.82,596,2,9,4,1,"Rua da Paz, 1896",Jabaquara,0,Nenhuma
+978.xyz.349-78,Ana Ribeiro Nascimento,F,43,Autônomo,7128.57,170,0.1945,14163.08,781,1,4,75,29,"Avenida Paulista, 747",Mooca,1,Nenhuma
+649.xyz.073-50,Leonardo Moreira Souza,M,33,Comerciante,12401.54,43,0.0941,40339.55,767,0,0,63,21,"Rua Santa Luzia, 1899",Santana,0,Nenhuma
+667.xyz.780-06,Patrícia Oliveira Gomes,F,44,Vendedor,1748.03,10,0.6109,39879.91,570,2,9,2,8,"Rua das Acácias, 2488",São Mateus,2,Nenhuma
+876.xyz.565-54,Fernanda Carvalho Souza,F,21,Motorista,2936.11,31,0.0419,5422.81,699,0,0,10,21,"Avenida Paulista, 1817",São Mateus,0,Nenhuma
+072.xyz.736-51,Gabriela Andrade Costa,F,33,Desenvolvedor de software,9350.05,167,0.2137,82926.62,811,1,6,89,8,"Rua Santos Dumont, 746",Vila Formosa,1,Nenhuma
+569.xyz.092-34,Felipe Vieira Fernandes,M,18,Auxiliar administrativo,2145.26,13,0.2511,24529.32,522,0,0,1,5,"Rua dos Pinheiros, 109",Jabaquara,0,Nenhuma
+514.xyz.107-92,Débora Soares Vieira,F,37,Técnico em TI,14155.29,4,0.0897,41607.52,643,0,0,9,5,"Rua da Paz, 703",Tatuapé,1,Veículo
+285.xyz.778-91,Rafael Alves Carvalho,M,76,Aposentado,1755.45,0,0.3936,4945.48,570,1,47,2,2,"Rua Bela Vista, 670",São Mateus,2,Nenhuma
+415.xyz.682-70,Vanessa Souza Fernandes,F,36,Operador de produção,3797.44,11,0.4719,32799.71,649,1,39,76,0,"Rua das Flores, 285",Santo Amaro,0,Nenhuma
+548.xyz.268-02,Camila Andrade Lima,F,34,Motorista,3391.09,34,0.3077,8761.2,689,1,22,40,27,"Avenida Dom Pedro II, 213",Vila Mariana,2,Nenhuma
+069.xyz.286-67,Eduardo Lima Lima,M,34,Auxiliar administrativo,1617.31,7,0.1048,4829.62,548,2,14,15,1,"Avenida Paulista, 1561",Butantã,1,Nenhuma
+501.xyz.983-20,Amanda Lopes Santos,F,48,Atendente,2919.95,9,0.3025,22197.26,653,0,0,31,11,"Avenida das Nações, 240",São Mateus,2,Nenhuma
+209.xyz.491-64,Gustavo Machado Barbosa,M,37,Auxiliar administrativo,1924.3,15,0.168,3524.8,704,1,12,12,15,"Rua Santa Luzia, 1849",Tatuapé,4,Nenhuma
+281.xyz.842-08,Beatriz Ribeiro Martins,F,33,Auxiliar administrativo,2473.67,68,0.0836,1480.5,696,0,0,3,11,"Rua Sete de Setembro, 2311",Lapa,0,Nenhuma
+101.xyz.906-60,Aline Marques Moreira,F,23,Professor,3151.69,21,0.359,23787.1,635,0,0,60,1,"Rua Marechal Deodoro, 1302",Ipiranga,0,Nenhuma
+892.xyz.039-30,Carlos Andrade Gomes,M,27,Desenvolvedor de software,14481.85,80,0.1878,79478.13,790,0,0,108,22,"Rua Primavera, 1541",Vila Mariana,0,Imóvel
+401.xyz.637-33,Beatriz Carvalho Pereira,F,71,Aposentado,3433.8,0,0.2502,7546.25,667,0,0,48,2,"Rua Santa Luzia, 659",Penha,1,Nenhuma
+920.xyz.020-06,André Alves Pereira,M,33,Vendedor,2011.62,13,0.2176,16108.36,596,1,16,2,3,"Avenida Paulista, 2328",Mooca,1,Nenhuma
+300.xyz.866-96,Maria Lopes Nunes,F,35,Técnico em TI,5223.64,94,0.202,37650.17,759,0,0,14,2,"Rua Tiradentes, 496",Vila Mariana,2,Nenhuma
+233.xyz.018-79,Maria Rocha Souza,F,24,Contador,8205.23,33,0.2717,106052.12,715,0,0,29,2,"Avenida Dom Pedro II, 81",Ipiranga,0,Aplicação financeira
+549.xyz.882-26,Amanda Costa Fernandes,F,40,Motorista,4000.94,125,0.3624,38263.0,777,0,0,24,5,"Rua dos Pinheiros, 880",Vila Mariana,1,Nenhuma
+659.xyz.194-81,Leonardo Ribeiro Andrade,M,29,Autônomo,3926.87,12,0.501,43086.54,638,1,47,4,9,"Rua Rio Branco, 614",Vila Mariana,0,Nenhuma
+073.xyz.815-43,Carolina Souza Vieira,F,41,Advogado,18275.72,14,0.4279,58544.65,681,1,56,36,0,"Avenida das Nações, 1262",Tatuapé,0,Imóvel
+881.xyz.981-63,Camila Gomes Costa,F,55,Advogado,12947.69,33,0.0486,6129.94,844,0,0,49,25,"Avenida Brasil, 1729",Centro,1,Aplicação financeira
+724.xyz.157-51,Ana Almeida Gomes,F,44,Enfermeiro,3118.09,23,0.0941,7142.37,639,1,93,84,3,"Avenida Dom Pedro II, 2182",Santo Amaro,1,Nenhuma
+498.xyz.422-80,Ana Moreira Gomes,F,35,Operador de produção,3564.83,201,0.5205,50716.04,655,1,7,31,6,"Rua das Acácias, 1383",Mooca,3,Nenhuma
+119.xyz.415-90,Carolina Moreira Pereira,F,59,Aposentado,4762.18,0,0.2531,45358.81,643,0,0,2,3,"Rua Primavera, 2463",Santana,2,Nenhuma
+375.xyz.559-31,Lucas Costa Soares,M,34,Desenvolvedor de software,9950.18,91,0.1656,76459.69,809,0,0,192,3,"Rua Sete de Setembro, 240",Ipiranga,0,Veículo
+556.xyz.838-10,Rafael Souza Moreira,M,27,Médico,14780.17,76,0.0696,23951.66,758,0,0,108,1,"Rua Santos Dumont, 612",Vila Prudente,0,Nenhuma
+079.xyz.377-57,Larissa Barbosa Nunes,F,43,Autônomo,2034.89,12,0.1748,13289.57,689,0,0,87,12,"Rua Santa Luzia, 106",Vila Prudente,2,Nenhuma
+097.xyz.064-37,André Costa Alves,M,60,Desenvolvedor de software,6563.45,38,0.1705,42321.88,728,0,0,89,3,"Rua das Flores, 677",Santo Amaro,0,Nenhuma
+017.xyz.210-20,Carlos Vieira Vieira,M,39,Autônomo,8248.89,4,0.0873,5550.7,721,1,13,28,3,"Rua Bela Vista, 1592",Freguesia do Ó,0,Nenhuma
+950.xyz.281-45,Vanessa Dias Ferreira,F,45,Operador de produção,3715.85,4,0.2684,47558.37,668,1,17,42,5,"Rua XV de Novembro, 388",Campo Limpo,1,Nenhuma
+144.xyz.595-92,Larissa Vieira Pereira,F,27,Autônomo,5118.79,132,0.0627,13434.9,759,0,0,7,14,"Rua dos Pinheiros, 2328",Butantã,0,Nenhuma
+883.xyz.764-89,Renata Dias Almeida,F,35,Analista financeiro,10143.42,50,0.6098,250347.42,590,2,43,25,4,"Rua dos Pinheiros, 769",Vila Formosa,0,Aval
+424.xyz.197-64,Bianca Dias Gomes,F,34,Motorista,2485.33,45,0.1999,7592.94,658,0,0,2,1,"Avenida Brasil, 754",Lapa,0,Nenhuma
+036.xyz.527-15,André Marques Alves,M,33,Motorista,3487.74,3,0.4689,70312.65,611,2,13,16,0,"Avenida Paulista, 1840",Jabaquara,2,Nenhuma
+889.xyz.789-01,Lucas Silva Oliveira,M,34,Auxiliar administrativo,2198.83,162,0.3323,17401.66,789,0,0,155,10,"Rua Bela Vista, 190",Tatuapé,1,Nenhuma
+883.xyz.547-70,Débora Silva Costa,F,38,Operador de produção,3736.52,95,0.1733,26302.24,684,0,0,19,5,"Rua São João, 482",Campo Limpo,1,Nenhuma
+830.xyz.386-40,Débora Costa Martins,F,50,Motorista,1852.49,28,0.1192,6942.77,763,0,0,99,3,"Rua Rio Branco, 1014",São Mateus,2,Nenhuma
+273.xyz.133-31,Vanessa Costa Martins,F,35,Atendente,1892.37,28,0.44,23973.77,568,2,20,24,8,"Rua São João, 1908",Centro,0,Nenhuma
+966.xyz.083-98,Ana Costa Oliveira,F,42,Analista financeiro,4622.19,93,0.2943,22068.97,721,0,0,2,1,"Rua Bela Vista, 1215",Vila Formosa,2,Nenhuma
+677.xyz.337-41,Bruno Santos Gomes,M,44,Analista financeiro,5618.6,24,0.1141,5483.67,703,0,0,25,5,"Avenida Paulista, 188",Butantã,1,Nenhuma
+031.xyz.317-50,Renata Rodrigues Fernandes,F,34,Técnico em TI,4546.85,28,0.2997,62540.8,696,0,0,9,14,"Rua Primavera, 1464",Tatuapé,1,Veículo
+202.xyz.887-91,Lucas Silva Machado,M,27,Engenheiro,8112.92,6,0.2387,61914.38,672,0,0,15,17,"Rua Rio Branco, 1274",Santo Amaro,0,Veículo
+300.xyz.332-73,Fernando Souza Gomes,M,35,Analista financeiro,7003.5,23,0.1631,17166.02,763,0,0,96,8,"Avenida Dom Pedro II, 1742",Centro,1,Nenhuma
+798.xyz.764-39,Eduardo Vieira Lopes,M,56,Engenheiro,9225.02,72,0.122,37593.03,715,0,0,16,10,"Rua Primavera, 693",Jabaquara,0,Nenhuma
+470.xyz.930-18,Felipe Machado Santos,M,42,Motorista,1770.26,73,0.3972,28353.0,612,3,29,4,6,"Rua Tiradentes, 226",Santana,1,Nenhuma
+856.xyz.279-80,Renata Soares Dias,F,44,Autônomo,3571.31,30,0.0559,7041.55,731,0,0,10,1,"Rua Bela Vista, 1269",Itaquera,1,Nenhuma
+754.xyz.952-59,Leonardo Marques Costa,M,28,Gerente comercial,14528.01,98,0.1497,63270.42,760,0,0,27,22,"Avenida Dom Pedro II, 2130",Tatuapé,1,Veículo
+509.xyz.792-09,Renata Nascimento Lopes,F,28,Gerente comercial,16566.91,126,0.2616,75960.72,674,1,50,33,0,"Avenida Dom Pedro II, 1934",Vila Formosa,1,Veículo
+535.xyz.055-41,André Moreira Rocha,M,49,Atendente,1596.07,121,0.1104,1602.15,743,1,25,214,4,"Rua da Paz, 1269",Santo Amaro,2,Nenhuma
+291.xyz.404-70,Amanda Nunes Carvalho,F,33,Auxiliar administrativo,4129.16,41,0.0538,7178.14,856,0,0,128,6,"Rua XV de Novembro, 248",Santo Amaro,0,Nenhuma
+331.xyz.593-71,Bianca Rodrigues Costa,F,34,Operador de produção,2846.23,88,0.4644,40356.74,613,1,3,3,2,"Rua dos Pinheiros, 38",Butantã,0,Nenhuma
+755.xyz.960-69,Eduardo Dias Alves,M,32,Operador de produção,2218.61,24,0.1388,5358.48,706,0,0,9,32,"Rua Santa Luzia, 1544",Ipiranga,3,Nenhuma
+785.xyz.468-84,Felipe Oliveira Alves,M,48,Auxiliar administrativo,2830.56,86,0.2189,28639.96,679,0,0,21,3,"Rua XV de Novembro, 734",Jabaquara,0,Nenhuma
+837.xyz.078-08,Beatriz Vieira Silva,F,71,Aposentado,4335.71,0,0.2022,10269.03,778,0,0,77,4,"Rua do Comércio, 1810",Mooca,2,Imóvel
+715.xyz.716-90,Felipe Dias Gomes,M,33,Analista financeiro,11992.93,142,0.2991,141771.97,746,1,45,72,17,"Rua Marechal Deodoro, 896",Mooca,1,Veículo
+939.xyz.827-05,Felipe Souza Moreira,M,29,Servidor público,6497.98,65,0.367,80299.37,742,1,65,61,14,"Avenida das Nações, 1731",Vila Mariana,0,Nenhuma
+921.xyz.411-09,Felipe Gomes Moreira,M,58,Aposentado,5362.91,0,0.2252,40654.74,692,1,5,20,9,"Avenida Dom Pedro II, 1983",Mooca,0,Nenhuma
+124.xyz.047-97,Vanessa Barbosa Oliveira,F,47,Auxiliar administrativo,3226.23,73,0.068,7084.36,687,0,0,16,4,"Rua da Paz, 356",São Mateus,0,Nenhuma
+363.xyz.285-00,Rafael Andrade Nascimento,M,32,Analista financeiro,7832.2,59,0.0843,28461.6,772,1,4,168,5,"Rua São Paulo, 863",Centro,0,Veículo
+221.xyz.566-05,Camila Andrade Barbosa,F,35,Desenvolvedor de software,12152.45,70,0.1985,95255.03,756,0,0,84,6,"Rua da Paz, 1603",Butantã,0,Imóvel
+335.xyz.090-16,Pedro Fernandes Nunes,M,24,Contador,7222.79,45,0.1523,24468.87,740,0,0,63,6,"Rua Bela Vista, 1668",Santana,0,Nenhuma
+940.xyz.154-14,Pedro Rocha Santos,M,32,Atendente,2914.93,38,0.331,32449.62,685,0,0,50,1,"Rua Santa Luzia, 1579",São Mateus,0,Nenhuma
+547.xyz.384-20,Pedro Costa Lima,M,21,Técnico em TI,8279.65,60,0.4231,125236.77,652,0,0,6,0,"Rua Sete de Setembro, 365",Vila Mariana,0,Nenhuma
+205.xyz.457-65,Fernanda Andrade Dias,F,25,Servidor público,9097.5,75,0.1712,32281.7,748,0,0,42,3,"Avenida Brasil, 1197",Centro,0,Nenhuma
+955.xyz.277-40,Rafael Nunes Pereira,M,26,Auxiliar administrativo,1690.73,120,0.2946,14327.1,728,0,0,96,12,"Rua São João, 401",Vila Prudente,0,Nenhuma
+904.xyz.493-73,Vanessa Costa Andrade,F,37,Vendedor,4798.45,23,0.2834,61223.71,613,2,5,6,4,"Rua Santos Dumont, 1834",Vila Formosa,0,Nenhuma
+705.xyz.306-38,Priscila Rocha Rodrigues,F,41,Auxiliar administrativo,2379.34,31,0.2631,17915.66,593,2,39,31,11,"Rua XV de Novembro, 25",Tatuapé,0,Nenhuma
+101.xyz.270-83,Gabriela Pereira Soares,F,48,Vendedor,5069.74,22,0.2215,32678.97,634,1,51,30,2,"Avenida Brasil, 41",Campo Limpo,1,Veículo
+750.xyz.936-43,Luciana Nunes Gomes,F,38,Enfermeiro,5161.25,71,0.3314,49433.96,655,0,0,27,3,"Rua das Flores, 2212",Vila Mariana,1,Nenhuma
+496.xyz.294-00,Amanda Santos Martins,F,25,Vendedor,1752.38,108,0.0567,1988.49,656,1,161,52,5,"Rua do Comércio, 2258",Santana,0,Nenhuma
+989.xyz.194-21,Anderson Pereira Santos,M,36,Vendedor,2811.53,93,0.0951,4895.07,684,0,0,42,1,"Rua da Paz, 285",Jabaquara,2,Nenhuma
+340.xyz.980-30,Matheus Fernandes Oliveira,M,36,Atendente,1697.68,35,0.1898,7040.87,692,0,0,3,0,"Rua Marechal Deodoro, 547",Jabaquara,0,Nenhuma
+561.xyz.533-71,Tatiane Vieira Lima,F,31,Advogado,13751.86,52,0.3152,147605.17,703,0,0,20,6,"Rua Rio Branco, 1137",Vila Mariana,2,Imóvel
+677.xyz.403-09,Juliana Machado Ribeiro,F,27,Auxiliar administrativo,2217.54,6,0.4315,43885.23,672,1,3,96,3,"Rua das Acácias, 2445",Santana,1,Nenhuma
+434.xyz.592-00,Priscila Barbosa Nascimento,F,41,Motorista,3007.37,6,0.1075,14635.36,696,0,0,113,21,"Rua Sete de Setembro, 1998",Campo Limpo,1,Nenhuma
+923.xyz.336-45,Beatriz Gomes Carvalho,F,35,Técnico em TI,3604.96,36,0.131,10146.15,767,0,0,112,12,"Rua Marechal Deodoro, 532",Mooca,1,Nenhuma
+287.xyz.415-58,Diego Marques Rodrigues,M,47,Enfermeiro,5995.49,33,0.2673,25485.87,735,0,0,63,4,"Rua Santos Dumont, 642",Vila Mariana,1,Nenhuma
+557.xyz.692-40,Beatriz Nascimento Andrade,F,22,Atendente,1885.46,72,0.0751,5239.22,705,0,0,7,8,"Avenida das Nações, 1742",Vila Prudente,0,Nenhuma
+624.xyz.871-17,Anderson Moreira Vieira,M,30,Operador de produção,2385.62,106,0.2462,17469.91,762,0,0,70,6,"Rua das Acácias, 654",Santo Amaro,0,Nenhuma
+370.xyz.848-10,Priscila Martins Santos,F,49,Auxiliar administrativo,2559.92,48,0.4668,18360.45,583,2,25,19,1,"Rua Primavera, 393",Freguesia do Ó,1,Nenhuma
+628.xyz.053-06,Carlos Moreira Moreira,M,32,Atendente,2675.15,112,0.2529,4929.43,767,0,0,84,2,"Rua Tiradentes, 911",Santo Amaro,0,Nenhuma
+373.xyz.427-72,Carolina Barbosa Vieira,F,47,Técnico em TI,5761.04,120,0.3466,19537.98,674,1,13,3,9,"Rua São João, 1141",Vila Prudente,0,Nenhuma
+077.xyz.918-05,Juliana Silva Pereira,F,39,Enfermeiro,4815.37,18,0.1719,34227.08,687,1,4,40,9,"Rua do Comércio, 1713",Butantã,1,Nenhuma
+460.xyz.416-23,Maria Machado Santos,F,21,Motorista,2353.25,8,0.1453,7216.94,693,0,0,10,3,"Avenida Brasil, 2272",Pinheiros,2,Nenhuma
+997.xyz.508-03,Vanessa Carvalho Soares,F,30,Auxiliar administrativo,2010.45,49,0.4518,43017.98,684,0,0,31,16,"Rua São Paulo, 781",Lapa,2,Nenhuma
+917.xyz.255-33,Vanessa Vieira Ribeiro,F,26,Autônomo,7798.32,31,0.2837,29127.73,694,1,18,31,8,"Rua do Comércio, 338",Penha,0,Aplicação financeira
+803.xyz.214-51,Simone Silva Ribeiro,F,39,Operador de produção,2695.65,204,0.4188,19075.75,609,2,27,15,0,"Avenida Dom Pedro II, 1785",Centro,2,Nenhuma
+314.xyz.699-32,Ricardo Barbosa Nunes,M,60,Autônomo,3674.58,30,0.5623,61094.79,692,1,17,93,11,"Rua do Comércio, 97",Campo Limpo,3,Nenhuma
+291.xyz.747-69,Camila Ribeiro Silva,F,28,Gerente comercial,7835.91,18,0.3511,98543.76,695,0,0,26,17,"Rua das Acácias, 2242",Freguesia do Ó,2,Veículo
+292.xyz.933-75,Daniel Moreira Soares,M,50,Analista financeiro,9505.25,43,0.3297,129391.14,716,0,0,1,45,"Avenida das Nações, 2380",Campo Limpo,1,Aplicação financeira
+041.xyz.347-63,Priscila Dias Marques,F,25,Analista financeiro,6565.68,67,0.2817,21002.84,727,0,0,28,20,"Rua da Paz, 242",Ipiranga,0,Nenhuma
+989.xyz.840-20,Maria Nascimento Alves,F,73,Aposentado,2500.93,0,0.2411,6203.25,693,0,0,44,3,"Rua Marechal Deodoro, 1322",Pinheiros,1,Nenhuma
+173.xyz.733-01,Rafael Marques Nascimento,M,24,Vendedor,1412.0,96,0.1826,9425.7,708,0,0,1,3,"Rua São Paulo, 1447",Campo Limpo,1,Nenhuma
+963.xyz.592-76,Tatiane Ferreira Marques,F,46,Atendente,2010.24,13,0.3599,14168.77,637,0,0,16,9,"Rua da Paz, 516",Mooca,3,Nenhuma
+576.xyz.213-18,Tatiane Oliveira Soares,F,44,Enfermeiro,5780.23,62,0.476,43373.68,756,0,0,243,4,"Rua Marechal Deodoro, 2411",Butantã,0,Nenhuma
+548.xyz.801-30,Patrícia Soares Ferreira,F,39,Auxiliar administrativo,2691.35,53,0.2821,34165.16,665,0,0,7,3,"Rua Primavera, 2311",São Mateus,0,Nenhuma
+686.xyz.078-04,Fernanda Almeida Rocha,F,50,Motorista,3148.99,6,0.1442,21048.92,796,0,0,121,2,"Rua Sete de Setembro, 1435",Mooca,1,Nenhuma
+356.xyz.009-59,Ricardo Nascimento Marques,M,47,Autônomo,6522.04,33,0.2582,75443.1,642,1,11,8,10,"Rua Sete de Setembro, 2486",Santana,0,Nenhuma
+196.xyz.991-74,João Marques Costa,M,46,Vendedor,3133.42,12,0.2141,14361.1,674,0,0,30,0,"Rua Tiradentes, 1828",Vila Formosa,3,Nenhuma
+037.xyz.991-26,André Carvalho Costa,M,61,Aposentado,2260.77,0,0.519,12248.34,611,0,0,8,6,"Rua Bela Vista, 1861",Centro,3,Nenhuma
+390.xyz.749-41,Fernando Nascimento Ribeiro,M,31,Engenheiro,11560.11,45,0.6521,256517.88,553,3,4,17,7,"Rua das Flores, 75",Itaquera,0,Imóvel
+369.xyz.253-00,Ana Dias Marques,F,22,Comerciante,8956.51,72,0.3249,101169.96,761,1,36,47,14,"Rua Primavera, 1857",Mooca,0,Imóvel
+344.xyz.842-64,João Silva Santos,M,35,Comerciante,3314.7,8,0.3202,22994.3,577,2,72,49,35,"Rua Primavera, 1356",Vila Prudente,1,Nenhuma
+074.xyz.657-37,Fernando Ferreira Andrade,M,34,Atendente,3094.37,216,0.1308,12046.04,727,0,0,5,0,"Avenida das Nações, 2180",Santo Amaro,0,Nenhuma
+699.xyz.002-33,Gabriela Martins Almeida,F,18,Vendedor,2786.13,24,0.1748,15947.49,612,0,0,1,1,"Rua Santa Luzia, 39",São Mateus,0,Nenhuma
+117.xyz.034-66,Vanessa Vieira Machado,F,46,Operador de produção,2900.98,26,0.2978,33632.76,724,0,0,116,3,"Rua dos Pinheiros, 2305",São Mateus,0,Nenhuma
+657.xyz.288-72,Maria Souza Martins,F,24,Engenheiro,16290.44,18,0.4238,307992.4,655,2,19,63,1,"Rua dos Pinheiros, 1981",Centro,0,Imóvel
+309.xyz.718-00,Marcos Costa Alves,M,49,Autônomo,3373.0,45,0.3483,26991.43,617,2,6,5,2,"Rua do Comércio, 1005",Butantã,5,Nenhuma
+310.xyz.269-80,Marcos Lima Lopes,M,42,Motorista,2280.1,37,0.1242,9043.11,735,0,0,66,2,"Rua Rio Branco, 1824",Penha,2,Nenhuma
+959.xyz.363-00,Vanessa Ribeiro Santos,F,46,Vendedor,2056.65,20,0.2537,24480.87,632,0,0,3,4,"Rua Primavera, 637",Vila Formosa,0,Nenhuma
+544.xyz.606-02,Priscila Alves Nascimento,F,46,Vendedor,2008.35,93,0.491,43111.07,692,2,12,258,21,"Rua Santa Luzia, 702",Jabaquara,0,Nenhuma
+968.xyz.048-78,Gabriel Martins Soares,M,31,Atendente,2109.25,178,0.1328,11931.6,760,0,0,16,4,"Avenida Dom Pedro II, 1905",Centro,0,Nenhuma
+666.xyz.836-27,Marcos Costa Machado,M,31,Engenheiro,16446.5,29,0.5731,307500.38,624,2,43,25,4,"Rua São Paulo, 639",Lapa,0,Veículo
+661.xyz.063-57,Tatiane Alves Almeida,F,37,Enfermeiro,5965.36,10,0.1433,7190.06,716,0,0,9,6,"Avenida Paulista, 1507",Santo Amaro,0,Nenhuma
+314.xyz.268-15,Bianca Ribeiro Souza,F,59,Operador de produção,4259.87,110,0.498,53434.99,662,3,11,141,1,"Avenida das Nações, 1675",Butantã,1,Nenhuma
+422.xyz.633-58,Lucas Costa Fernandes,M,59,Gerente comercial,8677.42,5,0.2965,19255.67,720,1,7,25,2,"Rua Bela Vista, 348",Lapa,0,Veículo
+498.xyz.119-60,Juliana Lopes Santos,F,21,Auxiliar administrativo,1777.0,4,0.2444,3328.93,582,1,114,36,5,"Rua das Acácias, 276",Penha,0,Nenhuma
+755.xyz.872-33,Anderson Soares Costa,M,34,Professor,5399.32,111,0.0852,10518.96,744,0,0,29,18,"Rua Marechal Deodoro, 816",Mooca,1,Nenhuma
+470.xyz.541-32,Patrícia Ferreira Pereira,F,33,Vendedor,3566.43,72,0.1253,4163.92,674,0,0,21,2,"Avenida das Nações, 755",São Mateus,1,Nenhuma
+312.xyz.927-40,Carlos Lima Soares,M,18,Vendedor,2422.95,24,0.1338,6451.43,608,1,16,1,8,"Avenida Brasil, 2430",Tatuapé,0,Nenhuma
+595.xyz.006-94,Ricardo Ferreira Lopes,M,46,Auxiliar administrativo,2449.85,78,0.598,32429.74,686,2,11,130,11,"Rua do Comércio, 1371",Vila Mariana,2,Nenhuma
+217.xyz.612-48,Mariana Andrade Costa,F,38,Auxiliar administrativo,3878.51,28,0.2651,41120.14,719,1,41,109,1,"Rua Santos Dumont, 31",Santo Amaro,0,Nenhuma
+980.xyz.341-42,Camila Lima Ferreira,F,38,Motorista,2401.24,193,0.2459,25232.74,684,0,0,1,7,"Rua Rio Branco, 693",Campo Limpo,0,Veículo
+176.xyz.729-71,Vanessa Souza Silva,F,44,Enfermeiro,5597.53,90,0.4023,43728.54,711,0,0,66,0,"Rua dos Pinheiros, 200",Vila Formosa,3,Nenhuma
+277.xyz.738-10,Carolina Barbosa Alves,F,37,Atendente,2783.83,42,0.2304,4036.99,735,0,0,47,2,"Rua Primavera, 2086",Santana,1,Nenhuma
+412.xyz.431-10,Gabriel Almeida Marques,M,51,Autônomo,2809.88,4,0.4091,40472.21,712,0,0,34,22,"Rua da Paz, 1696",Ipiranga,0,Nenhuma
+700.xyz.772-29,Amanda Alves Vieira,F,36,Contador,3692.85,76,0.1217,12777.65,668,1,43,26,12,"Rua Primavera, 1947",Itaquera,1,Nenhuma
+120.xyz.607-36,Mariana Gomes Fernandes,F,18,Autônomo,1412.0,24,0.2344,7939.61,511,2,118,1,1,"Rua Rio Branco, 2037",Mooca,0,Nenhuma
+906.xyz.594-50,Mariana Moreira Barbosa,F,45,Auxiliar administrativo,3429.75,246,0.3637,55080.18,713,1,24,55,24,"Rua das Acácias, 232",São Mateus,2,Nenhuma
+095.xyz.395-43,Thiago Oliveira Lima,M,44,Comerciante,1985.65,11,0.103,9754.63,579,0,0,5,2,"Rua Primavera, 510",Santo Amaro,1,Nenhuma
+384.xyz.937-90,João Martins Andrade,M,42,Autônomo,1982.89,41,0.1132,7607.44,757,0,0,20,7,"Rua Bela Vista, 1442",Pinheiros,1,Nenhuma
+339.xyz.275-23,Juliana Nunes Ferreira,F,25,Auxiliar administrativo,2593.05,82,0.144,9480.82,726,0,0,65,5,"Rua Rio Branco, 2350",Freguesia do Ó,0,Nenhuma
+363.xyz.000-10,Rafael Almeida Martins,M,35,Autônomo,2261.88,47,0.3789,35780.98,611,3,61,19,18,"Rua Rio Branco, 74",Lapa,0,Nenhuma
+651.xyz.097-70,Diego Silva Silva,M,44,Médico,20438.12,75,0.0678,34601.2,825,0,0,11,15,"Rua Bela Vista, 405",Vila Mariana,1,Imóvel
+140.xyz.304-60,Carlos Ferreira Ribeiro,M,51,Operador de produção,4054.07,57,0.1872,5344.3,674,0,0,5,2,"Rua dos Pinheiros, 1560",Vila Mariana,1,Nenhuma
+415.xyz.330-71,Beatriz Rocha Machado,F,24,Desenvolvedor de software,6629.05,74,0.1626,13079.73,806,0,0,72,1,"Rua das Flores, 1941",São Mateus,0,Imóvel
+990.xyz.239-94,Vanessa Marques Ribeiro,F,21,Motorista,4336.81,48,0.0398,2209.93,634,1,19,12,1,"Rua São João, 1603",Vila Formosa,0,Aval
+035.xyz.381-58,Renata Dias Nunes,F,41,Vendedor,4013.69,108,0.3519,43704.41,669,1,52,73,30,"Rua XV de Novembro, 895",Itaquera,0,Nenhuma
+294.xyz.141-34,Paulo Pereira Costa,M,65,Atendente,2677.81,32,0.2018,4262.93,742,1,12,98,3,"Avenida Brasil, 1513",São Mateus,5,Nenhuma
+585.xyz.967-36,Diego Marques Ribeiro,M,31,Auxiliar administrativo,2245.0,168,0.4733,41545.31,602,1,81,9,2,"Rua XV de Novembro, 1677",Vila Prudente,0,Nenhuma
+064.xyz.063-85,Carlos Nunes Lopes,M,28,Vendedor,2718.57,48,0.1794,13586.46,667,0,0,45,1,"Rua Tiradentes, 406",Vila Formosa,1,Nenhuma
+261.xyz.065-23,Rodrigo Nascimento Lopes,M,41,Técnico em TI,4743.63,3,0.2894,53022.49,702,0,0,112,3,"Rua Primavera, 1967",Vila Mariana,1,Nenhuma
+349.xyz.047-38,Camila Rodrigues Martins,F,39,Contador,7492.28,27,0.2662,95624.41,846,0,0,160,11,"Avenida Dom Pedro II, 2170",São Mateus,3,Imóvel
+378.xyz.730-00,Ricardo Alves Alves,M,36,Auxiliar administrativo,3543.63,128,0.5761,69025.71,578,2,27,12,15,"Rua XV de Novembro, 1528",Santo Amaro,1,Nenhuma
+971.xyz.572-35,André Dias Lopes,M,26,Atendente,1900.33,74,0.4695,21862.68,519,2,13,4,0,"Avenida Dom Pedro II, 1382",Tatuapé,0,Nenhuma
+393.xyz.121-02,Diego Ferreira Marques,M,28,Advogado,5863.42,16,0.2015,13911.46,761,0,0,77,7,"Rua Sete de Setembro, 958",Santo Amaro,0,Nenhuma
+679.xyz.051-91,Carlos Machado Ferreira,M,43,Analista financeiro,10221.57,263,0.2203,104881.32,655,0,0,7,0,"Rua da Paz, 1908",Campo Limpo,0,Nenhuma
+241.xyz.415-70,Beatriz Ribeiro Marques,F,26,Comerciante,1835.53,23,0.4585,25529.16,451,2,102,6,1,"Rua São Paulo, 2062",São Mateus,1,Nenhuma
+222.xyz.198-38,Felipe Lima Lima,M,30,Vendedor,2663.75,4,0.3803,29119.29,546,2,76,117,0,"Rua da Paz, 693",Lapa,0,Nenhuma
+504.xyz.954-35,Anderson Silva Soares,M,30,Motorista,2473.34,56,0.3085,16221.88,616,1,43,7,15,"Rua XV de Novembro, 1683",Vila Formosa,0,Nenhuma
+380.xyz.879-65,Pedro Silva Fernandes,M,32,Vendedor,2424.45,67,0.2334,4906.09,713,0,0,1,6,"Avenida Brasil, 1880",Freguesia do Ó,0,Nenhuma
+422.xyz.106-58,Lucas Oliveira Nunes,M,58,Contador,8746.98,8,0.4399,104986.43,649,2,30,96,12,"Rua São João, 353",Vila Prudente,1,Nenhuma
+686.xyz.871-13,Luciana Silva Rodrigues,F,22,Desenvolvedor de software,5128.3,72,0.1576,12704.03,731,0,0,48,4,"Avenida Brasil, 2199",Campo Limpo,0,Imóvel
+485.xyz.299-95,Juliana Nunes Moreira,F,28,Enfermeiro,5396.18,13,0.1809,22088.76,710,0,0,19,15,"Rua da Paz, 945",Campo Limpo,1,Nenhuma
+940.xyz.401-40,Tatiane Lopes Pereira,F,70,Aposentado,3846.91,0,0.2407,11035.91,772,0,0,82,3,"Rua dos Pinheiros, 1839",Butantã,3,Nenhuma
+308.xyz.064-06,Paulo Lopes Gomes,M,29,Professor,4061.44,65,0.1649,26225.14,647,0,0,2,1,"Rua XV de Novembro, 662",Jabaquara,1,Nenhuma
+036.xyz.543-30,Leonardo Andrade Oliveira,M,48,Desenvolvedor de software,8021.89,22,0.2826,49480.25,805,1,12,110,11,"Avenida Brasil, 1440",Santo Amaro,0,Veículo
+740.xyz.294-67,Luciana Nascimento Santos,F,34,Engenheiro,15792.54,21,0.4074,180343.55,791,0,0,62,13,"Rua São João, 1327",Santo Amaro,0,Nenhuma
+653.xyz.962-30,Daniel Vieira Ribeiro,M,48,Auxiliar administrativo,1889.47,32,0.6366,16362.25,571,2,39,60,8,"Rua Marechal Deodoro, 302",Santana,0,Nenhuma
+131.xyz.053-20,André Santos Lopes,M,34,Analista financeiro,6792.16,9,0.5717,32539.54,593,2,9,41,1,"Rua São João, 2210",Freguesia do Ó,1,Aval
+559.xyz.291-61,Simone Nunes Barbosa,F,36,Professor,5646.8,117,0.2705,9722.11,836,0,0,208,5,"Rua da Paz, 1598",Itaquera,1,Nenhuma
+870.xyz.037-84,Diego Lopes Machado,M,37,Atendente,2405.36,17,0.3517,23502.18,607,1,49,64,5,"Avenida Paulista, 416",Vila Mariana,0,Nenhuma
+800.xyz.598-53,Débora Santos Nunes,F,24,Engenheiro,7475.19,96,0.4529,52360.03,656,3,53,33,4,"Avenida Dom Pedro II, 1639",Santo Amaro,0,Nenhuma
+924.xyz.842-31,Beatriz Barbosa Gomes,F,24,Motorista,1845.17,66,0.4847,29179.94,625,1,12,72,3,"Rua Primavera, 1335",Itaquera,0,Nenhuma
+376.xyz.573-04,Luciana Santos Oliveira,F,60,Aposentado,3752.43,0,0.1467,10041.45,669,0,0,4,4,"Rua do Comércio, 1001",Santana,1,Nenhuma
+036.xyz.158-06,João Rocha Nascimento,M,35,Motorista,3667.83,3,0.3724,34034.38,633,0,0,38,18,"Rua Rio Branco, 1673",Vila Mariana,1,Veículo
+413.xyz.037-73,Bianca Soares Gomes,F,24,Contador,8519.13,83,0.1696,66846.17,687,2,13,12,2,"Rua Sete de Setembro, 408",Pinheiros,0,Imóvel
+619.xyz.095-93,Thiago Silva Rocha,M,50,Advogado,8992.98,8,0.0677,7783.86,681,1,34,17,6,"Rua XV de Novembro, 1",Mooca,1,Aplicação financeira
+368.xyz.416-25,Matheus Rodrigues Rodrigues,M,43,Comerciante,2649.29,102,0.6791,35894.65,674,2,43,162,1,"Rua das Flores, 2233",Pinheiros,4,Veículo
+672.xyz.076-05,Luciana Carvalho Machado,F,22,Comerciante,3635.68,8,0.2543,40776.21,661,0,0,31,5,"Rua Rio Branco, 943",Itaquera,0,Nenhuma
+649.xyz.602-59,Patrícia Vieira Souza,F,61,Aposentado,2553.68,0,0.5284,10147.15,624,1,18,34,1,"Avenida das Nações, 817",Tatuapé,2,Nenhuma
+320.xyz.123-05,Larissa Moreira Pereira,F,27,Atendente,2753.84,67,0.0389,1048.78,707,0,0,1,5,"Rua São Paulo, 2198",Freguesia do Ó,1,Nenhuma
+876.xyz.820-94,Thiago Carvalho Fernandes,M,48,Técnico em TI,6547.31,89,0.4579,133950.21,706,0,0,37,0,"Rua Sete de Setembro, 851",Lapa,0,Nenhuma
+440.xyz.256-16,Pedro Gomes Lima,M,46,Autônomo,5943.93,10,0.3039,21965.75,651,1,21,95,5,"Rua do Comércio, 2182",Santana,1,Aplicação financeira
+024.xyz.715-73,Débora Ferreira Pereira,F,48,Auxiliar administrativo,3479.51,25,0.1516,5360.21,715,1,46,81,6,"Rua das Flores, 1279",Lapa,1,Nenhuma
+313.xyz.743-88,Daniel Pereira Santos,M,29,Auxiliar administrativo,2489.46,31,0.3145,26499.35,625,2,42,30,6,"Rua Rio Branco, 688",São Mateus,1,Nenhuma
+846.xyz.824-71,Priscila Alves Fernandes,F,20,Vendedor,2238.38,11,0.0414,701.36,630,1,35,1,4,"Rua Bela Vista, 940",Vila Formosa,0,Nenhuma
+989.xyz.874-25,Renata Andrade Souza,F,19,Auxiliar administrativo,1939.58,36,0.707,28626.74,590,1,36,12,1,"Rua Rio Branco, 2388",Vila Prudente,0,Nenhuma
+811.xyz.465-40,Felipe Ferreira Gomes,M,24,Comerciante,4544.92,65,0.5978,81690.01,648,3,46,40,1,"Avenida Dom Pedro II, 2497",Penha,0,Nenhuma
+356.xyz.327-21,Ana Andrade Costa,F,23,Enfermeiro,4922.58,84,0.6602,70123.61,593,3,3,3,2,"Rua dos Pinheiros, 1930",Ipiranga,0,Nenhuma
+987.xyz.581-92,Gabriela Silva Machado,F,22,Atendente,1816.83,38,0.2141,13446.33,722,0,0,48,22,"Avenida das Nações, 1699",Itaquera,0,Nenhuma
+780.xyz.703-18,Gustavo Alves Nunes,M,50,Atendente,3145.25,26,0.0806,7079.62,697,0,0,2,0,"Avenida Brasil, 1588",São Mateus,0,Nenhuma
+107.xyz.642-50,Priscila Rodrigues Marques,F,48,Engenheiro,16471.14,40,0.2225,45505.88,674,0,0,33,7,"Avenida das Nações, 1267",Freguesia do Ó,0,Veículo
+596.xyz.662-74,Gabriel Souza Barbosa,M,28,Operador de produção,3562.27,11,0.0837,7867.1,660,0,0,3,8,"Rua Sete de Setembro, 1236",Freguesia do Ó,0,Nenhuma
+221.xyz.785-73,Anderson Machado Alves,M,42,Servidor público,9858.47,79,0.0948,16396.4,754,0,0,13,17,"Rua dos Pinheiros, 437",Campo Limpo,1,Nenhuma
+919.xyz.786-00,Gustavo Fernandes Marques,M,38,Engenheiro,22112.74,29,0.4711,398249.8,716,2,24,92,11,"Rua Marechal Deodoro, 654",São Mateus,0,Aplicação financeira
+573.xyz.305-52,Juliana Souza Pereira,F,59,Aposentado,3239.33,0,0.4105,10895.82,575,0,0,12,6,"Avenida das Nações, 97",Itaquera,4,Nenhuma
+908.xyz.219-76,Ricardo Alves Rodrigues,M,32,Atendente,1899.44,10,0.5838,37040.49,616,0,0,45,2,"Avenida Paulista, 424",Butantã,3,Nenhuma
+923.xyz.818-19,Ricardo Santos Almeida,M,70,Aposentado,2032.31,0,0.2914,26643.7,638,0,0,21,9,"Rua dos Pinheiros, 841",Santo Amaro,3,Nenhuma
+184.xyz.414-89,Patrícia Nascimento Rocha,F,33,Contador,8942.33,25,0.1122,38633.92,737,0,0,19,33,"Rua Santa Luzia, 1710",Mooca,1,Aval
+199.xyz.752-53,Juliana Machado Fernandes,F,26,Técnico em TI,4346.9,120,0.0782,12478.08,756,1,83,56,5,"Rua Marechal Deodoro, 486",Tatuapé,0,Imóvel
+506.xyz.908-15,Juliana Souza Almeida,F,41,Atendente,1935.94,148,0.582,47224.81,651,1,14,99,13,"Rua Marechal Deodoro, 1369",Campo Limpo,2,Nenhuma
+817.xyz.461-50,Fernando Barbosa Soares,M,41,Autônomo,3934.92,9,0.096,4544.51,778,0,0,109,6,"Avenida Paulista, 1754",Itaquera,0,Nenhuma
+248.xyz.896-53,Patrícia Dias Ribeiro,F,43,Contador,6187.94,72,0.1834,42557.19,686,0,0,15,4,"Rua do Comércio, 1326",Tatuapé,1,Nenhuma
+710.xyz.755-00,Priscila Moreira Barbosa,F,69,Aposentado,2331.64,0,0.3617,32129.48,649,0,0,31,24,"Rua Primavera, 1129",Butantã,0,Nenhuma
+503.xyz.524-83,André Moreira Martins,M,40,Enfermeiro,7032.86,33,0.3016,27823.66,692,3,38,112,5,"Rua Bela Vista, 993",Pinheiros,0,Nenhuma
+865.xyz.746-67,Beatriz Silva Rocha,F,24,Atendente,1918.69,8,0.4843,17788.67,686,0,0,72,9,"Rua São Paulo, 816",Campo Limpo,0,Nenhuma
+143.xyz.847-04,Fernanda Machado Barbosa,F,21,Motorista,2957.28,52,0.5717,51721.52,586,0,0,36,2,"Rua Primavera, 1493",Penha,0,Nenhuma
+550.xyz.526-12,Camila Marques Machado,F,27,Comerciante,4287.64,7,0.0939,17089.83,691,0,0,7,3,"Rua São Paulo, 1652",Pinheiros,1,Nenhuma
+940.xyz.131-69,Diego Rocha Lima,M,29,Advogado,12964.91,43,0.0701,16213.1,770,0,0,129,2,"Rua Tiradentes, 1528",Santana,0,Imóvel
+222.xyz.861-37,Pedro Marques Gomes,M,27,Advogado,6127.9,132,0.4313,72073.39,656,1,19,53,2,"Rua Bela Vista, 1334",Lapa,1,Nenhuma
+912.xyz.783-76,Gustavo Andrade Lima,M,51,Motorista,3286.06,6,0.1178,6103.29,697,0,0,5,5,"Rua Santos Dumont, 2216",Penha,2,Nenhuma
+207.xyz.789-73,Anderson Dias Andrade,M,28,Atendente,1677.18,50,0.1775,5693.22,704,0,0,116,7,"Rua São Paulo, 658",Butantã,2,Nenhuma
+288.xyz.676-39,Leonardo Gomes Vieira,M,39,Contador,4950.47,55,0.0757,6897.83,745,0,0,78,15,"Rua Rio Branco, 255",Itaquera,0,Nenhuma
+890.xyz.143-19,Beatriz Nunes Souza,F,58,Autônomo,4162.25,69,0.1133,21404.93,827,0,0,161,14,"Rua da Paz, 849",Tatuapé,4,Nenhuma
+038.xyz.713-05,Fernanda Nunes Marques,F,43,Médico,19835.33,62,0.2399,84350.76,871,0,0,174,9,"Rua Rio Branco, 2238",Tatuapé,1,Imóvel
+086.xyz.767-12,Lucas Martins Machado,M,35,Motorista,6175.16,56,0.2055,9800.33,595,3,63,23,2,"Rua Santa Luzia, 1779",Santo Amaro,2,Nenhuma
+851.xyz.354-55,Diego Barbosa Almeida,M,38,Atendente,2369.06,71,0.2912,31279.24,780,0,0,130,10,"Rua Bela Vista, 413",Itaquera,1,Nenhuma
+120.xyz.400-45,André Carvalho Machado,M,18,Operador de produção,2380.83,24,0.0565,5728.86,631,0,0,1,2,"Rua dos Pinheiros, 662",Vila Prudente,0,Nenhuma
+169.xyz.671-38,Carlos Lopes Pereira,M,28,Motorista,3198.28,27,0.1928,5846.9,804,0,0,92,2,"Avenida Paulista, 2206",Santo Amaro,1,Nenhuma
+211.xyz.740-79,Gustavo Almeida Soares,M,26,Comerciante,3672.44,40,0.452,40119.55,624,1,17,70,6,"Rua das Acácias, 237",Pinheiros,0,Nenhuma
+293.xyz.685-87,Larissa Vieira Oliveira,F,38,Atendente,2510.61,33,0.2956,29075.82,653,0,0,3,15,"Rua São Paulo, 907",Ipiranga,2,Nenhuma
+513.xyz.173-12,Gabriel Dias Gomes,M,26,Operador de produção,2608.54,43,0.4622,18896.42,607,1,5,23,5,"Rua Santa Luzia, 2019",Campo Limpo,0,Nenhuma
+285.xyz.293-36,Débora Andrade Soares,F,35,Auxiliar administrativo,1581.52,110,0.33,16280.18,653,0,0,1,7,"Avenida Dom Pedro II, 1338",Tatuapé,2,Nenhuma
+059.xyz.912-26,Amanda Silva Ribeiro,F,28,Vendedor,1669.38,67,0.5787,32909.47,566,0,0,26,0,"Rua Primavera, 2052",Freguesia do Ó,0,Nenhuma
+159.xyz.776-27,Aline Costa Oliveira,F,54,Vendedor,3133.49,50,0.3929,44489.1,688,2,67,69,10,"Avenida Brasil, 287",Vila Formosa,2,Nenhuma
+040.xyz.784-06,Ana Soares Almeida,F,26,Contador,4889.81,31,0.0652,8259.18,746,0,0,47,3,"Avenida Dom Pedro II, 146",Santana,0,Nenhuma
+456.xyz.723-40,Ana Costa Souza,F,31,Técnico em TI,4554.81,30,0.1899,19990.28,727,0,0,15,7,"Rua da Paz, 1975",Campo Limpo,1,Nenhuma
+501.xyz.059-81,Carolina Souza Alves,F,26,Autônomo,4688.69,110,0.1002,21753.05,749,1,22,49,26,"Rua do Comércio, 1110",Tatuapé,1,Nenhuma
+941.xyz.125-79,Juliana Marques Alves,F,38,Operador de produção,3567.48,14,0.1768,29262.5,688,0,0,29,2,"Rua Bela Vista, 1278",Itaquera,2,Nenhuma
+854.xyz.718-26,Patrícia Carvalho Fernandes,F,45,Vendedor,2570.03,39,0.1915,3788.34,698,0,0,84,18,"Rua Marechal Deodoro, 2442",Ipiranga,0,Nenhuma
+414.xyz.337-00,Tatiane Souza Lima,F,43,Contador,9581.97,21,0.4808,40314.18,587,1,76,28,3,"Rua Santa Luzia, 823",Mooca,0,Nenhuma
+944.xyz.350-32,Priscila Vieira Rodrigues,F,28,Operador de produção,1949.88,71,0.0376,2203.78,766,0,0,46,28,"Rua Sete de Setembro, 110",Mooca,1,Nenhuma
+611.xyz.182-86,Pedro Santos Nascimento,M,41,Técnico em TI,3464.89,100,0.3331,47387.82,684,0,0,63,5,"Avenida Dom Pedro II, 1669",Itaquera,1,Nenhuma
+086.xyz.648-07,Felipe Martins Alves,M,43,Desenvolvedor de software,18497.28,39,0.2232,118953.36,637,2,11,33,1,"Rua Tiradentes, 1536",Santana,0,Veículo
+727.xyz.984-50,Tatiane Santos Rocha,F,25,Atendente,1592.95,49,0.3357,22456.71,680,2,9,22,14,"Rua XV de Novembro, 28",Freguesia do Ó,0,Nenhuma
+399.xyz.926-37,Juliana Barbosa Silva,F,42,Auxiliar administrativo,1877.59,86,0.1193,5927.55,680,0,0,1,8,"Rua das Acácias, 1242",Santo Amaro,1,Nenhuma
+543.xyz.689-05,Carolina Ribeiro Alves,F,40,Técnico em TI,6270.64,47,0.2024,10264.45,645,0,0,2,29,"Rua Marechal Deodoro, 1629",Centro,1,Veículo
+952.xyz.144-45,Rodrigo Barbosa Andrade,M,45,Atendente,2468.53,27,0.2106,12533.41,634,0,0,31,13,"Rua Sete de Setembro, 1005",Mooca,0,Nenhuma
+675.xyz.827-90,Carolina Rocha Martins,F,45,Desenvolvedor de software,18301.28,50,0.0949,46538.59,664,1,27,45,14,"Rua dos Pinheiros, 592",Penha,1,Nenhuma
+252.xyz.084-05,Paulo Dias Vieira,M,31,Atendente,2132.36,21,0.3263,22830.13,645,0,0,60,4,"Avenida Brasil, 2266",Pinheiros,1,Veículo
+751.xyz.292-01,Gabriel Moreira Lima,M,26,Motorista,4081.43,120,0.1354,19052.41,693,0,0,14,12,"Rua da Paz, 943",Freguesia do Ó,0,Imóvel
+870.xyz.831-28,Ana Oliveira Ribeiro,F,30,Analista financeiro,10003.98,142,0.4309,134389.37,698,0,0,20,4,"Rua Rio Branco, 1897",Jabaquara,1,Aval
+183.xyz.323-89,Priscila Fernandes Moreira,F,48,Professor,4869.78,63,0.1153,12901.24,724,0,0,75,0,"Rua do Comércio, 1031",Jabaquara,0,Nenhuma
+760.xyz.906-75,Patrícia Santos Rocha,F,39,Vendedor,3244.94,116,0.2032,15777.32,787,0,0,61,7,"Rua das Acácias, 1827",São Mateus,2,Nenhuma
+512.xyz.081-30,Tatiane Nascimento Lima,F,30,Advogado,21656.68,15,0.1351,103602.36,870,0,0,140,11,"Rua Marechal Deodoro, 2203",Pinheiros,0,Aval
+393.xyz.257-53,Fernando Santos Soares,M,55,Atendente,2334.43,55,0.125,9368.56,733,0,0,89,9,"Rua dos Pinheiros, 2307",Ipiranga,0,Nenhuma
+700.xyz.064-07,Pedro Nunes Rodrigues,M,45,Servidor público,10537.06,71,0.4205,26876.0,697,0,0,2,1,"Rua Primavera, 876",Centro,1,Nenhuma
+598.xyz.190-58,Leonardo Fernandes Gomes,M,41,Gerente comercial,17045.43,64,0.4894,193481.26,707,3,10,159,1,"Rua Bela Vista, 2344",Freguesia do Ó,2,Aplicação financeira
+688.xyz.067-72,Eduardo Alves Alves,M,28,Auxiliar administrativo,2982.79,27,0.1137,5035.22,741,0,0,51,4,"Rua das Flores, 1508",Campo Limpo,1,Nenhuma
+754.xyz.088-34,André Marques Fernandes,M,26,Técnico em TI,10822.8,41,0.3557,61759.95,770,0,0,81,4,"Rua Marechal Deodoro, 1874",Pinheiros,0,Imóvel
+738.xyz.812-07,Renata Andrade Gomes,F,47,Autônomo,2151.41,11,0.3985,6893.25,673,1,99,127,7,"Avenida das Nações, 309",Centro,0,Nenhuma
+391.xyz.785-62,Thiago Souza Rodrigues,M,41,Analista financeiro,7237.12,19,0.5559,71197.92,554,3,25,15,1,"Avenida das Nações, 1567",Butantã,1,Nenhuma
+361.xyz.437-60,Bianca Soares Martins,F,25,Desenvolvedor de software,11712.17,108,0.1199,43596.75,769,0,0,24,7,"Rua Rio Branco, 530",Itaquera,0,Nenhuma
+043.xyz.724-04,Carolina Costa Alves,F,32,Motorista,3243.22,24,0.2484,33427.68,639,1,9,12,6,"Rua Santa Luzia, 1022",Vila Mariana,0,Nenhuma
+215.xyz.968-44,Luciana Nunes Lima,F,57,Enfermeiro,7535.07,46,0.3304,39343.55,638,0,0,14,3,"Rua São Paulo, 1704",Penha,1,Veículo
+505.xyz.390-22,Débora Vieira Costa,F,42,Vendedor,2432.49,42,0.2945,11394.75,635,2,32,83,4,"Rua São Paulo, 1294",Vila Prudente,1,Nenhuma
+257.xyz.306-29,Patrícia Machado Pereira,F,45,Professor,5157.23,75,0.2854,18319.02,728,0,0,26,2,"Rua Marechal Deodoro, 1381",Campo Limpo,1,Nenhuma
+371.xyz.516-93,Pedro Fernandes Souza,M,24,Advogado,8516.06,18,0.473,84776.63,714,2,3,72,11,"Rua da Paz, 109",Vila Mariana,0,Nenhuma
+157.xyz.233-49,Vanessa Nunes Barbosa,F,18,Vendedor,2184.27,24,0.2159,16270.63,551,2,6,1,9,"Rua Bela Vista, 514",Lapa,0,Nenhuma
+219.xyz.133-07,Beatriz Vieira Souza,F,24,Comerciante,5782.68,38,0.1393,5418.61,761,0,0,43,23,"Rua Rio Branco, 1790",Vila Mariana,0,Nenhuma
+501.xyz.812-72,Amanda Fernandes Costa,F,45,Advogado,16153.43,12,0.5324,225082.13,522,3,20,24,2,"Avenida Dom Pedro II, 1367",Centro,2,Imóvel
+022.xyz.934-36,Paulo Rodrigues Nascimento,M,55,Enfermeiro,10814.97,15,0.4617,46968.91,645,2,23,69,1,"Rua dos Pinheiros, 107",São Mateus,1,Nenhuma
+215.xyz.556-74,Aline Lopes Costa,F,28,Operador de produção,3568.69,78,0.5686,23793.69,683,0,0,61,6,"Avenida das Nações, 1401",São Mateus,0,Nenhuma
+863.xyz.170-04,Gustavo Gomes Fernandes,M,39,Servidor público,8042.73,93,0.3142,67959.84,787,0,0,137,6,"Rua Rio Branco, 1509",Vila Mariana,0,Aval
+353.xyz.456-58,Patrícia Carvalho Silva,F,36,Enfermeiro,8444.75,59,0.3537,139563.04,658,2,17,67,3,"Rua dos Pinheiros, 1311",Vila Mariana,0,Nenhuma
+784.xyz.113-62,Juliana Moreira Dias,F,40,Auxiliar administrativo,3007.92,84,0.0356,1104.23,708,0,0,1,12,"Rua Rio Branco, 993",Ipiranga,1,Veículo
+499.xyz.415-89,Matheus Barbosa Vieira,M,35,Técnico em TI,6911.51,138,0.1222,29663.73,757,1,5,41,5,"Rua Sete de Setembro, 1558",Ipiranga,1,Nenhuma
+017.xyz.911-83,Tatiane Soares Martins,F,36,Engenheiro,15068.6,59,0.0707,30253.33,692,0,0,37,5,"Rua do Comércio, 2006",Mooca,2,Imóvel
+549.xyz.699-16,Patrícia Rocha Lopes,F,35,Motorista,3704.53,65,0.1578,26730.28,701,0,0,4,10,"Rua XV de Novembro, 1819",São Mateus,0,Nenhuma
+612.xyz.583-60,Larissa Rodrigues Martins,F,23,Analista financeiro,6095.3,84,0.304,27719.07,587,1,126,24,6,"Avenida das Nações, 1359",Penha,1,Veículo
+660.xyz.237-04,Ricardo Silva Ribeiro,M,52,Gerente comercial,9904.25,46,0.2335,50419.45,791,0,0,30,6,"Rua São Paulo, 2195",Freguesia do Ó,2,Nenhuma
+282.xyz.020-48,Mariana Machado Ferreira,F,41,Contador,7879.15,148,0.3629,75170.61,740,0,0,51,16,"Rua Santos Dumont, 251",Mooca,3,Aplicação financeira
+424.xyz.477-71,Daniel Machado Rocha,M,23,Enfermeiro,5437.07,84,0.1187,21958.2,773,0,0,17,23,"Avenida Dom Pedro II, 2336",São Mateus,0,Nenhuma
+363.xyz.793-56,Carlos Marques Ribeiro,M,35,Autônomo,5925.79,56,0.0703,6274.89,701,0,0,15,1,"Rua Bela Vista, 1191",São Mateus,2,Nenhuma
+401.xyz.153-32,Vanessa Andrade Oliveira,F,61,Autônomo,3679.38,34,0.4855,79666.93,591,1,15,14,23,"Rua das Flores, 1548",Butantã,1,Nenhuma
+767.xyz.552-76,Larissa Gomes Andrade,F,37,Engenheiro,16727.94,33,0.2694,131411.27,664,1,42,23,10,"Rua das Acácias, 131",Ipiranga,1,Veículo
+039.xyz.499-79,Aline Lopes Marques,F,47,Operador de produção,2791.49,247,0.3147,12637.01,721,0,0,45,11,"Rua dos Pinheiros, 2311",Vila Mariana,0,Nenhuma
+741.xyz.049-79,Marcos Barbosa Soares,M,34,Motorista,4659.31,114,0.1079,17359.63,727,1,22,156,6,"Rua Sete de Setembro, 612",Tatuapé,0,Nenhuma
+991.xyz.029-62,Leonardo Lima Dias,M,24,Contador,5243.31,32,0.3898,76407.74,643,1,28,11,21,"Avenida das Nações, 1438",Jabaquara,0,Nenhuma
+736.xyz.842-11,Paulo Rodrigues Lima,M,33,Autônomo,7852.43,4,0.4239,128754.67,573,3,27,35,1,"Rua São João, 1434",Jabaquara,1,Aplicação financeira
+120.xyz.174-00,Maria Barbosa Nascimento,F,23,Enfermeiro,3865.97,81,0.2492,23062.17,741,0,0,60,4,"Rua São Paulo, 988",Tatuapé,0,Aplicação financeira
+825.xyz.839-65,Matheus Soares Gomes,M,30,Técnico em TI,3923.8,13,0.2857,35300.88,684,0,0,2,16,"Rua das Flores, 2404",Mooca,0,Aplicação financeira
+264.xyz.280-18,Lucas Souza Martins,M,32,Desenvolvedor de software,9069.04,40,0.2083,72644.76,690,0,0,9,5,"Rua XV de Novembro, 1067",Mooca,1,Nenhuma
+481.xyz.963-47,Amanda Alves Pereira,F,24,Engenheiro,12545.13,55,0.0741,9293.81,770,0,0,20,4,"Rua São Paulo, 1452",Vila Mariana,0,Veículo
+115.xyz.490-49,Carlos Fernandes Moreira,M,56,Gerente comercial,15683.33,336,0.1409,92245.6,751,0,0,14,22,"Avenida das Nações, 315",Penha,1,Aval
+675.xyz.655-37,Aline Almeida Costa,F,22,Atendente,2270.71,32,0.3872,15229.36,662,1,3,48,2,"Avenida Dom Pedro II, 2482",Vila Prudente,0,Imóvel
+295.xyz.570-53,Amanda Carvalho Barbosa,F,30,Gerente comercial,11196.36,36,0.2826,103593.07,669,2,19,18,19,"Rua Tiradentes, 1149",Centro,0,Aval
+218.xyz.496-60,Camila Moreira Ferreira,F,54,Atendente,1959.03,12,0.2079,5181.07,670,1,5,57,2,"Rua Santa Luzia, 1869",Itaquera,1,Nenhuma
+258.xyz.111-17,Daniel Marques Lopes,M,27,Atendente,1626.71,43,0.4148,11026.98,583,2,10,41,3,"Rua Primavera, 1646",São Mateus,1,Nenhuma
+486.xyz.034-67,Carlos Rocha Barbosa,M,41,Vendedor,3069.23,13,0.1593,9372.64,719,0,0,3,12,"Rua XV de Novembro, 2473",Campo Limpo,0,Nenhuma
+503.xyz.929-70,Carolina Dias Barbosa,F,35,Autônomo,1412.0,92,0.7456,48513.83,502,1,68,10,9,"Rua São Paulo, 1685",Mooca,1,Nenhuma
+346.xyz.023-54,Matheus Silva Almeida,M,29,Autônomo,3871.73,47,0.0577,2062.75,739,0,0,83,4,"Avenida Paulista, 880",Santana,0,Nenhuma
+831.xyz.897-28,Gustavo Andrade Gomes,M,34,Engenheiro,8606.62,16,0.3856,37903.49,657,0,0,21,5,"Rua Marechal Deodoro, 313",Mooca,0,Nenhuma
+278.xyz.361-73,Renata Alves Nascimento,F,53,Gerente comercial,11560.74,10,0.0916,9443.13,691,0,0,11,7,"Rua São Paulo, 1950",Centro,0,Veículo
+452.xyz.638-02,Leonardo Rocha Alves,M,45,Professor,4653.1,39,0.0911,16553.41,789,0,0,195,8,"Rua Bela Vista, 2383",Vila Prudente,1,Nenhuma
+403.xyz.916-46,Bianca Gomes Pereira,F,29,Motorista,2173.73,40,0.093,4331.8,758,0,0,30,6,"Rua das Flores, 2049",Butantã,1,Nenhuma
+802.xyz.052-28,Simone Andrade Fernandes,F,18,Auxiliar administrativo,3016.19,24,0.0392,1452.06,640,1,21,1,8,"Avenida Paulista, 2305",Campo Limpo,1,Nenhuma
+041.xyz.017-51,Leonardo Lopes Marques,M,37,Operador de produção,3160.94,37,0.2957,24911.86,554,3,15,4,4,"Rua Santos Dumont, 728",Vila Formosa,1,Nenhuma
+309.xyz.514-02,Amanda Martins Barbosa,F,36,Enfermeiro,5973.68,52,0.3654,46414.92,571,2,95,4,2,"Rua Marechal Deodoro, 1475",Itaquera,1,Nenhuma
+013.xyz.683-43,Matheus Costa Lopes,M,41,Contador,8302.82,32,0.0497,13807.08,845,1,23,105,30,"Rua Rio Branco, 2058",Centro,0,Nenhuma
+110.xyz.715-64,Fernanda Barbosa Dias,F,34,Atendente,1694.15,34,0.2604,10828.83,693,1,4,49,3,"Avenida Paulista, 201",Ipiranga,2,Nenhuma
+722.xyz.036-70,Patrícia Nascimento Machado,F,57,Vendedor,3510.29,8,0.4049,19479.53,668,1,12,26,5,"Rua das Acácias, 2019",Itaquera,1,Aval
+218.xyz.366-54,Tatiane Carvalho Andrade,F,34,Auxiliar administrativo,2233.11,3,0.2155,21154.94,636,1,17,23,9,"Avenida Dom Pedro II, 1638",Itaquera,0,Nenhuma
+316.xyz.990-81,Priscila Costa Vieira,F,32,Motorista,4374.75,187,0.46,29549.15,707,0,0,24,1,"Rua Sete de Setembro, 1830",Santana,1,Nenhuma
+058.xyz.149-65,Simone Rodrigues Marques,F,37,Motorista,3034.33,177,0.6021,14544.8,555,2,10,1,5,"Avenida das Nações, 1759",Santana,0,Nenhuma
+743.xyz.468-80,Vanessa Vieira Nunes,F,46,Motorista,4055.6,16,0.433,58704.94,570,5,73,41,5,"Rua Tiradentes, 1170",Campo Limpo,1,Veículo
+692.xyz.194-66,Bianca Oliveira Moreira,F,43,Analista financeiro,11562.96,11,0.2968,68507.3,650,1,10,10,2,"Rua Santa Luzia, 2461",Vila Mariana,2,Nenhuma
+181.xyz.204-70,Larissa Barbosa Pereira,F,43,Professor,3873.88,104,0.5848,28541.62,702,5,22,119,2,"Rua dos Pinheiros, 1009",Vila Mariana,2,Nenhuma
+123.xyz.703-50,Fernanda Andrade Silva,F,18,Operador de produção,2630.29,23,0.3114,28214.28,572,2,14,1,4,"Rua Tiradentes, 662",Lapa,0,Nenhuma
+164.xyz.513-90,Camila Machado Andrade,F,25,Enfermeiro,4910.15,60,0.2824,20660.83,743,0,0,38,0,"Rua Primavera, 1178",Mooca,0,Nenhuma
+142.xyz.498-77,Rafael Nunes Nascimento,M,42,Motorista,2977.8,23,0.1855,15533.8,621,0,0,34,5,"Rua dos Pinheiros, 2253",Pinheiros,1,Nenhuma
+561.xyz.328-54,Priscila Soares Andrade,F,23,Enfermeiro,5927.05,36,0.244,66277.9,705,0,0,15,23,"Rua do Comércio, 1185",Mooca,0,Imóvel
+365.xyz.335-94,Ricardo Machado Soares,M,44,Professor,4499.55,39,0.3393,17275.69,676,0,0,12,1,"Rua Sete de Setembro, 2036",Penha,1,Nenhuma
+113.xyz.284-00,Fernanda Moreira Ribeiro,F,34,Comerciante,5341.24,22,0.5091,27196.48,688,2,23,91,2,"Rua das Acácias, 1933",Pinheiros,2,Aplicação financeira
+403.xyz.150-29,Gustavo Gomes Almeida,M,23,Vendedor,1513.9,26,0.1583,2452.58,619,1,40,39,11,"Rua Bela Vista, 390",Freguesia do Ó,0,Nenhuma
+814.xyz.682-56,Paulo Alves Pereira,M,22,Comerciante,10110.26,23,0.4219,166648.76,706,0,0,48,1,"Rua Rio Branco, 265",Centro,1,Nenhuma
+421.xyz.962-39,Ana Pereira Nascimento,F,31,Atendente,2637.0,4,0.091,9796.77,642,0,0,15,7,"Rua Primavera, 1762",Itaquera,0,Nenhuma
+221.xyz.506-86,Bianca Martins Carvalho,F,40,Autônomo,3988.1,3,0.1447,11781.25,797,0,0,186,2,"Rua da Paz, 2308",Lapa,0,Imóvel
+530.xyz.912-52,Aline Moreira Nunes,F,23,Professor,2900.2,34,0.1247,17240.35,748,0,0,14,2,"Rua Santos Dumont, 711",Campo Limpo,1,Nenhuma
+420.xyz.735-53,Juliana Martins Dias,F,36,Motorista,3412.13,48,0.1967,25477.49,691,0,0,3,3,"Rua Sete de Setembro, 1476",Santo Amaro,1,Nenhuma
+646.xyz.801-63,Thiago Marques Fernandes,M,18,Vendedor,2900.98,24,0.0771,9568.11,640,1,8,1,18,"Rua Sete de Setembro, 525",Mooca,0,Nenhuma
+000.xyz.506-63,João Gomes Rocha,M,38,Operador de produção,3133.69,50,0.5484,34227.68,682,0,0,32,3,"Avenida Dom Pedro II, 1978",Mooca,0,Nenhuma
+670.xyz.847-31,Ricardo Costa Santos,M,43,Professor,4071.97,9,0.2035,8056.64,610,0,0,8,30,"Rua Tiradentes, 1934",Centro,1,Nenhuma
+716.xyz.555-16,Paulo Dias Fernandes,M,41,Atendente,2226.29,92,0.2145,15500.85,690,1,87,129,11,"Rua Santos Dumont, 1963",Vila Mariana,0,Nenhuma
+933.xyz.787-82,Aline Rodrigues Moreira,F,30,Servidor público,9122.83,29,0.1923,38327.11,832,0,0,58,13,"Rua das Acácias, 625",Lapa,0,Nenhuma
+207.xyz.361-69,Débora Lima Rodrigues,F,34,Analista financeiro,6648.49,45,0.4794,134475.2,657,0,0,1,16,"Avenida Paulista, 1797",Freguesia do Ó,1,Aplicação financeira
+290.xyz.081-15,Lucas Silva Lopes,M,34,Analista financeiro,9338.86,20,0.1205,52452.61,747,0,0,42,4,"Rua São João, 1975",Butantã,0,Aplicação financeira
+383.xyz.546-10,Felipe Vieira Vieira,M,35,Atendente,3022.48,16,0.3065,33582.66,625,1,12,28,5,"Rua Santa Luzia, 1830",Pinheiros,2,Nenhuma
+351.xyz.921-04,Fernanda Silva Lopes,F,47,Servidor público,7652.89,110,0.3148,28157.05,693,1,15,14,3,"Avenida das Nações, 225",Santana,1,Nenhuma
+630.xyz.559-00,Fernando Andrade Ferreira,M,32,Professor,4542.36,41,0.3228,19308.12,710,1,13,76,10,"Rua São João, 231",Campo Limpo,1,Nenhuma
+173.xyz.950-01,Beatriz Lopes Martins,F,52,Professor,3712.01,5,0.5134,52018.71,626,2,39,212,1,"Rua do Comércio, 2211",Ipiranga,2,Nenhuma
+995.xyz.368-10,Gabriela Martins Ribeiro,F,47,Autônomo,9327.21,101,0.2087,89171.35,723,0,0,23,7,"Rua XV de Novembro, 564",Lapa,1,Nenhuma
+793.xyz.121-18,Gustavo Marques Rodrigues,M,49,Servidor público,7988.57,22,0.1521,29294.03,703,0,0,54,4,"Rua Marechal Deodoro, 783",Butantã,2,Aval
+369.xyz.884-76,Daniel Dias Costa,M,18,Auxiliar administrativo,2214.25,24,0.2361,8584.1,605,0,0,1,6,"Rua Santos Dumont, 1629",Santo Amaro,0,Nenhuma
+570.xyz.362-92,Bianca Costa Fernandes,F,50,Comerciante,8272.82,153,0.5136,152463.86,694,1,46,69,4,"Rua XV de Novembro, 2210",Ipiranga,1,Nenhuma
+581.xyz.953-63,Renata Fernandes Barbosa,F,31,Servidor público,13199.16,85,0.3847,40531.9,790,0,0,74,8,"Rua das Acácias, 603",Mooca,2,Nenhuma
+743.xyz.216-43,Juliana Costa Rodrigues,F,37,Vendedor,2836.44,72,0.0706,5085.69,723,0,0,27,9,"Avenida Paulista, 1532",Pinheiros,2,Nenhuma
+595.xyz.275-09,Priscila Ribeiro Gomes,F,52,Auxiliar administrativo,3998.08,17,0.2301,25963.49,693,0,0,15,5,"Rua XV de Novembro, 432",Pinheiros,2,Nenhuma
+830.xyz.423-99,Fernando Andrade Machado,M,62,Professor,2807.81,53,0.2032,13008.33,683,0,0,3,8,"Rua Santos Dumont, 282",Santo Amaro,0,Nenhuma
+909.xyz.576-00,André Lopes Lopes,M,65,Desenvolvedor de software,6571.99,157,0.2686,37715.1,694,2,29,8,2,"Rua Santos Dumont, 1059",Freguesia do Ó,1,Nenhuma
+195.xyz.248-81,Simone Rodrigues Carvalho,F,59,Contador,11202.96,27,0.4492,146140.36,581,2,13,31,4,"Rua Rio Branco, 2292",São Mateus,4,Imóvel
+926.xyz.581-32,Pedro Rodrigues Nascimento,M,33,Desenvolvedor de software,12054.27,47,0.4748,61702.25,640,2,7,16,7,"Rua Tiradentes, 2150",Freguesia do Ó,2,Veículo
+589.xyz.366-70,Maria Costa Ribeiro,F,52,Operador de produção,3757.13,36,0.4147,22249.39,672,2,12,116,0,"Rua do Comércio, 250",Lapa,2,Veículo
+362.xyz.985-02,João Santos Martins,M,53,Desenvolvedor de software,23392.99,4,0.6459,478648.45,652,1,44,22,3,"Rua Santos Dumont, 266",Santo Amaro,0,Aplicação financeira
+411.xyz.154-70,Bruno Nunes Rocha,M,44,Médico,19550.71,94,0.4485,189760.98,649,2,13,24,2,"Rua da Paz, 1880",Jabaquara,2,Nenhuma
+783.xyz.761-06,Leonardo Soares Pereira,M,31,Servidor público,6655.38,104,0.4393,27843.45,658,2,43,61,6,"Avenida Paulista, 816",Tatuapé,0,Nenhuma
+890.xyz.075-41,Bianca Machado Ferreira,F,63,Motorista,2596.68,10,0.17,9811.54,642,0,0,8,1,"Rua do Comércio, 2205",Vila Mariana,2,Aval
+612.xyz.821-59,Matheus Soares Dias,M,46,Vendedor,2954.38,23,0.167,21725.75,690,0,0,3,3,"Rua Primavera, 348",Campo Limpo,2,Nenhuma
+714.xyz.628-89,Thiago Marques Lopes,M,18,Atendente,1421.89,11,0.1145,4022.15,624,1,11,1,4,"Rua Santos Dumont, 875",Freguesia do Ó,0,Nenhuma
+299.xyz.714-36,Matheus Alves Moreira,M,37,Operador de produção,3025.13,144,0.5156,57909.97,598,1,26,24,0,"Avenida Brasil, 2036",Lapa,0,Nenhuma
+077.xyz.405-32,Fernando Marques Gomes,M,47,Médico,21001.52,8,0.0305,20359.11,766,0,0,4,3,"Rua do Comércio, 1005",Freguesia do Ó,1,Imóvel
+075.xyz.806-30,Patrícia Fernandes Pereira,F,31,Motorista,4720.17,130,0.3245,28555.96,718,1,3,54,8,"Rua Bela Vista, 1957",Vila Formosa,0,Imóvel
+590.xyz.168-60,Priscila Ferreira Andrade,F,37,Motorista,2519.33,15,0.3289,14662.65,703,2,11,158,10,"Rua Tiradentes, 1643",Freguesia do Ó,0,Nenhuma
+122.xyz.229-03,Pedro Fernandes Fernandes,M,47,Servidor público,9046.11,19,0.2948,37667.01,638,2,92,48,17,"Rua São Paulo, 308",Jabaquara,2,Veículo
+778.xyz.670-95,Felipe Soares Machado,M,77,Aposentado,2802.21,0,0.3336,6466.63,667,0,0,89,1,"Rua dos Pinheiros, 2098",Lapa,1,Nenhuma
+580.xyz.287-36,Eduardo Lima Almeida,M,22,Servidor público,7657.52,72,0.4907,60590.25,631,0,0,35,12,"Avenida Paulista, 808",Santana,0,Aplicação financeira
+772.xyz.779-60,Rodrigo Vieira Carvalho,M,27,Operador de produção,2592.6,40,0.324,31221.17,638,2,64,49,17,"Avenida das Nações, 30",Pinheiros,3,Nenhuma
+262.xyz.868-16,Leonardo Gomes Machado,M,30,Autônomo,1752.18,168,0.0276,1839.61,679,0,0,25,2,"Rua São Paulo, 407",Itaquera,1,Nenhuma
+589.xyz.382-51,Simone Rocha Soares,F,36,Operador de produção,3152.5,107,0.3067,32247.65,606,1,36,37,2,"Avenida Dom Pedro II, 1615",Pinheiros,0,Veículo
+543.xyz.285-80,Eduardo Nascimento Ferreira,M,54,Auxiliar administrativo,2870.29,28,0.3012,26125.79,637,1,67,9,2,"Avenida Brasil, 1914",Mooca,1,Nenhuma
+045.xyz.186-37,Carolina Nunes Carvalho,F,31,Desenvolvedor de software,9841.64,117,0.3349,22094.63,718,0,0,6,23,"Avenida Paulista, 2292",Butantã,0,Imóvel
+022.xyz.573-28,Gabriel Vieira Rocha,M,21,Técnico em TI,4440.43,37,0.6254,29726.93,519,3,11,36,1,"Rua do Comércio, 1967",Lapa,0,Nenhuma
+783.xyz.532-76,Fernanda Almeida Andrade,F,23,Técnico em TI,5743.61,23,0.2884,65766.75,669,0,0,18,6,"Rua Tiradentes, 512",Campo Limpo,1,Imóvel
+448.xyz.445-52,Gabriela Oliveira Marques,F,49,Vendedor,3127.7,30,0.3903,35863.98,577,1,18,14,4,"Rua das Flores, 1910",Mooca,1,Nenhuma
+842.xyz.010-37,Mariana Moreira Machado,F,38,Atendente,1582.97,7,0.4243,24687.67,685,1,35,129,13,"Rua dos Pinheiros, 1129",Itaquera,0,Nenhuma
+505.xyz.510-86,Juliana Marques Pereira,F,44,Atendente,1856.67,26,0.4184,33145.17,693,0,0,100,8,"Rua das Acácias, 164",Lapa,2,Nenhuma
+662.xyz.391-99,Paulo Gomes Pereira,M,31,Auxiliar administrativo,3753.97,180,0.5104,60955.12,642,0,0,38,1,"Rua do Comércio, 379",Butantã,1,Nenhuma
+077.xyz.528-60,Diego Martins Barbosa,M,30,Técnico em TI,4316.19,168,0.0457,7537.52,796,0,0,74,5,"Rua Bela Vista, 2128",Vila Prudente,0,Veículo
+331.xyz.662-10,Matheus Machado Martins,M,46,Vendedor,3635.42,65,0.1796,14155.23,695,0,0,12,3,"Rua Bela Vista, 1018",Mooca,0,Nenhuma
+040.xyz.005-96,Amanda Ribeiro Soares,F,33,Motorista,2027.75,73,0.3631,29444.33,587,1,4,18,3,"Rua Santos Dumont, 146",Freguesia do Ó,1,Nenhuma
+548.xyz.241-57,Ana Ferreira Silva,F,41,Servidor público,5818.23,203,0.2543,54035.96,789,0,0,84,0,"Rua Santos Dumont, 138",Itaquera,2,Nenhuma
+769.xyz.153-16,Amanda Lopes Oliveira,F,31,Gerente comercial,9888.57,23,0.4681,32748.72,521,4,29,49,6,"Rua XV de Novembro, 1925",Centro,1,Aplicação financeira
+194.xyz.338-21,Fernanda Soares Machado,F,44,Operador de produção,4300.5,15,0.3512,18769.81,641,0,0,25,11,"Rua dos Pinheiros, 79",Butantã,1,Nenhuma
+998.xyz.811-32,Matheus Andrade Oliveira,M,32,Desenvolvedor de software,7474.78,57,0.3901,121107.58,660,0,0,38,22,"Rua São João, 1279",Vila Mariana,1,Imóvel
+081.xyz.688-56,Fernanda Moreira Martins,F,34,Operador de produção,3789.52,101,0.3724,15212.75,676,0,0,32,18,"Rua Marechal Deodoro, 2030",Ipiranga,1,Nenhuma
+011.xyz.316-92,Daniel Martins Fernandes,M,30,Comerciante,4795.06,34,0.0133,0.0,759,0,0,41,2,"Rua Marechal Deodoro, 532",Jabaquara,0,Aval
+950.xyz.079-48,Mariana Soares Rodrigues,F,55,Advogado,8163.9,10,0.1974,41095.85,633,1,31,44,15,"Rua Tiradentes, 1104",Santana,1,Nenhuma
+569.xyz.443-23,Felipe Pereira Souza,M,49,Vendedor,1922.37,48,0.4813,25008.62,608,1,5,41,4,"Rua Sete de Setembro, 267",Mooca,0,Nenhuma
+341.xyz.476-80,Beatriz Marques Gomes,F,47,Servidor público,15246.23,115,0.4466,112297.81,655,1,16,13,2,"Rua Rio Branco, 954",Ipiranga,1,Aplicação financeira
+855.xyz.910-03,Tatiane Santos Andrade,F,42,Motorista,2829.58,36,0.3521,8907.77,678,0,0,67,7,"Rua dos Pinheiros, 376",Ipiranga,3,Nenhuma
+350.xyz.146-90,Camila Oliveira Machado,F,30,Contador,10340.72,164,0.4485,159338.32,767,0,0,81,15,"Rua Tiradentes, 1701",Santo Amaro,0,Aplicação financeira
+309.xyz.235-33,Carolina Lopes Gomes,F,40,Operador de produção,2953.1,27,0.2177,11532.91,674,1,14,100,3,"Rua Rio Branco, 301",Penha,1,Nenhuma
+811.xyz.700-56,Gabriela Rodrigues Moreira,F,46,Motorista,4412.54,72,0.0519,3011.94,665,0,0,11,4,"Rua Sete de Setembro, 1697",Santo Amaro,0,Veículo
+109.xyz.181-20,Tatiane Moreira Pereira,F,56,Autônomo,1932.7,220,0.3533,24854.05,751,0,0,6,56,"Rua Primavera, 197",Mooca,1,Nenhuma
+226.xyz.099-60,Beatriz Souza Barbosa,F,56,Autônomo,10161.33,105,0.7243,172708.3,578,2,12,26,5,"Rua Santos Dumont, 788",Santo Amaro,1,Nenhuma
+504.xyz.201-08,André Oliveira Lima,M,48,Motorista,2553.88,3,0.5073,19157.38,536,2,33,61,8,"Rua Rio Branco, 1447",Santo Amaro,0,Nenhuma
+040.xyz.387-55,Fernanda Rocha Oliveira,F,37,Atendente,2740.98,29,0.2479,20259.92,720,0,0,71,3,"Rua Santa Luzia, 825",Santo Amaro,1,Nenhuma
+392.xyz.301-52,Priscila Santos Alves,F,41,Comerciante,6038.98,30,0.6835,69118.36,554,2,25,69,2,"Rua do Comércio, 1717",Penha,1,Aval
+255.xyz.573-10,Gabriela Nunes Lopes,F,18,Vendedor,1994.41,24,0.3712,14719.18,637,0,0,1,8,"Rua São João, 2201",Lapa,0,Nenhuma
+745.xyz.932-38,Maria Santos Silva,F,44,Autônomo,6803.41,94,0.1001,24114.1,726,0,0,8,10,"Avenida Paulista, 833",Itaquera,1,Nenhuma
+154.xyz.815-77,Juliana Moreira Pereira,F,21,Motorista,2461.59,60,0.3252,6754.4,628,1,5,36,4,"Rua das Acácias, 1331",Mooca,0,Nenhuma
+112.xyz.713-59,Matheus Nascimento Ribeiro,M,54,Operador de produção,2796.9,210,0.0124,0.0,732,0,0,10,0,"Rua Bela Vista, 879",Butantã,1,Nenhuma
+964.xyz.676-01,Paulo Soares Lima,M,27,Atendente,1860.04,132,0.2708,15096.45,780,1,12,100,10,"Avenida Paulista, 1100",Centro,0,Nenhuma
+887.xyz.939-74,Amanda Almeida Martins,F,64,Aposentado,4076.85,0,0.2039,17838.99,633,0,0,7,3,"Rua Rio Branco, 1584",Butantã,1,Nenhuma
+898.xyz.554-00,Priscila Vieira Costa,F,35,Analista financeiro,6629.7,47,0.3786,111920.55,668,2,12,110,8,"Avenida Paulista, 1433",Santo Amaro,0,Veículo
+667.xyz.630-81,Pedro Santos Soares,M,23,Professor,6864.81,72,0.0902,17570.51,697,0,0,7,3,"Rua Tiradentes, 1381",Jabaquara,0,Nenhuma
+721.xyz.382-71,Marcos Fernandes Alves,M,40,Engenheiro,9573.74,72,0.1671,11725.6,722,0,0,14,4,"Rua dos Pinheiros, 741",Santana,0,Nenhuma
+273.xyz.762-88,Luciana Pereira Santos,F,52,Técnico em TI,4841.96,81,0.2125,21104.47,768,0,0,75,1,"Avenida das Nações, 1551",São Mateus,4,Imóvel
+252.xyz.584-31,Aline Marques Silva,F,23,Analista financeiro,8142.91,47,0.2543,72765.97,689,1,29,54,5,"Rua das Flores, 1072",Freguesia do Ó,0,Aplicação financeira
+393.xyz.287-12,Luciana Costa Vieira,F,42,Atendente,2528.05,13,0.1483,9148.58,528,2,195,42,35,"Rua Primavera, 2445",Vila Mariana,0,Nenhuma
+392.xyz.561-42,Leonardo Oliveira Machado,M,37,Operador de produção,3919.72,7,0.1568,25900.09,622,0,0,7,9,"Rua São Paulo, 416",Santo Amaro,1,Nenhuma
+062.xyz.301-28,Rodrigo Pereira Lopes,M,30,Vendedor,2093.55,44,0.1208,7989.35,759,0,0,57,17,"Avenida das Nações, 305",Ipiranga,0,Nenhuma
+509.xyz.442-41,Anderson Vieira Carvalho,M,31,Motorista,4900.97,10,0.2072,42561.92,689,0,0,12,6,"Rua Marechal Deodoro, 470",Vila Mariana,1,Nenhuma
+070.xyz.676-06,Daniel Souza Soares,M,34,Atendente,1991.1,77,0.1195,10304.28,712,1,13,13,16,"Rua do Comércio, 641",Lapa,0,Nenhuma
+175.xyz.266-04,Bianca Nunes Rocha,F,28,Autônomo,4261.91,5,0.1214,13552.32,658,0,0,14,1,"Rua das Acácias, 1151",Jabaquara,0,Nenhuma
+631.xyz.496-79,Carolina Marques Moreira,F,29,Advogado,6010.1,70,0.492,104094.13,701,2,8,132,11,"Avenida Paulista, 2356",Penha,0,Nenhuma
+949.xyz.689-25,Ricardo Lopes Ribeiro,M,64,Aposentado,3492.72,0,0.0844,2384.8,714,0,0,7,36,"Rua Rio Branco, 1635",Pinheiros,3,Nenhuma
+624.xyz.378-34,Simone Machado Marques,F,39,Gerente comercial,12806.6,70,0.2691,70110.17,729,1,60,115,3,"Rua das Flores, 2371",Butantã,2,Veículo
+508.xyz.341-50,Larissa Silva Moreira,F,36,Vendedor,3722.04,202,0.4689,10607.27,700,1,29,102,7,"Rua XV de Novembro, 1589",Itaquera,2,Nenhuma
+947.xyz.165-24,Thiago Oliveira Moreira,M,36,Operador de produção,2666.74,63,0.4498,17734.07,664,0,0,38,0,"Rua Primavera, 564",Tatuapé,0,Nenhuma
+730.xyz.092-85,Lucas Moreira Pereira,M,32,Contador,12132.07,176,0.5371,229433.48,634,2,17,53,6,"Rua XV de Novembro, 1771",Santana,1,Nenhuma
+172.xyz.189-92,Fernando Pereira Moreira,M,30,Desenvolvedor de software,13739.91,35,0.0459,12836.23,730,0,0,15,30,"Rua Marechal Deodoro, 1971",Ipiranga,0,Imóvel
+791.xyz.258-57,Daniel Almeida Nascimento,M,44,Atendente,1889.91,35,0.233,16320.76,551,4,19,27,5,"Rua Tiradentes, 583",Santana,0,Nenhuma
+578.xyz.717-22,Gustavo Almeida Silva,M,59,Aposentado,1850.49,0,0.2578,22519.74,595,1,45,4,2,"Rua do Comércio, 1129",Pinheiros,3,Nenhuma
+360.xyz.953-38,Amanda Silva Marques,F,47,Vendedor,2533.73,7,0.1667,4344.25,614,0,0,1,5,"Avenida Paulista, 1716",Centro,1,Nenhuma
+327.xyz.587-40,Eduardo Silva Lima,M,21,Motorista,2636.46,4,0.2197,15003.22,725,0,0,36,1,"Rua São Paulo, 1661",São Mateus,0,Nenhuma
+836.xyz.970-00,Anderson Marques Nascimento,M,33,Servidor público,6089.94,13,0.161,18259.88,690,0,0,51,4,"Rua Santos Dumont, 1810",Tatuapé,1,Aval
+083.xyz.610-20,Gabriel Lima Marques,M,46,Técnico em TI,4762.38,34,0.3137,39471.59,626,0,0,8,4,"Rua XV de Novembro, 1098",Jabaquara,0,Nenhuma
+448.xyz.315-19,Juliana Fernandes Oliveira,F,18,Auxiliar administrativo,1859.3,24,0.235,15220.5,643,1,21,1,18,"Rua do Comércio, 1605",Vila Formosa,0,Nenhuma
+255.xyz.764-92,Simone Martins Rodrigues,F,30,Motorista,1848.44,138,0.3422,18604.5,803,0,0,75,7,"Rua das Flores, 1762",Freguesia do Ó,0,Nenhuma
+615.xyz.603-27,Larissa Almeida Ferreira,F,50,Auxiliar administrativo,3243.35,41,0.3901,30762.31,591,2,75,47,5,"Rua Marechal Deodoro, 1106",Ipiranga,1,Nenhuma
+663.xyz.382-59,Lucas Machado Marques,M,38,Técnico em TI,3801.16,3,0.1915,18436.8,694,0,0,40,1,"Rua São João, 1625",São Mateus,1,Nenhuma
+284.xyz.684-20,Bianca Souza Santos,F,81,Aposentado,2495.67,0,0.3918,44322.39,622,1,23,13,19,"Avenida Paulista, 1281",Santana,3,Nenhuma
+329.xyz.758-59,Felipe Almeida Almeida,M,39,Operador de produção,2955.15,23,0.1563,10798.39,584,1,13,39,2,"Rua Rio Branco, 2410",Lapa,1,Nenhuma
+729.xyz.793-07,Thiago Machado Vieira,M,28,Analista financeiro,5710.39,85,0.3194,22071.67,795,0,0,120,9,"Rua Santos Dumont, 280",Santana,0,Nenhuma
+199.xyz.338-51,Juliana Almeida Gomes,F,49,Técnico em TI,7739.26,3,0.3931,109153.71,717,0,0,95,0,"Rua Santa Luzia, 1155",Campo Limpo,3,Imóvel
+453.xyz.316-95,Leonardo Santos Machado,M,40,Enfermeiro,5221.32,41,0.3363,84198.29,762,0,0,28,15,"Rua Primavera, 1226",Campo Limpo,2,Imóvel
+394.xyz.443-83,Maria Nunes Santos,F,69,Aposentado,5577.88,0,0.5675,59415.15,574,2,17,20,7,"Rua Tiradentes, 1681",Lapa,4,Nenhuma
+945.xyz.791-17,Juliana Ribeiro Machado,F,54,Desenvolvedor de software,10009.54,83,0.254,104111.77,699,1,19,8,4,"Rua XV de Novembro, 946",Vila Formosa,0,Nenhuma
+637.xyz.797-02,Patrícia Costa Vieira,F,54,Professor,5227.0,25,0.3801,86486.62,694,1,6,45,15,"Rua das Acácias, 2499",Penha,0,Veículo
+764.xyz.274-35,Amanda Marques Dias,F,22,Motorista,2788.83,72,0.307,12981.98,526,4,15,22,12,"Avenida das Nações, 346",Santo Amaro,0,Imóvel
+040.xyz.412-59,Carlos Costa Andrade,M,35,Vendedor,5363.97,91,0.3263,34024.25,744,1,16,48,7,"Rua Marechal Deodoro, 2395",Vila Mariana,0,Nenhuma
+548.xyz.391-09,Larissa Pereira Almeida,F,21,Vendedor,1588.68,18,0.3592,24553.38,698,0,0,36,0,"Rua Bela Vista, 1224",Santana,0,Nenhuma
+575.xyz.094-94,Larissa Moreira Alves,F,55,Professor,3274.98,127,0.4193,37582.22,616,2,9,7,1,"Avenida Paulista, 733",Centro,1,Aplicação financeira
+539.xyz.476-18,Ana Alves Martins,F,33,Auxiliar administrativo,3699.51,3,0.1583,10706.72,688,0,0,12,20,"Avenida Paulista, 1860",Penha,0,Nenhuma
+240.xyz.305-21,Juliana Barbosa Souza,F,24,Contador,8386.12,44,0.2196,74713.84,640,1,67,2,24,"Rua Tiradentes, 1662",Penha,0,Nenhuma
+163.xyz.928-46,Mariana Ferreira Souza,F,34,Auxiliar administrativo,2372.38,5,0.3873,22142.67,721,0,0,19,9,"Rua Marechal Deodoro, 2489",Santo Amaro,0,Nenhuma
+712.xyz.291-04,Aline Barbosa Dias,F,61,Autônomo,9573.21,105,0.4424,45879.1,640,2,27,65,0,"Rua Marechal Deodoro, 2076",Pinheiros,2,Nenhuma
+515.xyz.097-76,Paulo Machado Costa,M,25,Motorista,1991.45,103,0.2826,17158.0,618,0,0,23,16,"Rua das Acácias, 1128",Vila Mariana,1,Nenhuma
+133.xyz.732-23,Juliana Nunes Vieira,F,32,Atendente,1714.09,92,0.1111,2370.43,697,0,0,18,6,"Rua Sete de Setembro, 1692",Vila Formosa,0,Nenhuma
+667.xyz.912-55,Carolina Vieira Nunes,F,37,Vendedor,3675.12,23,0.063,9341.8,708,0,0,51,2,"Rua São Paulo, 1732",Jabaquara,1,Nenhuma
+593.xyz.340-97,Diego Lopes Ferreira,M,49,Enfermeiro,5097.09,81,0.5426,21017.5,688,2,49,97,7,"Rua Santos Dumont, 598",Butantã,1,Aval
+141.xyz.749-66,Carolina Fernandes Almeida,F,51,Auxiliar administrativo,3491.45,4,0.624,64235.51,482,2,24,19,5,"Rua XV de Novembro, 2085",Freguesia do Ó,1,Nenhuma
+664.xyz.513-53,Juliana Nunes Nunes,F,43,Contador,6967.68,32,0.3529,46074.98,644,3,24,39,17,"Rua Marechal Deodoro, 1498",São Mateus,3,Aval
+830.xyz.507-04,Larissa Marques Almeida,F,28,Atendente,2578.63,69,0.358,21313.19,659,1,7,48,2,"Rua Marechal Deodoro, 568",Vila Formosa,1,Nenhuma
+324.xyz.560-90,Tatiane Fernandes Oliveira,F,54,Vendedor,1911.23,20,0.6294,10234.15,613,1,4,43,1,"Rua Santos Dumont, 2479",Vila Mariana,3,Nenhuma
+440.xyz.940-29,Ricardo Nascimento Rodrigues,M,49,Operador de produção,2624.94,19,0.4438,16722.8,559,2,17,38,5,"Rua Santa Luzia, 2135",Mooca,1,Nenhuma
+604.xyz.523-47,Maria Gomes Souza,F,31,Vendedor,1971.15,51,0.2079,11587.43,674,1,29,45,2,"Rua da Paz, 1489",Campo Limpo,0,Nenhuma
+336.xyz.159-54,André Fernandes Nunes,M,26,Atendente,2294.69,120,0.2652,27053.69,816,1,68,93,5,"Avenida das Nações, 1044",Santo Amaro,0,Nenhuma
+183.xyz.682-69,Paulo Ribeiro Oliveira,M,73,Aposentado,4018.85,0,0.0735,7542.91,721,0,0,21,5,"Rua São Paulo, 50",Tatuapé,3,Nenhuma
+208.xyz.794-30,Débora Dias Soares,F,46,Técnico em TI,5756.89,34,0.3626,17603.72,725,0,0,26,25,"Rua São Paulo, 1663",Itaquera,0,Nenhuma
+044.xyz.150-90,Marcos Fernandes Rocha,M,32,Auxiliar administrativo,3754.49,24,0.2833,49449.27,686,0,0,32,6,"Rua Santa Luzia, 1745",Lapa,2,Nenhuma
+842.xyz.360-40,Simone Oliveira Moreira,F,33,Atendente,2176.12,22,0.5483,29652.09,597,1,71,98,12,"Rua das Acácias, 425",Jabaquara,0,Nenhuma
+085.xyz.049-24,Gabriela Alves Almeida,F,33,Motorista,3425.95,6,0.1949,29016.68,766,0,0,40,33,"Avenida Brasil, 1797",Santo Amaro,0,Nenhuma
+757.xyz.854-04,Lucas Moreira Souza,M,39,Operador de produção,2225.41,26,0.2708,18402.55,754,0,0,65,30,"Rua Sete de Setembro, 108",Butantã,1,Nenhuma
+390.xyz.086-92,Renata Dias Vieira,F,54,Motorista,2290.1,22,0.2772,10926.2,565,2,30,13,10,"Rua Marechal Deodoro, 2339",Mooca,1,Nenhuma
+222.xyz.356-70,Maria Costa Lima,F,52,Vendedor,4739.47,30,0.3931,29182.85,705,1,18,14,16,"Rua Bela Vista, 1859",Campo Limpo,5,Nenhuma
+752.xyz.908-01,Simone Silva Dias,F,19,Operador de produção,3530.23,34,0.2963,19646.23,687,0,0,12,8,"Rua Santa Luzia, 173",Tatuapé,1,Nenhuma
+233.xyz.207-15,Mariana Rodrigues Lima,F,34,Autônomo,5169.15,116,0.3768,78961.38,825,0,0,87,7,"Avenida das Nações, 717",Lapa,1,Nenhuma
+998.xyz.011-09,João Lopes Martins,M,47,Autônomo,3814.43,130,0.0685,4103.08,801,0,0,12,10,"Rua Sete de Setembro, 895",Centro,0,Nenhuma
+201.xyz.967-80,Luciana Fernandes Rodrigues,F,78,Aposentado,1682.68,0,0.5911,30122.54,570,2,6,15,15,"Avenida Brasil, 1164",Jabaquara,2,Nenhuma
+043.xyz.701-00,Simone Carvalho Costa,F,41,Operador de produção,3622.33,49,0.2927,34310.01,705,0,0,50,0,"Rua Santa Luzia, 2066",Lapa,1,Aval
+902.xyz.717-96,Anderson Fernandes Martins,M,41,Comerciante,2396.72,108,0.4062,35301.62,777,0,0,154,12,"Rua Santa Luzia, 2021",Itaquera,1,Nenhuma
+150.xyz.164-06,André Machado Almeida,M,37,Auxiliar administrativo,2658.57,45,0.2333,7602.48,688,0,0,34,6,"Rua Bela Vista, 1096",Mooca,0,Nenhuma
+342.xyz.847-70,Maria Carvalho Pereira,F,41,Técnico em TI,5768.32,37,0.4039,102308.12,631,0,0,12,6,"Rua dos Pinheiros, 1543",Freguesia do Ó,2,Nenhuma
+255.xyz.488-44,Simone Oliveira Nascimento,F,27,Desenvolvedor de software,12423.11,90,0.254,148320.81,812,0,0,34,5,"Rua Marechal Deodoro, 1194",Vila Mariana,0,Veículo
+152.xyz.704-25,André Gomes Dias,M,28,Enfermeiro,5693.22,88,0.2953,41029.08,696,0,0,15,7,"Rua Santos Dumont, 187",Campo Limpo,2,Imóvel
+878.xyz.333-60,Thiago Ferreira Silva,M,41,Analista financeiro,7519.06,6,0.0447,14387.8,777,0,0,30,1,"Rua Santa Luzia, 777",Vila Prudente,0,Nenhuma
+632.xyz.994-28,Felipe Barbosa Gomes,M,30,Auxiliar administrativo,2050.81,65,0.0429,1383.56,772,0,0,144,3,"Rua Santa Luzia, 405",Jabaquara,1,Nenhuma
+479.xyz.204-01,Renata Dias Carvalho,F,27,Engenheiro,4928.48,84,0.3191,45364.31,708,0,0,61,2,"Avenida Dom Pedro II, 1175",Penha,0,Nenhuma
+167.xyz.503-08,Matheus Lima Dias,M,49,Vendedor,4067.9,42,0.1493,24506.14,752,0,0,13,15,"Rua das Acácias, 2084",Vila Formosa,1,Nenhuma
+018.xyz.262-11,Carolina Gomes Carvalho,F,46,Analista financeiro,11815.49,69,0.5096,73107.06,685,2,32,99,4,"Avenida Brasil, 1326",Tatuapé,1,Nenhuma
+047.xyz.941-95,Ricardo Almeida Lopes,M,35,Vendedor,2765.95,30,0.2464,6770.86,714,2,51,72,2,"Rua Sete de Setembro, 1252",Vila Prudente,0,Nenhuma
+015.xyz.138-97,Gabriela Dias Soares,F,46,Técnico em TI,5496.21,129,0.1103,18045.34,816,0,0,49,5,"Rua São João, 2070",Santo Amaro,2,Nenhuma
+260.xyz.790-03,Gabriel Barbosa Carvalho,M,20,Técnico em TI,4020.93,19,0.3533,40497.26,581,0,0,6,2,"Rua XV de Novembro, 360",Vila Mariana,0,Nenhuma
+930.xyz.007-50,Patrícia Costa Nascimento,F,57,Engenheiro,22891.18,72,0.4264,117790.79,714,4,33,208,18,"Rua Rio Branco, 1393",Vila Mariana,3,Imóvel
+928.xyz.481-08,André Souza Ferreira,M,51,Desenvolvedor de software,11019.79,20,0.5539,123907.87,567,1,43,2,3,"Rua do Comércio, 1912",Jabaquara,0,Imóvel
+876.xyz.893-03,Anderson Ferreira Nunes,M,32,Atendente,1998.1,29,0.1533,14422.15,731,0,0,38,3,"Rua XV de Novembro, 1635",Centro,0,Nenhuma
+563.xyz.690-30,André Marques Ribeiro,M,55,Técnico em TI,7717.48,170,0.8066,220875.11,776,0,0,213,15,"Rua Bela Vista, 1144",Lapa,3,Veículo
+491.xyz.374-33,Pedro Silva Dias,M,43,Vendedor,1412.0,29,0.3874,17869.37,646,2,13,31,11,"Rua das Acácias, 1197",São Mateus,1,Nenhuma
+022.xyz.104-21,Camila Santos Silva,F,37,Contador,8478.67,29,0.1318,26586.49,766,0,0,30,2,"Avenida Paulista, 1261",Tatuapé,0,Nenhuma
+490.xyz.558-67,Paulo Nascimento Pereira,M,74,Aposentado,5658.11,0,0.2745,54024.82,698,0,0,86,6,"Rua Primavera, 1065",Itaquera,1,Nenhuma
+954.xyz.538-44,Amanda Rodrigues Carvalho,F,43,Vendedor,1964.7,54,0.0229,1111.14,774,0,0,62,20,"Rua XV de Novembro, 582",Vila Mariana,1,Nenhuma
+450.xyz.574-24,João Almeida Alves,M,31,Médico,20847.83,14,0.2723,130878.69,683,1,49,59,12,"Rua das Flores, 1596",Jabaquara,0,Nenhuma
+766.xyz.010-23,Fernando Alves Barbosa,M,52,Operador de produção,3552.63,16,0.158,7953.75,700,1,33,89,9,"Rua Primavera, 2317",Ipiranga,1,Nenhuma
+411.xyz.484-67,Anderson Carvalho Soares,M,29,Operador de produção,2854.46,143,0.2956,12656.03,708,0,0,33,14,"Rua São Paulo, 1247",Pinheiros,1,Nenhuma
+709.xyz.419-77,Mariana Ferreira Fernandes,F,37,Auxiliar administrativo,2816.5,150,0.0496,3152.26,678,0,0,21,8,"Rua São Paulo, 1039",Penha,1,Nenhuma
+638.xyz.512-69,Bruno Nunes Santos,M,34,Gerente comercial,8973.23,7,0.2234,22928.96,856,0,0,152,2,"Rua Rio Branco, 2201",Itaquera,1,Nenhuma
+016.xyz.889-82,Luciana Dias Machado,F,47,Professor,7111.58,92,0.1766,55826.56,841,0,0,114,12,"Rua Primavera, 2218",Lapa,2,Aval
+891.xyz.685-78,Priscila Machado Costa,F,22,Vendedor,1747.29,72,0.3552,3785.48,676,0,0,48,12,"Rua Santa Luzia, 2146",Pinheiros,0,Nenhuma
+334.xyz.285-74,Anderson Souza Gomes,M,77,Aposentado,6703.5,0,0.2435,13875.09,821,0,0,236,12,"Rua Marechal Deodoro, 1081",Tatuapé,2,Nenhuma
+325.xyz.409-26,Priscila Lima Andrade,F,50,Servidor público,9676.49,22,0.2197,68850.88,687,1,3,62,6,"Avenida Dom Pedro II, 535",Jabaquara,1,Nenhuma
+428.xyz.230-68,Larissa Soares Marques,F,21,Motorista,2608.66,14,0.5244,57941.85,547,2,16,17,2,"Rua das Acácias, 1116",Ipiranga,0,Nenhuma
+051.xyz.039-50,Ricardo Carvalho Martins,M,45,Professor,5841.67,64,0.3945,86839.51,709,1,43,60,22,"Rua Tiradentes, 1338",Mooca,2,Veículo
+532.xyz.054-34,Bruno Soares Ferreira,M,52,Contador,11177.29,119,0.3837,92228.29,813,2,28,80,11,"Rua do Comércio, 583",Centro,2,Imóvel
+173.xyz.749-22,Rafael Santos Gomes,M,73,Aposentado,3689.4,0,0.3947,58078.94,676,4,4,131,14,"Rua das Acácias, 1002",Freguesia do Ó,2,Nenhuma
+908.xyz.153-71,Juliana Rocha Carvalho,F,30,Gerente comercial,11014.99,168,0.3869,32489.87,681,1,50,27,10,"Rua São João, 1389",Centro,2,Imóvel
+908.xyz.020-03,Patrícia Andrade Marques,F,25,Auxiliar administrativo,2498.5,41,0.3271,15518.74,695,0,0,81,0,"Rua das Flores, 397",Vila Prudente,0,Nenhuma
+207.xyz.656-01,Renata Ferreira Soares,F,42,Comerciante,5417.76,49,0.2394,27428.98,774,0,0,209,42,"Rua Bela Vista, 1628",Jabaquara,0,Veículo
+054.xyz.327-07,Tatiane Gomes Moreira,F,29,Professor,2688.14,28,0.3185,24714.06,641,0,0,21,8,"Rua do Comércio, 1730",Jabaquara,1,Nenhuma
+481.xyz.953-40,Luciana Soares Martins,F,49,Professor,5115.79,113,0.1305,12158.62,801,0,0,10,21,"Rua Marechal Deodoro, 1943",Mooca,0,Veículo
+877.xyz.294-27,Rodrigo Martins Gomes,M,42,Auxiliar administrativo,1435.85,36,0.0809,1326.91,708,0,0,60,3,"Avenida das Nações, 616",Santo Amaro,2,Nenhuma
+500.xyz.329-72,Rafael Gomes Rodrigues,M,45,Motorista,4531.52,3,0.175,16554.66,682,1,41,67,2,"Rua dos Pinheiros, 650",Jabaquara,0,Nenhuma
+681.xyz.646-80,Rafael Lima Souza,M,25,Autônomo,7191.4,34,0.4442,123280.27,634,1,12,15,6,"Rua Marechal Deodoro, 112",Lapa,0,Veículo
+465.xyz.335-48,Larissa Rodrigues Ferreira,F,67,Aposentado,4042.86,0,0.3717,67593.46,626,1,3,2,9,"Rua Marechal Deodoro, 1329",Vila Formosa,3,Nenhuma
+691.xyz.152-78,Lucas Ribeiro Alves,M,47,Motorista,4467.42,142,0.3727,36121.45,738,1,11,76,5,"Rua Santa Luzia, 866",Butantã,3,Nenhuma
+029.xyz.580-16,Ricardo Rodrigues Oliveira,M,29,Servidor público,5795.35,38,0.3885,69227.03,638,2,58,23,0,"Rua São João, 489",Ipiranga,2,Aval
+823.xyz.447-86,Ana Ribeiro Martins,F,36,Operador de produção,3206.0,21,0.1627,9729.14,710,0,0,37,7,"Rua dos Pinheiros, 997",Freguesia do Ó,0,Nenhuma
+582.xyz.530-84,André Pereira Almeida,M,51,Contador,8727.86,106,0.171,63708.25,763,0,0,7,7,"Rua Tiradentes, 100",Vila Mariana,1,Veículo
+370.xyz.636-37,Vanessa Lopes Nunes,F,53,Técnico em TI,7463.28,42,0.1764,62459.92,712,0,0,9,14,"Rua das Acácias, 1701",Vila Mariana,2,Nenhuma
+950.xyz.717-93,Matheus Rocha Souza,M,34,Técnico em TI,5577.88,63,0.6075,135453.6,671,1,31,41,0,"Rua Marechal Deodoro, 1635",Santana,2,Nenhuma
+968.xyz.649-74,Fernando Rodrigues Vieira,M,45,Operador de produção,2523.69,14,0.1787,8567.06,769,0,0,84,8,"Avenida das Nações, 739",Vila Prudente,0,Nenhuma
+333.xyz.824-97,Rodrigo Nascimento Barbosa,M,35,Técnico em TI,5745.64,9,0.116,12307.33,728,0,0,53,1,"Rua São João, 647",Vila Mariana,0,Veículo
+781.xyz.303-43,Rafael Rodrigues Lima,M,27,Vendedor,3194.99,38,0.114,16539.59,713,0,0,18,3,"Rua do Comércio, 2428",Itaquera,0,Nenhuma
+674.xyz.793-06,Ricardo Ferreira Ferreira,M,34,Autônomo,1786.82,58,0.2825,18108.2,687,0,0,54,2,"Rua Sete de Setembro, 1800",Vila Mariana,0,Nenhuma
+730.xyz.882-39,Priscila Barbosa Lima,F,39,Analista financeiro,4812.18,89,0.3432,34664.49,632,1,8,5,3,"Rua do Comércio, 106",Itaquera,3,Nenhuma
+109.xyz.267-08,Simone Ferreira Vieira,F,34,Operador de produção,4041.63,5,0.1526,9718.82,631,0,0,30,2,"Rua Bela Vista, 1269",Ipiranga,2,Nenhuma
+484.xyz.112-67,Gabriela Barbosa Pereira,F,24,Engenheiro,9587.24,53,0.5049,210078.29,630,2,6,32,22,"Rua Sete de Setembro, 561",Campo Limpo,0,Nenhuma
+298.xyz.145-90,Ricardo Ribeiro Andrade,M,56,Autônomo,2104.15,5,0.3822,12290.67,629,1,5,31,13,"Avenida Paulista, 789",Vila Mariana,1,Imóvel
+420.xyz.084-78,Felipe Andrade Gomes,M,30,Autônomo,2930.43,12,0.2722,29535.49,694,0,0,26,7,"Rua Bela Vista, 2194",Lapa,0,Nenhuma
+045.xyz.293-19,Carlos Nunes Lopes,M,30,Analista financeiro,7306.28,28,0.4796,123381.55,604,0,0,4,5,"Rua Santa Luzia, 1809",Santo Amaro,1,Nenhuma
+871.xyz.771-42,Fernanda Nascimento Gomes,F,21,Servidor público,9289.87,19,0.2864,80475.2,657,2,10,23,8,"Rua Santa Luzia, 845",Jabaquara,0,Nenhuma
+940.xyz.344-79,André Oliveira Almeida,M,44,Vendedor,4015.44,22,0.2376,7847.5,789,0,0,201,8,"Rua Santos Dumont, 30",Campo Limpo,3,Nenhuma
+418.xyz.777-30,Matheus Souza Oliveira,M,53,Operador de produção,3142.6,133,0.4111,54158.12,742,1,11,78,10,"Avenida Dom Pedro II, 674",Vila Mariana,2,Nenhuma
+688.xyz.377-37,Anderson Souza Santos,M,30,Auxiliar administrativo,4284.25,33,0.3003,40673.16,707,1,46,134,5,"Rua Santa Luzia, 2149",Santana,1,Nenhuma
+690.xyz.132-62,Débora Silva Ribeiro,F,27,Autônomo,5832.55,24,0.4832,19470.87,627,2,69,56,1,"Rua Santos Dumont, 207",Vila Prudente,0,Veículo
+081.xyz.708-14,Leonardo Dias Dias,M,46,Gerente comercial,7266.11,308,0.4133,104076.94,819,0,0,109,21,"Rua Tiradentes, 171",Vila Formosa,0,Nenhuma
+587.xyz.344-69,Rodrigo Rodrigues Silva,M,45,Médico,25334.93,18,0.4458,107418.38,683,0,0,41,2,"Rua do Comércio, 1123",Centro,3,Veículo
+821.xyz.598-04,João Pereira Nascimento,M,44,Professor,3620.56,77,0.348,31747.1,591,1,3,14,3,"Rua do Comércio, 1378",Centro,1,Nenhuma
+363.xyz.380-45,Priscila Nunes Oliveira,F,54,Engenheiro,12800.92,11,0.6435,227552.86,606,2,10,19,10,"Rua da Paz, 2099",Jabaquara,1,Nenhuma
+064.xyz.650-00,Camila Martins Oliveira,F,39,Analista financeiro,6818.93,28,0.1147,23469.36,740,0,0,52,10,"Avenida Paulista, 1754",Pinheiros,0,Nenhuma
+421.xyz.083-30,Aline Martins Martins,F,52,Autônomo,7715.97,10,0.3684,17479.51,687,1,5,10,9,"Avenida Paulista, 930",Vila Prudente,3,Nenhuma
+468.xyz.224-75,Anderson Pereira Lima,M,52,Professor,6797.9,17,0.0512,8147.54,743,0,0,81,3,"Avenida Brasil, 56",Pinheiros,1,Veículo
+567.xyz.873-75,Eduardo Lopes Carvalho,M,27,Auxiliar administrativo,2092.75,72,0.4026,34645.29,688,0,0,50,4,"Avenida Dom Pedro II, 2419",Penha,0,Nenhuma
+987.xyz.911-85,Gabriela Carvalho Moreira,F,39,Autônomo,2511.14,61,0.1209,12217.12,737,0,0,80,1,"Rua Bela Vista, 734",Itaquera,3,Nenhuma
+874.xyz.850-00,Ricardo Nunes Pereira,M,24,Vendedor,3547.12,51,0.1727,26815.18,783,0,0,51,12,"Rua XV de Novembro, 952",Ipiranga,0,Nenhuma
+710.xyz.359-39,Paulo Pereira Barbosa,M,79,Aposentado,2916.74,0,0.5526,60301.97,643,1,13,79,18,"Rua Rio Branco, 1898",Vila Mariana,4,Nenhuma
+461.xyz.785-62,Lucas Machado Gomes,M,30,Enfermeiro,5877.21,73,0.4944,88170.56,614,0,0,39,4,"Rua Marechal Deodoro, 2215",Santo Amaro,0,Nenhuma
+652.xyz.345-60,Patrícia Silva Vieira,F,41,Motorista,5491.47,57,0.5131,67703.32,801,0,0,175,22,"Rua Primavera, 2323",Vila Prudente,2,Nenhuma
+515.xyz.497-56,Anderson Almeida Moreira,M,42,Contador,10763.37,48,0.2522,37318.34,719,0,0,31,1,"Rua das Flores, 724",Centro,1,Imóvel
+673.xyz.126-74,Ricardo Andrade Martins,M,41,Professor,5015.24,9,0.2081,23772.5,622,2,39,53,4,"Avenida Paulista, 1702",Santo Amaro,0,Nenhuma
+709.xyz.617-09,Eduardo Nascimento Souza,M,43,Contador,9627.52,27,0.2005,89696.03,718,0,0,7,10,"Avenida Paulista, 1021",Penha,0,Veículo
+729.xyz.260-87,Renata Rodrigues Ribeiro,F,21,Servidor público,12322.41,60,0.1522,75127.32,757,0,0,36,3,"Avenida das Nações, 1956",Penha,1,Veículo
+977.xyz.876-48,Priscila Andrade Rocha,F,23,Analista financeiro,5024.78,84,0.2981,33449.28,686,2,5,13,3,"Rua Tiradentes, 1144",Butantã,1,Nenhuma
+306.xyz.831-12,Pedro Lima Lima,M,18,Vendedor,3030.83,24,0.388,44962.15,530,1,42,1,6,"Rua das Flores, 1089",Centro,0,Nenhuma
+616.xyz.290-12,Beatriz Pereira Soares,F,43,Professor,2800.33,35,0.4066,23029.85,606,2,23,34,3,"Rua São Paulo, 386",São Mateus,3,Nenhuma
+120.xyz.942-13,Matheus Lopes Carvalho,M,38,Técnico em TI,5437.03,67,0.2158,25776.98,695,2,4,112,30,"Rua Bela Vista, 2416",Mooca,0,Nenhuma
+374.xyz.283-90,Ana Lima Martins,F,29,Gerente comercial,14291.31,41,0.5806,396457.09,654,2,6,82,7,"Rua Marechal Deodoro, 2411",Jabaquara,0,Aval
+869.xyz.159-37,Marcos Santos Santos,M,37,Motorista,3667.52,6,0.5667,41970.84,646,2,5,82,27,"Rua das Acácias, 68",Lapa,2,Nenhuma
+747.xyz.511-79,Ricardo Nascimento Gomes,M,18,Vendedor,1412.0,24,0.6154,15783.36,545,0,0,1,6,"Rua Santos Dumont, 2189",Ipiranga,0,Nenhuma
+535.xyz.109-71,Mariana Almeida Barbosa,F,54,Auxiliar administrativo,2673.41,26,0.2172,22571.87,606,0,0,18,2,"Rua do Comércio, 2163",Freguesia do Ó,1,Nenhuma
+883.xyz.049-65,Tatiane Dias Andrade,F,29,Analista financeiro,3477.84,79,0.0825,5286.07,704,0,0,8,1,"Rua São Paulo, 751",Itaquera,0,Nenhuma
+853.xyz.268-92,Matheus Lopes Nunes,M,47,Professor,5859.43,64,0.117,9587.46,746,0,0,44,18,"Rua Sete de Setembro, 1024",Penha,2,Nenhuma
+676.xyz.402-56,Daniel Barbosa Marques,M,45,Advogado,5912.3,3,0.0943,7234.32,717,1,12,9,14,"Rua Sete de Setembro, 387",Pinheiros,1,Nenhuma
+884.xyz.349-16,Eduardo Vieira Alves,M,26,Operador de produção,2791.75,9,0.1544,4633.79,666,0,0,21,2,"Avenida Dom Pedro II, 758",Butantã,1,Nenhuma
+174.xyz.426-12,Renata Santos Alves,F,39,Operador de produção,2639.7,110,0.2863,11263.87,742,0,0,6,9,"Avenida das Nações, 2321",Vila Mariana,1,Nenhuma
+722.xyz.268-26,Aline Almeida Martins,F,25,Operador de produção,2811.96,8,0.2351,23775.14,569,1,31,56,2,"Rua Bela Vista, 2285",Tatuapé,0,Aplicação financeira
+479.xyz.273-72,Aline Lima Machado,F,27,Autônomo,3299.28,25,0.1241,18923.24,671,0,0,46,0,"Rua Marechal Deodoro, 2002",Jabaquara,0,Nenhuma
+208.xyz.843-97,Fernando Ferreira Lopes,M,34,Contador,9757.52,12,0.2748,44684.25,678,1,25,36,0,"Rua Rio Branco, 822",Lapa,1,Nenhuma
+183.xyz.754-11,Patrícia Silva Gomes,F,34,Auxiliar administrativo,2572.17,3,0.1132,5366.09,594,0,0,3,4,"Rua São João, 338",Pinheiros,0,Nenhuma
+086.xyz.781-80,Maria Marques Machado,F,39,Autônomo,7979.37,35,0.2452,24447.61,670,1,15,22,2,"Rua do Comércio, 716",Vila Mariana,1,Nenhuma
+919.xyz.973-65,Rodrigo Dias Moreira,M,27,Servidor público,8176.84,58,0.2711,88267.72,702,2,5,10,11,"Rua Tiradentes, 2125",Tatuapé,1,Aval
+745.xyz.517-70,Aline Rocha Lopes,F,58,Contador,7768.93,109,0.1473,48080.56,648,0,0,4,1,"Rua das Acácias, 601",Centro,3,Aval
+934.xyz.816-96,Carlos Rocha Andrade,M,35,Contador,6558.06,7,0.0839,6609.65,685,0,0,10,1,"Rua São Paulo, 1318",Jabaquara,1,Nenhuma
+360.xyz.845-58,Leonardo Lima Machado,M,23,Atendente,1587.42,84,0.565,13667.74,606,1,99,31,23,"Rua Sete de Setembro, 90",Tatuapé,0,Nenhuma
+556.xyz.359-50,Beatriz Fernandes Martins,F,43,Contador,3658.88,145,0.369,47033.97,656,0,0,1,1,"Rua da Paz, 2067",Santana,2,Aplicação financeira
+949.xyz.173-36,Juliana Carvalho Oliveira,F,46,Desenvolvedor de software,8493.38,13,0.4756,141085.13,599,0,0,1,1,"Rua Sete de Setembro, 1772",Freguesia do Ó,0,Nenhuma
+397.xyz.002-21,Daniel Barbosa Silva,M,39,Vendedor,2219.14,48,0.2511,8126.84,664,2,19,88,4,"Avenida das Nações, 1494",Itaquera,2,Nenhuma
+573.xyz.196-70,Thiago Fernandes Santos,M,47,Autônomo,1668.35,22,0.2645,18490.89,645,0,0,33,6,"Rua Tiradentes, 700",São Mateus,0,Nenhuma
+786.xyz.028-06,Daniel Almeida Gomes,M,21,Motorista,1897.31,39,0.3275,13177.26,606,2,15,36,2,"Rua das Acácias, 94",Vila Prudente,0,Nenhuma
+734.xyz.992-65,Mariana Machado Souza,F,74,Aposentado,4536.6,0,0.609,68745.15,509,0,0,3,0,"Rua XV de Novembro, 1348",Jabaquara,0,Nenhuma
+829.xyz.208-47,Maria Barbosa Santos,F,37,Advogado,8560.03,65,0.3279,74201.7,760,0,0,100,8,"Rua da Paz, 676",Santana,1,Aval
+434.xyz.978-95,Simone Lima Barbosa,F,44,Técnico em TI,4699.91,151,0.2892,11777.0,735,0,0,1,30,"Rua São Paulo, 150",Penha,1,Nenhuma
+908.xyz.746-50,Diego Ribeiro Santos,M,53,Auxiliar administrativo,3113.75,102,0.1881,10166.33,784,0,0,68,30,"Rua das Flores, 2313",Campo Limpo,0,Nenhuma
+435.xyz.060-40,Thiago Alves Ribeiro,M,59,Autônomo,5684.23,102,0.3293,71259.34,762,0,0,18,14,"Rua dos Pinheiros, 1853",Itaquera,2,Nenhuma
+054.xyz.640-38,Simone Machado Vieira,F,27,Autônomo,6407.75,27,0.2325,39234.42,715,0,0,16,27,"Rua São João, 898",Itaquera,1,Nenhuma
+605.xyz.188-37,Luciana Carvalho Lima,F,32,Vendedor,3912.3,55,0.1657,28861.1,803,1,19,90,22,"Rua Santos Dumont, 1676",Vila Formosa,1,Nenhuma
+700.xyz.806-14,Ricardo Carvalho Nascimento,M,31,Operador de produção,4138.6,91,0.2531,29426.64,695,1,8,49,1,"Rua dos Pinheiros, 2090",Ipiranga,0,Nenhuma
+102.xyz.112-68,Simone Souza Lima,F,36,Vendedor,4621.35,94,0.1829,7776.81,715,1,6,41,6,"Avenida Paulista, 493",Tatuapé,2,Nenhuma
+893.xyz.395-62,Juliana Rodrigues Andrade,F,31,Auxiliar administrativo,2030.28,6,0.3577,6818.41,662,0,0,64,3,"Rua Rio Branco, 1632",Ipiranga,2,Nenhuma
+685.xyz.993-08,Bianca Martins Barbosa,F,41,Analista financeiro,11538.94,125,0.0625,31234.5,763,0,0,28,0,"Rua Marechal Deodoro, 458",Mooca,0,Imóvel
+192.xyz.388-82,Renata Soares Nascimento,F,33,Autônomo,1419.17,50,0.3884,21656.21,604,1,41,26,1,"Rua Bela Vista, 787",Pinheiros,1,Nenhuma
+662.xyz.046-04,Ana Santos Santos,F,42,Auxiliar administrativo,2130.94,23,0.2629,6217.99,705,0,0,60,0,"Rua Tiradentes, 2272",Santana,0,Nenhuma
+400.xyz.096-50,Tatiane Silva Dias,F,48,Técnico em TI,8883.75,48,0.3425,36285.56,671,3,42,13,9,"Rua do Comércio, 611",Butantã,3,Nenhuma
+507.xyz.560-77,Priscila Lima Costa,F,54,Auxiliar administrativo,2390.38,57,0.189,7239.27,772,1,19,33,18,"Rua Santos Dumont, 1704",Pinheiros,2,Nenhuma
+892.xyz.580-80,Anderson Nunes Moreira,M,36,Gerente comercial,12268.94,46,0.2707,70491.71,648,1,7,27,4,"Avenida das Nações, 1168",Vila Prudente,1,Aplicação financeira
+580.xyz.525-60,Priscila Soares Ribeiro,F,58,Auxiliar administrativo,3807.63,8,0.1168,15294.63,789,0,0,131,0,"Rua do Comércio, 2301",Vila Prudente,4,Imóvel
+518.xyz.829-71,Gabriel Gomes Soares,M,46,Atendente,2298.76,111,0.3522,38131.55,671,2,36,187,2,"Rua Santos Dumont, 1142",Santana,0,Nenhuma
+663.xyz.435-55,Gabriel Soares Marques,M,76,Aposentado,2267.49,0,0.2114,22888.02,611,0,0,5,7,"Rua Tiradentes, 1161",Campo Limpo,1,Nenhuma
+067.xyz.309-57,Aline Silva Costa,F,37,Atendente,2076.81,5,0.078,4795.92,738,0,0,74,10,"Rua XV de Novembro, 2072",Itaquera,1,Nenhuma
+841.xyz.171-28,Maria Machado Almeida,F,23,Vendedor,2011.95,84,0.0353,1331.5,757,0,0,30,9,"Avenida Dom Pedro II, 1744",Campo Limpo,0,Nenhuma
+580.xyz.648-00,Marcos Rodrigues Moreira,M,27,Auxiliar administrativo,2929.99,15,0.3493,6170.11,732,1,24,108,19,"Avenida Brasil, 727",Mooca,1,Nenhuma
+276.xyz.181-31,Anderson Gomes Ribeiro,M,42,Enfermeiro,6019.89,104,0.5209,143698.58,654,1,16,31,16,"Rua Marechal Deodoro, 1324",Mooca,2,Nenhuma
+663.xyz.219-69,Fernanda Machado Silva,F,40,Técnico em TI,3284.93,104,0.4781,43067.17,689,2,11,46,21,"Rua São Paulo, 2117",Santo Amaro,0,Nenhuma
+316.xyz.981-06,Simone Machado Rocha,F,52,Atendente,2299.49,26,0.1247,2557.84,717,0,0,28,4,"Rua XV de Novembro, 749",Jabaquara,3,Nenhuma
+540.xyz.789-34,Aline Vieira Ferreira,F,34,Atendente,2552.4,25,0.2887,33592.12,640,2,30,32,21,"Avenida Brasil, 30",Vila Prudente,1,Nenhuma
+237.xyz.469-40,Paulo Carvalho Silva,M,33,Auxiliar administrativo,3003.7,29,0.085,4405.01,784,0,0,76,23,"Avenida Paulista, 447",Santo Amaro,0,Nenhuma
+979.xyz.958-34,Paulo Souza Costa,M,38,Vendedor,2694.04,68,0.3855,10084.77,689,0,0,71,1,"Rua das Flores, 291",Tatuapé,1,Nenhuma
+053.xyz.528-38,Paulo Nascimento Costa,M,47,Motorista,2962.37,133,0.3507,26729.32,714,1,16,54,7,"Avenida das Nações, 1894",Mooca,1,Nenhuma
+798.xyz.127-80,Thiago Gomes Rocha,M,38,Vendedor,2581.78,8,0.1939,9669.33,683,0,0,80,2,"Rua São João, 1504",Ipiranga,3,Nenhuma
+736.xyz.601-20,André Pereira Nascimento,M,60,Autônomo,6450.9,25,0.4195,124701.93,611,1,12,18,4,"Rua da Paz, 715",Lapa,1,Nenhuma
+689.xyz.234-47,Daniel Andrade Carvalho,M,30,Contador,6829.6,3,0.2656,20350.92,686,0,0,8,1,"Rua Tiradentes, 574",Centro,0,Veículo
+834.xyz.640-52,Camila Ribeiro Barbosa,F,41,Servidor público,10015.58,195,0.7478,232272.3,655,1,70,3,4,"Rua São João, 1333",Itaquera,0,Nenhuma
+760.xyz.316-67,Débora Oliveira Vieira,F,40,Motorista,2627.68,39,0.1233,6720.79,628,1,16,10,1,"Rua das Acácias, 2267",Jabaquara,0,Nenhuma
+429.xyz.092-66,João Lopes Andrade,M,42,Vendedor,2932.48,134,0.5607,50363.08,554,4,48,44,2,"Rua do Comércio, 2253",Pinheiros,1,Aval
+357.xyz.634-18,Ricardo Martins Silva,M,39,Comerciante,3985.61,43,0.1739,16283.86,701,0,0,8,20,"Rua Bela Vista, 1983",Santo Amaro,1,Nenhuma
+847.xyz.212-04,Ana Rocha Rocha,F,52,Enfermeiro,7072.58,145,0.4915,75255.86,651,4,17,13,4,"Rua da Paz, 2355",Mooca,0,Nenhuma
+569.xyz.007-08,Simone Dias Fernandes,F,26,Servidor público,6921.3,120,0.3235,62994.36,742,0,0,28,6,"Rua Santos Dumont, 1624",Butantã,1,Nenhuma
+730.xyz.872-34,Diego Soares Rodrigues,M,26,Vendedor,2410.07,30,0.1029,7027.8,704,0,0,78,1,"Avenida Dom Pedro II, 1799",Centro,1,Nenhuma
+427.xyz.487-87,Anderson Marques Nunes,M,23,Enfermeiro,3539.64,7,0.4503,14692.25,559,0,0,17,3,"Rua Bela Vista, 732",Pinheiros,0,Nenhuma
+387.xyz.934-25,Aline Vieira Souza,F,36,Técnico em TI,5193.66,20,0.5494,95686.87,618,0,0,29,7,"Avenida Brasil, 1224",Butantã,1,Veículo
+534.xyz.687-91,Gustavo Oliveira Vieira,M,46,Operador de produção,2283.04,8,0.2664,25201.15,608,1,18,8,14,"Rua Marechal Deodoro, 1308",Butantã,0,Nenhuma
+494.xyz.123-07,Gabriel Nunes Soares,M,60,Aposentado,4879.4,0,0.0438,5908.35,693,2,34,102,5,"Rua das Acácias, 1784",Ipiranga,2,Nenhuma
+204.xyz.153-96,Ana Marques Rodrigues,F,44,Atendente,2557.82,116,0.1976,20276.74,762,0,0,20,20,"Avenida Paulista, 1090",Freguesia do Ó,1,Nenhuma
+550.xyz.476-77,Débora Oliveira Martins,F,30,Desenvolvedor de software,15401.25,50,0.6006,98331.02,717,0,0,88,2,"Rua São João, 2087",Butantã,0,Aval
+709.xyz.828-21,Rafael Marques Pereira,M,36,Auxiliar administrativo,1545.21,15,0.163,10160.87,677,0,0,25,22,"Avenida Paulista, 80",Lapa,0,Nenhuma
+755.xyz.251-24,Carolina Machado Almeida,F,18,Atendente,1972.91,24,0.2701,14244.85,662,0,0,1,18,"Avenida Brasil, 1740",Vila Mariana,0,Nenhuma
+408.xyz.286-42,Daniel Machado Ferreira,M,37,Operador de produção,4342.41,12,0.4789,85887.02,649,0,0,49,2,"Rua do Comércio, 501",Ipiranga,1,Nenhuma
+242.xyz.657-18,Daniel Nascimento Souza,M,37,Gerente comercial,9764.84,15,0.2346,52401.71,698,0,0,59,10,"Rua XV de Novembro, 1176",Vila Formosa,1,Veículo
+878.xyz.850-63,Marcos Alves Marques,M,44,Operador de produção,3085.15,114,0.0756,5597.54,709,0,0,5,14,"Rua das Acácias, 2118",Freguesia do Ó,1,Nenhuma
+896.xyz.060-71,Lucas Vieira Machado,M,59,Aposentado,3137.83,0,0.2299,22765.15,705,1,11,17,15,"Rua dos Pinheiros, 2238",Penha,3,Nenhuma
+029.xyz.489-01,Amanda Souza Ferreira,F,44,Vendedor,2235.92,99,0.2503,22391.21,793,0,0,117,5,"Rua da Paz, 1814",Butantã,1,Nenhuma
+160.xyz.595-45,Priscila Pereira Nascimento,F,36,Atendente,2599.18,133,0.2654,9539.42,739,0,0,86,2,"Rua Sete de Setembro, 1264",Campo Limpo,0,Nenhuma
+758.xyz.398-60,Bruno Santos Andrade,M,70,Aposentado,2912.58,0,0.3131,27960.8,722,0,0,92,8,"Rua São João, 1009",Freguesia do Ó,5,Nenhuma
+556.xyz.867-02,André Oliveira Souza,M,39,Motorista,2448.73,75,0.2773,28760.24,621,0,0,4,6,"Rua Bela Vista, 2324",Campo Limpo,1,Nenhuma
+652.xyz.157-10,Débora Vieira Rocha,F,62,Aposentado,5248.29,0,0.3,16000.97,626,0,0,8,1,"Rua Marechal Deodoro, 319",Lapa,1,Nenhuma
+677.xyz.254-84,Vanessa Oliveira Nunes,F,38,Gerente comercial,11470.45,139,0.1378,70076.4,842,0,0,32,16,"Rua Sete de Setembro, 1728",Ipiranga,1,Imóvel
+184.xyz.715-59,Mariana Costa Souza,F,37,Atendente,2279.81,73,0.1444,5920.15,707,3,65,186,3,"Rua das Flores, 2492",São Mateus,1,Nenhuma
+329.xyz.106-65,Gabriel Fernandes Nunes,M,29,Professor,5627.98,94,0.329,84700.32,572,1,45,10,1,"Rua Santa Luzia, 380",Vila Mariana,1,Nenhuma
+610.xyz.819-60,Daniel Vieira Andrade,M,42,Motorista,5472.85,38,0.4684,43294.5,776,1,15,116,11,"Rua das Acácias, 1167",Penha,2,Nenhuma
+454.xyz.569-36,Bruno Costa Martins,M,40,Auxiliar administrativo,2284.43,61,0.2655,12906.31,709,0,0,1,9,"Rua Bela Vista, 1177",Campo Limpo,1,Nenhuma
+151.xyz.147-01,Marcos Santos Gomes,M,27,Técnico em TI,3145.37,73,0.1334,18995.28,649,1,14,3,11,"Avenida Paulista, 1505",Penha,0,Nenhuma
+191.xyz.668-24,Rafael Rodrigues Costa,M,38,Desenvolvedor de software,11842.68,110,0.3553,179567.23,729,1,12,3,24,"Rua dos Pinheiros, 1153",Centro,1,Imóvel
+628.xyz.851-33,Patrícia Soares Moreira,F,41,Vendedor,3577.75,83,0.3609,54870.25,734,1,10,24,15,"Avenida Brasil, 2425",Campo Limpo,0,Nenhuma
+978.xyz.897-93,Ana Rocha Vieira,F,39,Professor,3452.98,148,0.3328,43639.13,788,1,17,41,20,"Rua São Paulo, 2037",Santana,1,Nenhuma
+741.xyz.670-45,Vanessa Gomes Moreira,F,40,Professor,5522.0,12,0.4041,102842.84,639,1,75,44,6,"Rua Primavera, 272",Freguesia do Ó,1,Nenhuma
+442.xyz.734-59,Leonardo Marques Souza,M,36,Advogado,11871.33,72,0.1033,41235.54,729,2,4,62,4,"Rua Primavera, 890",Freguesia do Ó,2,Aval
+188.xyz.649-57,Rodrigo Machado Andrade,M,71,Aposentado,1661.41,0,0.3344,15419.46,633,0,0,45,2,"Rua Marechal Deodoro, 404",Campo Limpo,1,Nenhuma
+956.xyz.805-46,Mariana Martins Carvalho,F,28,Gerente comercial,12185.84,8,0.0542,8284.73,808,0,0,67,13,"Avenida das Nações, 395",Jabaquara,0,Imóvel
+662.xyz.145-06,Anderson Soares Moreira,M,31,Vendedor,2008.67,180,0.1948,14170.07,706,0,0,44,0,"Rua do Comércio, 1342",São Mateus,0,Nenhuma
+396.xyz.099-03,Diego Moreira Machado,M,40,Desenvolvedor de software,10244.72,114,0.0345,4247.23,894,0,0,264,1,"Rua Tiradentes, 733",São Mateus,0,Nenhuma
+939.xyz.965-46,Amanda Moreira Ferreira,F,34,Médico,8605.97,110,0.3649,38986.0,741,2,45,22,13,"Rua Bela Vista, 2168",São Mateus,2,Nenhuma
+800.xyz.446-64,Lucas Nascimento Nascimento,M,31,Enfermeiro,4170.47,56,0.1142,12075.48,635,0,0,6,10,"Rua Santos Dumont, 319",Mooca,2,Nenhuma
+111.xyz.916-10,Ana Martins Carvalho,F,39,Técnico em TI,4024.16,14,0.1855,16781.0,696,0,0,9,27,"Rua das Flores, 1472",Itaquera,2,Nenhuma
+556.xyz.925-93,Renata Carvalho Almeida,F,33,Atendente,2617.83,37,0.2227,8057.72,742,0,0,75,7,"Rua São Paulo, 1503",Penha,0,Nenhuma
+247.xyz.473-29,Maria Carvalho Lopes,F,37,Vendedor,2261.2,25,0.1667,4903.16,644,0,0,6,3,"Rua São João, 640",Mooca,0,Nenhuma
+769.xyz.985-80,Maria Andrade Souza,F,20,Técnico em TI,7317.25,15,0.4859,93948.47,647,1,4,24,0,"Rua dos Pinheiros, 146",Ipiranga,1,Nenhuma
+654.xyz.181-20,Vanessa Almeida Alves,F,38,Motorista,5139.78,8,0.323,22858.01,679,0,0,8,4,"Rua dos Pinheiros, 2239",Lapa,0,Nenhuma
+894.xyz.988-80,Larissa Rocha Soares,F,43,Comerciante,3802.73,119,0.0404,5718.21,775,1,34,39,3,"Rua Rio Branco, 1558",Freguesia do Ó,0,Nenhuma
+680.xyz.288-10,Amanda Fernandes Lima,F,50,Atendente,3493.33,48,0.2317,29934.51,736,1,49,56,17,"Avenida Paulista, 480",Lapa,0,Nenhuma
+191.xyz.089-00,Thiago Dias Gomes,M,26,Vendedor,2050.52,11,0.1919,17708.86,756,0,0,96,8,"Avenida Dom Pedro II, 584",Vila Mariana,0,Nenhuma
+469.xyz.542-04,Gabriela Nunes Nascimento,F,47,Professor,4309.46,50,0.3021,33266.91,805,0,0,143,5,"Rua dos Pinheiros, 103",Mooca,3,Nenhuma
+120.xyz.106-05,Patrícia Lopes Oliveira,F,68,Aposentado,3281.0,0,0.1553,21010.14,633,1,100,36,5,"Rua São João, 362",Santana,4,Nenhuma
+715.xyz.119-40,Maria Souza Gomes,F,29,Operador de produção,2793.51,81,0.2967,9776.73,823,0,0,56,29,"Rua XV de Novembro, 140",Pinheiros,1,Nenhuma
+254.xyz.007-82,Gabriel Martins Nunes,M,41,Engenheiro,9111.91,4,0.1594,18436.01,659,0,0,21,0,"Rua Santos Dumont, 574",Butantã,2,Nenhuma
+787.xyz.816-39,Juliana Ferreira Souza,F,42,Vendedor,3487.99,38,0.3609,22197.28,692,0,0,27,4,"Rua Santa Luzia, 1426",Vila Formosa,0,Aval
+142.xyz.125-09,João Vieira Almeida,M,29,Enfermeiro,6477.81,75,0.3316,64798.56,560,2,80,11,7,"Rua São Paulo, 2429",Campo Limpo,1,Nenhuma
+655.xyz.394-77,Carolina Dias Pereira,F,23,Comerciante,4874.13,83,0.3484,34673.65,661,1,29,39,3,"Rua XV de Novembro, 1877",Jabaquara,0,Nenhuma
+849.xyz.704-80,Gabriel Santos Soares,M,46,Vendedor,2157.78,28,0.2499,14094.82,656,1,8,39,4,"Rua Bela Vista, 570",Vila Formosa,2,Nenhuma
+261.xyz.098-91,Ana Barbosa Moreira,F,24,Contador,7867.65,31,0.2813,63446.71,628,1,13,13,18,"Avenida Brasil, 603",Tatuapé,3,Imóvel
+924.xyz.538-69,Débora Rocha Pereira,F,26,Comerciante,5405.55,13,0.2151,31927.96,610,1,115,35,23,"Rua das Acácias, 295",São Mateus,1,Nenhuma
+278.xyz.107-40,Pedro Carvalho Soares,M,35,Motorista,3916.06,72,0.3996,12159.78,716,1,11,42,21,"Avenida das Nações, 393",Vila Prudente,0,Nenhuma
+591.xyz.166-03,Bianca Nascimento Alves,F,48,Motorista,3757.49,170,0.1098,17477.66,714,0,0,57,5,"Rua das Flores, 1054",Vila Mariana,3,Nenhuma
+728.xyz.292-04,Pedro Almeida Oliveira,M,36,Autônomo,3436.41,14,0.3607,29012.32,719,0,0,100,8,"Rua Santos Dumont, 2136",Vila Prudente,3,Nenhuma
+225.xyz.264-60,Gustavo Barbosa Moreira,M,36,Atendente,3147.73,13,0.2679,23432.4,645,1,41,16,1,"Rua Santa Luzia, 393",Santo Amaro,0,Veículo
+609.xyz.486-89,Bianca Carvalho Nascimento,F,34,Professor,7943.28,152,0.4894,136597.42,711,0,0,12,9,"Rua São Paulo, 1540",Butantã,2,Nenhuma
+234.xyz.361-28,Ricardo Almeida Nascimento,M,19,Auxiliar administrativo,2262.06,36,0.2015,17915.21,710,0,0,12,6,"Rua da Paz, 2467",Vila Mariana,0,Nenhuma
+797.xyz.088-42,Renata Rodrigues Dias,F,57,Analista financeiro,6560.14,7,0.2025,50896.84,590,1,33,31,5,"Rua Tiradentes, 1472",Tatuapé,2,Veículo
+593.xyz.397-52,Larissa Soares Silva,F,32,Gerente comercial,13316.3,35,0.4762,152327.77,669,0,0,43,8,"Rua XV de Novembro, 1553",Pinheiros,2,Imóvel
+070.xyz.536-27,Thiago Nascimento Lima,M,29,Autônomo,1882.69,156,0.0693,935.85,723,0,0,1,18,"Rua Rio Branco, 1948",Penha,1,Nenhuma
+645.xyz.170-38,Gabriela Ribeiro Costa,F,28,Motorista,4175.25,144,0.1161,12484.5,721,0,0,11,3,"Rua São Paulo, 633",Campo Limpo,1,Nenhuma
+497.xyz.291-06,Rodrigo Ribeiro Rodrigues,M,49,Professor,4542.97,64,0.4849,91771.29,616,1,61,31,4,"Rua Santos Dumont, 2015",Itaquera,1,Nenhuma
+561.xyz.263-01,Carlos Vieira Vieira,M,36,Autônomo,5762.82,49,0.0975,15804.92,655,1,34,19,13,"Avenida das Nações, 886",Butantã,1,Nenhuma
+643.xyz.116-99,Carlos Soares Fernandes,M,35,Engenheiro,25696.64,11,0.346,307867.17,719,1,52,76,16,"Rua Rio Branco, 1852",Centro,0,Aval
+252.xyz.207-52,Larissa Lopes Moreira,F,38,Auxiliar administrativo,4541.91,79,0.2826,28274.05,585,1,31,8,6,"Rua São Paulo, 274",Pinheiros,1,Nenhuma
+924.xyz.738-60,Camila Ferreira Ribeiro,F,67,Aposentado,1981.59,0,0.1908,10397.14,612,0,0,37,0,"Rua dos Pinheiros, 740",Penha,0,Nenhuma
+408.xyz.061-35,Diego Alves Costa,M,42,Comerciante,3973.52,294,0.3626,49088.08,865,0,0,111,21,"Rua Primavera, 88",Tatuapé,1,Nenhuma
+594.xyz.640-61,Priscila Rodrigues Ferreira,F,18,Auxiliar administrativo,2042.47,24,0.0388,835.1,702,0,0,1,6,"Rua XV de Novembro, 1983",Butantã,0,Nenhuma
+131.xyz.397-08,Amanda Marques Nunes,F,21,Motorista,2074.27,60,0.2673,7558.71,700,0,0,32,2,"Rua das Acácias, 734",Butantã,1,Nenhuma
+964.xyz.536-77,Mariana Oliveira Oliveira,F,41,Professor,5380.13,69,0.3455,29830.38,658,2,10,7,9,"Rua Bela Vista, 328",Lapa,1,Nenhuma
+032.xyz.614-22,Aline Vieira Ribeiro,F,32,Atendente,2522.23,15,0.08,6955.68,640,1,23,37,3,"Rua da Paz, 1086",Lapa,2,Nenhuma
+412.xyz.115-09,Thiago Marques Marques,M,21,Atendente,1576.74,60,0.1378,7068.95,630,0,0,11,0,"Rua XV de Novembro, 2170",Mooca,0,Nenhuma
+221.xyz.652-19,Ricardo Oliveira Martins,M,51,Técnico em TI,6902.34,25,0.1662,15094.0,715,0,0,34,3,"Rua das Acácias, 1252",Vila Mariana,1,Nenhuma
+543.xyz.750-71,Fernando Ribeiro Ribeiro,M,50,Técnico em TI,5420.86,122,0.2722,10774.23,774,0,0,73,15,"Rua Marechal Deodoro, 1965",Vila Formosa,1,Nenhuma
+203.xyz.412-30,André Carvalho Andrade,M,22,Comerciante,2670.92,40,0.1512,11665.07,660,0,0,2,13,"Rua São Paulo, 320",Jabaquara,1,Imóvel
+540.xyz.502-04,Patrícia Moreira Ribeiro,F,43,Auxiliar administrativo,2569.89,71,0.5619,24829.58,622,1,74,65,9,"Rua Santa Luzia, 19",Mooca,2,Aval
+278.xyz.529-23,Juliana Santos Marques,F,21,Autônomo,2046.67,60,0.3718,25260.34,632,0,0,6,5,"Rua XV de Novembro, 2302",Freguesia do Ó,0,Nenhuma
+857.xyz.153-49,Vanessa Gomes Pereira,F,60,Aposentado,3220.71,0,0.2919,14402.96,729,0,0,3,9,"Rua Bela Vista, 2013",Itaquera,0,Nenhuma
+997.xyz.383-00,Ricardo Costa Marques,M,28,Gerente comercial,11497.82,102,0.2892,127957.73,805,0,0,88,15,"Rua Rio Branco, 408",Santana,0,Imóvel
+998.xyz.693-11,Camila Andrade Carvalho,F,24,Enfermeiro,6732.2,42,0.1581,16857.63,662,1,5,26,0,"Rua da Paz, 386",Santana,0,Aval
+713.xyz.707-00,Larissa Dias Gomes,F,39,Vendedor,2663.41,24,0.1395,17003.62,634,1,19,3,0,"Avenida Dom Pedro II, 603",Jabaquara,0,Nenhuma
+266.xyz.279-80,Matheus Ribeiro Rocha,M,51,Operador de produção,3258.09,71,0.1642,21802.88,733,0,0,42,12,"Rua Santos Dumont, 1020",Centro,2,Nenhuma
+806.xyz.033-02,Renata Dias Lima,F,46,Auxiliar administrativo,2919.03,18,0.2897,5080.12,626,1,14,18,3,"Rua das Acácias, 2317",Penha,1,Nenhuma
+202.xyz.254-70,Fernanda Fernandes Souza,F,25,Operador de produção,2453.18,9,0.0851,5480.82,757,0,0,56,20,"Rua Rio Branco, 1682",Vila Mariana,0,Nenhuma
+860.xyz.282-36,Diego Almeida Moreira,M,31,Analista financeiro,6309.19,160,0.4448,121673.6,796,1,11,156,5,"Rua Santos Dumont, 2298",Freguesia do Ó,1,Aval
+995.xyz.519-58,Pedro Rodrigues Fernandes,M,74,Aposentado,3030.57,0,0.393,50486.34,582,0,0,15,0,"Rua Rio Branco, 545",Pinheiros,6,Nenhuma
+281.xyz.021-68,Paulo Carvalho Moreira,M,41,Atendente,2101.07,28,0.1392,1923.31,633,1,70,18,6,"Rua do Comércio, 1952",Lapa,0,Nenhuma
+295.xyz.125-77,Vanessa Martins Dias,F,26,Vendedor,2988.14,9,0.2451,27757.3,646,0,0,17,1,"Avenida Brasil, 1299",Mooca,0,Nenhuma
+154.xyz.691-69,Gabriela Santos Lopes,F,29,Analista financeiro,7430.21,22,0.1777,14957.93,742,0,0,64,7,"Avenida Brasil, 544",Mooca,0,Veículo
+307.xyz.310-92,Tatiane Lopes Souza,F,30,Servidor público,6189.01,20,0.1596,36735.11,646,1,36,6,6,"Rua Sete de Setembro, 374",Centro,0,Nenhuma
+440.xyz.087-18,André Ribeiro Santos,M,26,Contador,6859.62,31,0.2936,15728.59,742,0,0,28,10,"Avenida Paulista, 899",Santana,2,Nenhuma
+641.xyz.636-03,Priscila Martins Vieira,F,30,Autônomo,3671.95,143,0.1273,17614.52,751,0,0,3,16,"Avenida Paulista, 1933",São Mateus,0,Nenhuma
+756.xyz.612-89,João Barbosa Marques,M,28,Atendente,2682.49,102,0.4505,9567.19,648,1,63,104,3,"Rua das Flores, 138",Lapa,1,Aplicação financeira
+847.xyz.960-00,Juliana Machado Dias,F,43,Auxiliar administrativo,2624.33,27,0.1263,5784.77,640,0,0,2,1,"Rua Sete de Setembro, 1974",Centro,1,Nenhuma
+091.xyz.610-60,Ricardo Gomes Alves,M,23,Operador de produção,2368.45,51,0.1729,17429.24,687,1,9,60,6,"Rua XV de Novembro, 1302",Santana,1,Nenhuma
+047.xyz.550-41,André Rodrigues Oliveira,M,23,Comerciante,5361.46,31,0.4606,31021.54,666,1,7,52,2,"Rua das Flores, 1990",Pinheiros,0,Nenhuma
+255.xyz.483-65,Simone Alves Dias,F,40,Desenvolvedor de software,23325.72,146,0.0799,45260.67,939,0,0,99,13,"Rua das Acácias, 922",Jabaquara,1,Veículo
+269.xyz.586-18,Larissa Pereira Barbosa,F,42,Comerciante,4968.76,124,0.1252,24321.89,711,1,22,37,0,"Avenida Brasil, 1851",Lapa,0,Nenhuma
+780.xyz.707-88,Leonardo Lima Machado,M,29,Engenheiro,8232.9,64,0.1371,29269.04,780,0,0,39,7,"Rua Marechal Deodoro, 577",Ipiranga,0,Nenhuma
+729.xyz.182-50,Lucas Souza Lima,M,38,Enfermeiro,5762.64,12,0.1054,20384.15,677,0,0,26,0,"Rua dos Pinheiros, 171",Campo Limpo,1,Nenhuma
+423.xyz.482-99,Eduardo Gomes Lopes,M,35,Operador de produção,3679.64,31,0.1676,10637.17,632,1,59,53,5,"Rua das Flores, 2000",Vila Mariana,1,Nenhuma
+698.xyz.707-59,Aline Andrade Rodrigues,F,24,Atendente,2734.36,36,0.2296,29596.98,637,1,33,3,10,"Rua do Comércio, 1650",São Mateus,0,Nenhuma
+170.xyz.966-48,Vanessa Carvalho Vieira,F,43,Auxiliar administrativo,2291.91,170,0.2631,19016.52,837,0,0,100,14,"Rua Tiradentes, 1765",Mooca,2,Nenhuma
+553.xyz.538-92,Rafael Ferreira Ferreira,M,37,Servidor público,7284.68,120,0.3058,65113.37,736,0,0,23,12,"Avenida Paulista, 1649",Penha,0,Nenhuma
+132.xyz.320-02,Diego Machado Lima,M,31,Vendedor,1746.65,26,0.0894,2056.77,768,1,15,114,23,"Rua do Comércio, 2447",Vila Mariana,1,Nenhuma
+631.xyz.069-66,Camila Nunes Santos,F,31,Operador de produção,3322.69,31,0.1089,9396.74,729,0,0,57,3,"Rua da Paz, 295",Tatuapé,1,Nenhuma
+812.xyz.805-80,Matheus Soares Martins,M,24,Engenheiro,9557.57,18,0.3672,143146.28,681,0,0,21,11,"Rua São João, 1386",Centro,0,Aval
+453.xyz.270-22,Gabriel Barbosa Fernandes,M,37,Vendedor,3611.3,8,0.2919,6386.39,656,0,0,12,34,"Rua das Flores, 890",Vila Prudente,2,Nenhuma
+251.xyz.839-97,Larissa Pereira Gomes,F,46,Operador de produção,3218.26,4,0.4752,25912.01,570,2,39,74,3,"Rua das Flores, 210",Tatuapé,1,Aval
+908.xyz.343-79,Rodrigo Nunes Alves,M,47,Auxiliar administrativo,1902.47,47,0.2557,5149.99,697,1,5,26,18,"Rua das Flores, 1001",Lapa,0,Nenhuma
+687.xyz.632-16,Carolina Lopes Carvalho,F,24,Advogado,10252.4,47,0.1389,39794.84,753,2,28,72,13,"Avenida Brasil, 790",Mooca,1,Nenhuma
+089.xyz.772-78,Carolina Fernandes Nascimento,F,23,Professor,6297.67,48,0.0253,7483.6,744,1,14,32,9,"Rua Marechal Deodoro, 2492",Pinheiros,0,Veículo
+738.xyz.696-09,Tatiane Pereira Machado,F,63,Aposentado,5696.71,0,0.6274,84419.03,516,2,25,25,22,"Rua das Flores, 999",Centro,1,Nenhuma
+375.xyz.435-63,Gabriel Barbosa Almeida,M,53,Desenvolvedor de software,14993.84,42,0.4304,47975.57,684,0,0,5,6,"Rua do Comércio, 1548",Vila Formosa,1,Nenhuma
+438.xyz.654-01,Fernando Ferreira Alves,M,51,Contador,5461.54,87,0.303,69238.53,728,0,0,33,11,"Rua dos Pinheiros, 2335",Itaquera,1,Veículo
+861.xyz.298-95,Bianca Gomes Dias,F,65,Motorista,3673.91,33,0.4147,58599.99,666,1,15,26,17,"Rua dos Pinheiros, 2433",Tatuapé,2,Nenhuma
+105.xyz.725-65,Matheus Machado Andrade,M,51,Contador,6483.19,10,0.1029,13669.61,713,0,0,12,5,"Avenida Dom Pedro II, 1273",Lapa,1,Nenhuma
+829.xyz.752-44,Gabriel Silva Santos,M,44,Autônomo,11613.18,65,0.4339,85185.64,696,2,117,70,2,"Rua XV de Novembro, 548",Lapa,1,Imóvel
+523.xyz.151-78,Vanessa Rocha Santos,F,35,Vendedor,4832.36,22,0.4061,54650.48,580,2,5,37,4,"Avenida das Nações, 578",Penha,1,Nenhuma
+560.xyz.078-06,Luciana Barbosa Soares,F,30,Operador de produção,2993.06,105,0.2451,20941.41,859,0,0,66,15,"Rua Santa Luzia, 293",Mooca,0,Nenhuma
+084.xyz.782-00,André Nascimento Vieira,M,36,Médico,13709.34,18,0.2319,137691.79,686,0,0,13,0,"Rua da Paz, 2195",Santo Amaro,2,Aplicação financeira
+812.xyz.305-14,Renata Machado Barbosa,F,32,Motorista,3929.43,27,0.2393,10762.81,628,1,88,39,7,"Rua Marechal Deodoro, 390",São Mateus,1,Nenhuma
+256.xyz.137-23,Tatiane Rocha Martins,F,39,Técnico em TI,5469.73,60,0.4494,116400.49,632,1,14,7,2,"Rua das Flores, 587",Itaquera,0,Aval
+428.xyz.345-90,Gabriel Nunes Martins,M,38,Engenheiro,5933.85,3,0.0544,12596.2,693,0,0,28,9,"Rua dos Pinheiros, 100",Butantã,1,Nenhuma
+034.xyz.926-16,Felipe Lopes Andrade,M,44,Contador,6220.01,27,0.235,34151.29,709,0,0,60,4,"Rua das Flores, 636",Vila Prudente,1,Nenhuma
+237.xyz.644-40,Mariana Santos Marques,F,25,Vendedor,2282.69,29,0.3419,22026.18,560,1,37,42,4,"Rua Bela Vista, 2438",Freguesia do Ó,0,Nenhuma
+546.xyz.115-65,Rodrigo Ribeiro Rocha,M,22,Atendente,2254.79,12,0.3014,12827.62,584,1,12,5,2,"Avenida Dom Pedro II, 221",Ipiranga,0,Nenhuma
+577.xyz.712-65,Matheus Lima Machado,M,36,Técnico em TI,6622.74,22,0.5731,61530.07,518,5,24,49,2,"Avenida Paulista, 637",Jabaquara,0,Nenhuma
+195.xyz.059-02,Patrícia Barbosa Lima,F,30,Operador de produção,3028.32,32,0.386,45954.99,690,0,0,27,17,"Rua São João, 2443",Freguesia do Ó,0,Nenhuma
+637.xyz.481-18,Eduardo Martins Gomes,M,29,Comerciante,7859.63,12,0.4662,161120.45,641,0,0,4,3,"Rua São Paulo, 382",Campo Limpo,0,Nenhuma
+622.xyz.099-62,Amanda Marques Costa,F,31,Auxiliar administrativo,2535.62,24,0.2609,17307.24,612,1,15,2,2,"Rua Santa Luzia, 1139",Santana,1,Veículo
+067.xyz.952-14,Mariana Pereira Vieira,F,49,Desenvolvedor de software,8623.65,3,0.3282,92693.65,678,0,0,18,9,"Avenida Brasil, 1510",Vila Formosa,1,Nenhuma
+943.xyz.115-17,Tatiane Nunes Fernandes,F,52,Atendente,2695.24,89,0.185,13281.1,775,0,0,19,23,"Rua XV de Novembro, 1799",Vila Formosa,3,Nenhuma
+980.xyz.486-68,Carlos Nascimento Machado,M,34,Autônomo,4949.02,47,0.1001,12557.81,658,0,0,30,2,"Rua Sete de Setembro, 370",Ipiranga,3,Nenhuma
+583.xyz.702-73,Simone Carvalho Almeida,F,30,Contador,5065.22,51,0.2783,58413.72,600,2,36,42,1,"Rua Bela Vista, 485",Centro,1,Nenhuma
+627.xyz.193-12,Fernando Alves Pereira,M,23,Enfermeiro,3060.76,11,0.0919,12155.3,743,1,9,60,14,"Rua São João, 2090",Lapa,0,Nenhuma
+454.xyz.661-07,Carolina Dias Soares,F,39,Motorista,3019.27,172,0.2751,30674.06,669,0,0,13,16,"Rua dos Pinheiros, 721",Lapa,2,Nenhuma
+032.xyz.610-23,Renata Nunes Lopes,F,26,Auxiliar administrativo,2668.44,9,0.3818,34224.95,679,0,0,11,17,"Rua Tiradentes, 2376",Pinheiros,0,Nenhuma
+055.xyz.766-13,Daniel Alves Almeida,M,30,Atendente,1798.38,116,0.2984,3868.85,709,0,0,21,1,"Avenida das Nações, 1654",Itaquera,1,Nenhuma
+454.xyz.601-14,Bianca Carvalho Alves,F,18,Operador de produção,2120.8,24,0.2991,23958.46,637,0,0,1,1,"Rua Primavera, 923",Ipiranga,0,Nenhuma
+243.xyz.842-07,Leonardo Alves Oliveira,M,60,Analista financeiro,9180.54,30,0.0968,20259.59,772,0,0,58,20,"Rua Marechal Deodoro, 1606",Freguesia do Ó,0,Aplicação financeira
+160.xyz.435-46,Ricardo Marques Rodrigues,M,29,Desenvolvedor de software,7440.08,7,0.3097,81181.21,714,0,0,88,6,"Rua Sete de Setembro, 348",Santo Amaro,1,Nenhuma
+929.xyz.468-01,Amanda Andrade Nascimento,F,74,Aposentado,3414.73,0,0.1299,12702.09,594,1,10,1,22,"Rua Sete de Setembro, 2218",Santo Amaro,2,Nenhuma
+448.xyz.775-28,Daniel Nunes Silva,M,38,Desenvolvedor de software,17421.5,24,0.2739,194978.82,669,1,55,16,3,"Rua Sete de Setembro, 404",Penha,0,Aplicação financeira
+516.xyz.020-31,Thiago Ribeiro Costa,M,29,Motorista,4384.66,82,0.1654,4611.09,734,0,0,12,18,"Avenida das Nações, 2489",Centro,1,Nenhuma
+055.xyz.111-25,Renata Barbosa Almeida,F,18,Auxiliar administrativo,1760.06,24,0.2529,3101.27,596,1,15,1,2,"Rua São João, 2212",Centro,1,Nenhuma
+874.xyz.193-86,André Machado Rodrigues,M,30,Vendedor,2294.87,67,0.3322,9182.53,708,0,0,79,1,"Rua Primavera, 885",Penha,0,Nenhuma
+433.xyz.175-74,Leonardo Souza Ferreira,M,34,Auxiliar administrativo,3414.75,85,0.2009,31222.0,722,0,0,36,0,"Rua Santa Luzia, 465",Freguesia do Ó,2,Imóvel
+155.xyz.340-51,Lucas Machado Nunes,M,51,Atendente,2621.14,11,0.3,4962.19,664,1,17,113,6,"Avenida das Nações, 339",Vila Mariana,0,Nenhuma
+015.xyz.424-32,Simone Costa Ferreira,F,18,Autônomo,2425.86,24,0.1219,5016.06,613,1,8,1,3,"Rua Tiradentes, 1989",Freguesia do Ó,0,Nenhuma
+509.xyz.175-64,Carolina Gomes Machado,F,54,Comerciante,2117.74,23,0.12,3429.61,601,1,76,21,4,"Rua Santa Luzia, 768",Vila Mariana,4,Nenhuma
+104.xyz.900-33,Ana Lopes Nascimento,F,49,Vendedor,2719.75,57,0.2761,25251.57,616,0,0,11,1,"Rua Santos Dumont, 980",Freguesia do Ó,1,Nenhuma
+712.xyz.647-75,João Carvalho Soares,M,50,Auxiliar administrativo,1772.78,39,0.4874,5331.8,623,1,4,1,12,"Avenida das Nações, 202",Itaquera,4,Nenhuma
+699.xyz.894-53,Renata Alves Rodrigues,F,22,Operador de produção,2813.07,11,0.2995,34218.27,584,0,0,21,2,"Rua Primavera, 2167",Mooca,0,Nenhuma
+259.xyz.095-22,Leonardo Ferreira Nascimento,M,35,Operador de produção,2971.56,123,0.4888,9792.62,674,0,0,19,3,"Rua da Paz, 1038",Vila Formosa,0,Nenhuma
+795.xyz.638-29,Rodrigo Gomes Lopes,M,31,Enfermeiro,4414.64,68,0.1293,20316.88,762,0,0,127,4,"Rua Rio Branco, 2193",Vila Prudente,0,Nenhuma
+234.xyz.714-78,André Fernandes Dias,M,39,Operador de produção,3488.9,6,0.0687,1460.84,733,0,0,94,1,"Rua das Acácias, 416",São Mateus,0,Nenhuma
+591.xyz.331-09,Eduardo Barbosa Lima,M,77,Aposentado,3303.37,0,0.3172,13664.91,639,1,8,1,49,"Rua do Comércio, 1341",Itaquera,2,Nenhuma
+324.xyz.855-10,Gustavo Fernandes Rodrigues,M,50,Vendedor,2928.19,39,0.5693,10365.98,571,1,38,1,9,"Rua Sete de Setembro, 1241",Centro,3,Nenhuma
+389.xyz.100-69,Anderson Alves Gomes,M,40,Médico,25145.48,30,0.3152,166141.02,732,1,10,57,3,"Avenida Paulista, 1248",Jabaquara,0,Aplicação financeira
+282.xyz.164-98,Amanda Rocha Moreira,F,29,Servidor público,9294.92,107,0.1367,40069.33,789,0,0,93,8,"Rua Santa Luzia, 722",Campo Limpo,1,Aval
+264.xyz.045-95,Fernanda Souza Santos,F,32,Auxiliar administrativo,3607.25,30,0.2771,20686.15,619,0,0,10,15,"Avenida das Nações, 1312",Vila Prudente,0,Nenhuma
+485.xyz.881-43,Gustavo Gomes Costa,M,23,Enfermeiro,6037.21,35,0.1914,8007.91,738,0,0,34,6,"Rua Tiradentes, 350",Ipiranga,0,Nenhuma
+715.xyz.302-16,Diego Andrade Nascimento,M,54,Contador,8609.87,68,0.1833,10307.79,653,0,0,28,3,"Rua Bela Vista, 2148",Penha,1,Veículo
+667.xyz.069-60,Vanessa Gomes Fernandes,F,33,Comerciante,3020.35,38,0.4007,55907.13,679,2,26,147,7,"Rua do Comércio, 2416",Lapa,0,Nenhuma
+472.xyz.491-51,Larissa Moreira Vieira,F,39,Operador de produção,3169.88,5,0.0807,9886.32,750,1,19,136,0,"Rua das Flores, 1848",Campo Limpo,0,Nenhuma
+995.xyz.021-08,Tatiane Moreira Barbosa,F,30,Desenvolvedor de software,11927.63,17,0.2211,121348.57,625,0,0,2,2,"Rua Marechal Deodoro, 1237",Lapa,1,Nenhuma
+730.xyz.672-27,Amanda Lopes Silva,F,38,Auxiliar administrativo,2845.7,122,0.1956,8370.47,731,1,91,69,26,"Avenida Brasil, 1574",Campo Limpo,3,Nenhuma
+984.xyz.280-02,Pedro Barbosa Ribeiro,M,24,Enfermeiro,6880.35,84,0.1652,29932.53,748,0,0,72,0,"Avenida Dom Pedro II, 1951",Vila Prudente,2,Nenhuma
+990.xyz.210-84,Rodrigo Martins Rocha,M,18,Operador de produção,2624.77,5,0.1419,14206.12,693,0,0,1,2,"Avenida Brasil, 1214",Pinheiros,0,Nenhuma
+483.xyz.319-94,Gabriel Machado Gomes,M,48,Motorista,3608.19,8,0.607,25531.67,555,1,8,3,4,"Rua dos Pinheiros, 934",Santana,2,Nenhuma
