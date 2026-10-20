@@ -157,7 +157,7 @@ Ao final da execução, o script imprime uma tabela comparativa neste formato:
 |--------|----------------------------------|------|
 | RF  | 13948.00 | 0.85 |
 | DP  |  9200.00 | 0.82|
-| SCR | 7085.42 | 0.31 |
+| SVR | 7085.42 | 0.31 |
 
 
 
