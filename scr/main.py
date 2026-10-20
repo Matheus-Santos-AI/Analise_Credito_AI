@@ -5,13 +5,12 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 #Caregando dados historicos de crédito
-df_historico_credito = pd.read_csv(BASE_DIR / "doc/historico_credito.csv")
-
+df_historico_credito = pd.read_csv(next(BASE_DIR.rglob("historico_credito.csv")))
 
 pd.set_option('display.max_columns', None)
 
 #Carregando dados de solicitações de creditos simulados.
-df_solicitacoes = pd.read_csv("../doc/dados_pessoa_fisica.csv")
+df_solicitacoes = pd.read_csv(next(BASE_DIR.rglob("dados_pessoa_fisica.csv")))
 
 
 #Tratando dados de CPF (removendo pontuações e espaços)
